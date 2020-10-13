@@ -1,0 +1,3 @@
+files:
+  - source: markdown/fr
+    translation: markdown/%two_letters_code%
