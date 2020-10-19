@@ -1,0 +1,29 @@
+#La course de chiens
+## Vous arrivez devant une sorte de ranch avec un panneau affichant : "Courses de chiens. Pariez sur le chien gagnant coût du pari : 25 pièces".
+Vous entrez et voyez une dame qui vous demande si vous voulez tenter un pari.
+:person_walking: s'en aller
+:speaking_head: discuter un peu
+:money_mouth: parier sur un chien
+
+:person_walking:
+1/ Vous vous en allez sans même prendre la peine de lui répondre. Après tout, la politesse, ce n'est pas votre fort.
+
+2/ Vous refusez poliment sa proposition et tentez de partir, mais elle tient à vous donner quelques pièces pour la route. (+ argent)
+
+:speaking_head:
+1/ Vous lui demandez quelles sont les règles de ces paris. Elle vous explique que vous devez choisir un chien et parier une somme de 25 pièces sur sa victoire, et vous donne quelques conseils pour choisir un chien. Temps perdu : 10 min.
+
+2/ Vous lui expliquez poliment que vous n'aimez pas les jeux de hasard et que vous ne participerez donc pas à ces paris, et continuez de discuter encore un peu. Au moment où vous alliez partir, elle vous propose de partager un repas et vous acceptez. Vie gagnée : 20. Temps perdu : 45 min.
+
+:money_mouth: 
+1/ Vous choisissez un chien au hasard et l'amenez à la dame, lui disant fièrement que pour vous, c'est sûr, c'est LE chien gagnant sur lequel vous placez vos paris. Elle appelle les autres chiens et les met en place pour la course. 3, 2, 1, GO!!! Et votre chien finit la course... A LA PREMIERE PLACE!!! Bien joué ! La dame vous donne donc vos gains. Argent gagné : 200. Temps perdu : 5 min.
+
+2/ Vous choisissez un chien au hasard et l'amenez à la dame, lui disant fièrement que pour vous, c'est sûr, c'est LE chien gagnant sur lequel vous placez vos paris. Elle appelle les autres chiens et les met en place pour la course. 3, 2, 1, GO!!! Et votre chien finit la course... A la 2eme place !!! Vous y étiez presque ! La dame vous donne donc vos gains. Argent gagné : 150. Temps perdu : 5 min.
+
+3/ Vous choisissez un chien au hasard et l'amenez à la dame, lui disant fièrement que pour vous, c'est sûr, c'est LE chien gagnant sur lequel vous placez vos paris. Elle appelle les autres chiens et les met en place pour la course. 3, 2, 1, GO!!! Et votre chien finit la course... A la troisième place ! Pas si mal ! La dame vous donne donc vos gains. Argent gagné : 100. Temps perdu : 5 min.
+
+4/ Vous choisissez un chien au hasard et l'amenez à la dame, lui disant fièrement que pour vous, c'est sûr, c'est LE chien gagnant sur lequel vous placez vos paris. Elle appelle les autres chiens et les met en place pour la course. 3, 2, 1, GO!!! Et votre chien finit la course... A la 4eme place. Pas d'argent gagné ni perdu. Temps perdu : 5 min.
+
+5/ Vous choisissez un chien au hasard et l'amenez à la dame, lui disant fièrement que pour vous, c'est sûr, c'est LE chien gagnant sur lequel vous placez vos paris. Elle appelle les autres chiens et les met en place pour la course. 3, 2, 1, GO!!! Et votre chien finit la course... A la 5eme place. vous êtes contraint de payer 25 pièces. Argent perdu : 25. Temps perdu : 5 min.
+
+PAS DE REACTION : après mûre réflexion, vous décidez finalement de vous en aller.
