@@ -1,0 +1,34 @@
+# Bagarre taverne
+
+🤜 Après avoir fait un long chemin, vous entrez dans une assez grande ville. Vous décidez alors de vous rendre dans une auberge pour vous reposer un peu. Lorsque vous y entrez, vous vous retrouvez face à deux hommes assez imposants, faisant tous les deux une tête de plus que vous. Ils semblent se disputer et sont sur le point de se battre.
+
+🙌 Tenter de les séparer.
+🍺Les ignorer et aller vers le bar.
+🚶Faire demi-tour et sortir de l'auberge.
+👊Prendre part au combat.
+💰Profiter de la situation et organiser un pari.
+
+🙌Vous vous interposez avant que les coups partent et parvenez à séparer les deux hommes. Ils vous expliquent leur problème et vous réussissez à trouver une solution qui arrange tout le monde. Pour vous remercier, l'aubergiste vous offre quelques pièces. (+200 gold)
+🙌En tentant de vous interposer, vous prenez un coup de poing de l'un des deux hommes. Vous perdez alors connaissance pendant plusieurs minutes.😖 (-10 hp)
+🙌Vous parvenez à séparer les deux hommes avec l'aide d'autres personnes qui assistaient également à la scène et pouvez à présent profiter du bar. **Vous buvez beaucoup, et finissez ivre (🤪 )**
+🙌Vous vous interposez entre les deux hommes. L'un d'eux, pris dans son élan pour frapper, assomme alors un barde en voulant vous éviter. Vous lui apportez les premiers soins et celui-ci vous remercie en vous offrant une récompense (+1 objet)
+
+🍺Vous décidez d'ignorer le conflit. En passant à côté, vous recevez en pleine tête une chaise lancée par un des deux hommes et tombez inconscient.😖 (-20 hp)
+🍺Vous ignorez totalement le conflit et tentez de contourner l'un des deux hommes. Celui-ci se retourne et vous demande pourquoi vous le regardez de travers. Vous n'avez pas le temps d'expliquer qu'il s'agit d'un malentendu, que vous vous recevez un coup de poing. (-10 hp)
+🍺Vous décidez d'ignorer le conflit. D'autres personnes interviennent pour calmer les deux hommes. Vous contournez alors la scène et commandez à boire. La boisson vous fait un bien fou : vous vous sentez en pleine forme. (+20 hp -10min)
+
+🚶Vous vous dites que la situation peut vite dégénérer, vous sortez alors de l'auberge et continuez votre route.
+🚶 Vous prenez peur et faites vite demi-tour. Pendant votre fuite, vous vous perdez dans la ville. Vous mettez alors plusieurs heures à retrouver votre chemin. (-2h)
+🚶 Vous vous dites que la situation peut vite dégénérer. Vous êtes alors sur le point de sortir de l'auberge, lorsque vous apercevez une bourse remplie d'argent sur une table. Vous la récupérez discrètement pendant que tout le monde est concentré sur les deux hommes et partez. (+200 gold)
+🚶Vous vous dites que la situation peut vite dégénérer. La ville étant assez grande, vous partez pour trouver une autre auberge à quelques mètres d'ici et y commander à boire. (+5 hp -30 min)
+
+👊Vous décidez de prendre part au combat. Vous voyez qu'un des deux hommes est beaucoup plus agressif. Vous vous associez alors avec l'autre homme pour le maîtriser. Vous y parvenez et celui-ci vous remercie en vous offrant une récompense et vous offre un verre. Vous discutez alors avec lui un moment. (+ 1 objet, -30 min)
+👊Vous décidez de prendre part au combat. Cependant les deux hommes n'apprécient pas que vous vous mêliez de leurs affaires. Ils vous passent à tabac et vous jettent hors de l'auberge. 😖 (-30 hp)
+👊Vous décidez d'intervenir. Vous vous approchez, et d'autres font de même. Le nombre de gens autour d'eux impressionne les protagonistes, et ils cessent aussitôt. La soirée reprend dans le calme général, vous sympathisez même avec l'aubergiste, et discutez pendant quelques minutes (-10 min)
+
+💰 Malheureusement, personne ne participe à votre pari. Vous vous dirigez donc vers le bar pour boire un verre. Mais la modération ne fait pas partie de vos qualités, et vous vous affalez sur la table pour dormir (-3h).
+💰Vous trouvez un grand nombre de volontaires. Le combat tourne en votre faveur et vous parvenez à faire un bénéfice assez important (+500 gold)
+💰Vous trouvez un grand nombre de participants. Malheureusement, le combat ne tourne pas en votre faveur, ce qui vous fait perdre beaucoup d'argent. (-250 gold)
+
+(end) Vous restez figé devant cette situation. L'aubergiste parvient cependant à séparer les deux hommes. Vous êtes alors soulagé que la situation n'aie pas dégénéré.
+(end) Vous restez figé et vous retrouvez au milieu de la bagarre. Vous vous prenez un coup dans l'agitation. 😖 (-10 hp)
