@@ -1,7 +1,7 @@
 {
     "translations": {
-        "fr": " : ** Pendant votre route forestière en direction de la ville, vous croisez une grande tente, avec un marchand accueillant se tenant devant, vous invitant à venir acheter ses produits.\n:white_check_mark: Entrer dans la tente\n:x: Ne pas entrer dans la tente\n\n*- Utilisez les réactions pour effectuer une action :warning: Ne pas répondre est considéré comme un choix à part !*",
-        "en": " : ** While your forest trip towards the town, you cross a marquee, with a welcoming shopkeeper standing still ahead, calling upon you to come in buy his products.\n:white_check_mark: Enter in the tent\n:x: Do not enter in the tent\n\n*-Use the reactions to take an action. :warning: Not reacting is also considered a choice!*"
+        "fr": " : ** :camping: Pendant votre route forestière en direction de la ville, vous croisez une grande tente, avec un marchand accueillant se tenant devant, vous invitant à venir acheter ses produits.\n:white_check_mark: Entrer dans la tente\n:x: Ne pas entrer dans la tente\n\n*- Utilisez les réactions pour effectuer une action :warning: Ne pas répondre est considéré comme un choix à part !*",
+        "en": " : ** :camping: While your forest trip towards the town, you cross a marquee, with a welcoming shopkeeper standing still ahead, calling upon you to come in buy his products.\n:white_check_mark: Enter in the tent\n:x: Do not enter in the tent\n\n*-Use the reactions to take an action. :warning: Not reacting is also considered a choice!*"
     },
     "possibilities": {
         "✅": [
@@ -98,8 +98,8 @@
             },
             {
                 "translations": {
-                    "fr": "** | 🚶‍♀️ Continuant à marcher tout droit, vous ignorez les paroles du marchand, dérouté. Vous continuez cependant votre route sans embuches.",
-                    "en": "** | 🚶‍♀️ Continuing to walk straight, you ignore the shopkeeper's words, confused. You however continue your journey without pitfalls."
+                    "fr": "** | 🚶 Continuant à marcher tout droit, vous ignorez les paroles du marchand, dérouté. Vous continuez cependant votre route sans embuches.",
+                    "en": "** | 🚶 Continuing to walk straight, you ignore the shopkeeper's words, confused. You however continue your journey without pitfalls."
                 },
                 "lostTime": 0,
                 "health": 0,
