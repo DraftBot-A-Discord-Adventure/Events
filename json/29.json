@@ -1,0 +1,125 @@
+{
+    "translations": {
+        "fr": " : ** Pendant votre route forestière en direction de la ville, vous croisez une grande tente, avec un marchand accueillant se tenant devant, vous invitant à venir acheter ses produits.\n:white_check_mark: Entrer dans la tente\n:x: Ne pas entrer dans la tente\n\n*- Utilisez les réactions pour effectuer une action :warning: Ne pas répondre est considéré comme un choix à part !*",
+        "en": " : ** While your forest trip towards the town, you cross a marquee, with a welcoming shopkeeper standing still ahead, calling upon you to come in buy his products.\n:white_check_mark: Enter in the tent\n:x: Do not enter in the tent\n\n*-Use the reactions to take an action. :warning: Not reacting is also considered a choice!*"
+    },
+    "possibilities": {
+        "✅": [
+            {
+                "translations": {
+                    "fr": "** | ✅ Après être entré dans la tente, le marchand à l'entrée ferme celle-ci, vous laissant avec ses 3 collègues, moins accueillants. Ceux-ci vous demandent une certaine somme afin de vous laisser repartir. Ne voulant pas d'histoires ou de coups, vous les payez. Vous repartez, plus pauvre qu'avant.",
+                    "en": "** | ✅ After entering in the tent, the shopkeeper at the entrance closes the opening, leaving you with his 3 fellows, less welcoming. They ask you a certain amount before allwogin you to go. Not wanting fuss or beatings, you pay them. You go on, poorier than before."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": -200,
+                "item": false
+            },
+            {
+                "translations": {
+                    "fr": "** | ✅ Sur la table de la tente, vous remarquez quelques objets semblant intéressant. L'un de ces objets vous attire plus que les autres, vous demandez à vouloir l'acheter. Le marchand vous propose un prix attirant, que vous accepter sur le champ. Content de votre affaire, vous continuez votre route.",
+                    "en": "** | ✅ On the tent's table, you notice some interessant looking items. One of them appeal you more than the others, you wonder to buy it. The shopkeeper proposes you an interesting price, which you accept immediately. Glad of your deal, you continue your trip."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 475,
+                "money": -50,
+                "item": true
+            },
+            {
+                "translations": {
+                    "fr": "** | ✅ En entrant dans la tente, vous vous rendez compte qu'il y fait sombre. Vous vous y enfoncez et voyez une personne assise à une table, celle-ci vous y attend afin de pouvoir discuter avec vous.",
+                    "en": "** | ✅ While coming in the marquee, you realize that it is dark. You sink in it and see a man sat at the table, he's waiting in order to discuss with you."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 10047
+            }
+        ],
+        "❌": [
+            {
+                "translations": {
+                    "fr": "** | ❌ Vous refusez gentiment la proposition du marchand, et vous continuez votre route, pressé d'arriver à la nouvelle ville.",
+                    "en": "** | ❌ You kindly refuse the shopkeeper's offer, and continue your way, exited to arrive at the next town."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false
+            },
+            {
+                "translations": {
+                    "fr": "** | ❌ Voulant vous faire entrer à l'intérieur de la tente, l'homme vous tire par le bras et vous assomme. :head_bandage:",
+                    "en": "** | ❌ Wanting to let you inside the tent, the man pulls your arm and stuns you. :head_bandage:"
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":head_bandage:",
+                "experience": 0
+                "money": 0,
+                "item": false
+                "nextEvent": 10047
+            },
+                        {
+                "translations": {
+                    "fr": "** | ❌ Voulant vous faire entrer à l'intérieur de la tente, l'homme vous tire par le bras et vous enferme dans la tente. A l'intérieur, 3 marchands cherchaient à vous vendre des babioles sans importance. Afin que vous puissiez repartir vite, vous achetez un de leurs objets à la hâte. Content d'avoir fait affaire avec vous, ceux-ci vous rouvrent la tente, et vous laissent partir.",
+                    "en": "** | ❌ Wanting to let you inside the tent, the man pulls your arm and locks you up in the marquee. Inside it, 3 merchants were trying to sell you petty gewgaws. In order to go quickly, you hastily buy one of their items. Glad that they made a deal with you, they reopen the tent, and let you go."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 475,
+                "money": -250,
+                "item": true
+            }
+        ],
+        "end": [
+            {
+                "translations": {
+                    "fr": "** | ☠️ Son discours vous envoûte au point de ne pas réagir. Vous vous laissez trainer dans la tente. 3 marchands à l'intérieur vous expliquent qu'ils sont des marchands noirs, vendant des organes et des greffes aux pauvres de la capitale. Ceux-ci vous sautent ensuite dessus, sans que vous ne puissiez réagir, et vous désossent afin de récupérer vos organes vitaux. Vous mourrez sur place, sentant le trou béant de votre torse vidé de ses reins, foie, et autres sources d'argent présent en vous. :skull:",
+                    "en": "** | ☠️ His speech voodoo you at a point at which you didn't react. You let yourself get drag into the tent. Inside, 3 merchants explain you that they're black dealers, selling organs and transplants to poor from the capital. Then, they jump on you, without you being able to react, and bone you to collect your vital organs. You die there, feeling the gaping hole inside your chest emptied of their kidneys, liver, and other money springs in you. :skull:"
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 0,
+                "money": -300,
+                "item": false,
+                "oneshot": true
+            },
+            {
+                "translations": {
+                    "fr": "** | 🚶‍♀️ Continuant à marcher tout droit, vous ignorez les paroles du marchand, dérouté. Vous continuez cependant votre route sans embuches.",
+                    "en": "** | 🚶‍♀️ Continuing to walk straight, you ignore the shopkeeper's words, confused. You however continue your journey without pitfalls."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false
+            }
+            {
+                "translations": {
+                    "fr": "** | 🤷 Vos pas plus attirés par la tente que la route, vous entrez dans la tente. Les 3 marchands à l'intérieur vous expliquent que leur chef est mort récemment par des loups plus loin et qu'ils cherchent quelqu'un pour hériter des biens surabondants. Votre main glisse bizarrement dans la direction de la feuille de signature, marquant que vous devenez l'héritier d'un nouvel objet et de beaucoup d'argent. Enfin débarrassés, les marchands replient la tente, et vous continuez votre route, heureux du hasard que vous avez eu.",
+                    "en": "** | 🤷 Your steps more attracted by the tent than the road, you go in the marquee. The 3 merchants inside explain you that their chief is dead recently by wolves further and they're looking for someone to inherit of their superabundant goods. Your hand slide weirdly in the direction of the signature's sheet, marking that you become the heir of a new item and lots of money. Finally cleared, the sellers fold up the tent, and you continue your way, happy of the luck you've gotten."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 575,
+                "money": 5500,
+                "item": true
+            }
+        ]
+    }
+}
