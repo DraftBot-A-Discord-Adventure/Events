@@ -1,0 +1,592 @@
+{
+    "translations": {
+        "fr": " : ** :articulated_lorry: Après de plus amples explications des marchands, ceux-ci vous demandent de choisir leur prochain arrêt, car ils ne connaissent que très peu la région. Ceux-ci vous embarquent évidemment, pour vous faciliter la route. Vous décidez donc de choisir un endroit :\n:evergreen_tree: Forestier\n:mountain_snow: Montagnard\n:homes: Urbain\n:woman_farmer: Campagnard\n:sweat_drops: Humide\n\n*- Utilisez les réactions pour effectuer une action :warning: Ne pas répondre est considéré comme un choix à part !*",
+        "en": " : ** :articulated_lorry: After further explanations from the merchants, they ask you to choose their next stop, because they don't know well the region. They ask you to load in obviously, to ease you the road. You decide so to choose a .... place :\n:evergreen_tree: Forest\n:mountain_snow: Mountain\n:homes: Urban\n:woman_farmer: Campaign\n:sweat_drops: Wet\n\n*-Use the reactions to take an action. :warning: Not reacting is also considered a choice!*"
+    },
+    "possibilities": {
+        "🌲": [
+            {
+                "translations": {
+                    "fr": "** | 🌲 Le marchand vous transporte dans sa charrette vers un endroit Forestier.",
+                    "en": "** | 🌲 The shopkeeper transports you in his cart towards a forest area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 1
+            },
+            {
+                "translations": {
+                    "fr": "** | 🌲 Le marchand vous transporte dans sa charrette vers un endroit Forestier.",
+                    "en": "** | 🌲 The shopkeeper transports you in his cart towards a forest area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 11
+            },
+            {
+                "translations": {
+                    "fr": "** | 🌲 Le marchand vous transporte dans sa charrette vers un endroit Forestier.",
+                    "en": "** | 🌲 The shopkeeper transports you in his cart towards a forest area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 17
+            },
+            {
+                "translations": {
+                    "fr": "** | 🌲 Le marchand vous transporte dans sa charrette vers un endroit Forestier.",
+                    "en": "** | 🌲 The shopkeeper transports you in his cart towards a forest area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 23
+            },
+            {
+                "translations": {
+                    "fr": "** | 🌲 Le marchand vous transporte dans sa charrette vers un endroit Forestier.",
+                    "en": "** | 🌲 The shopkeeper transports you in his cart towards a forest area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 31
+            },
+            {
+                "translations": {
+                    "fr": "** | 🌲 Le marchand vous transporte dans sa charrette vers un endroit Forestier.",
+                    "en": "** | 🌲 The shopkeeper transports you in his cart towards a forest area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 32
+            },
+            {
+                "translations": {
+                    "fr": "** | 🌲 Le marchand vous transporte dans sa charrette vers un endroit Forestier.",
+                    "en": "** | 🌲 The shopkeeper transports you in his cart towards a forest area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 40
+            }
+        ],
+        "🏔️": [
+            {
+                "translations": {
+                    "fr": "** | 🏔️ Le marchand vous transporte dans sa charrette vers un endroit Montagnard.",
+                    "en": "** | 🏔️ The shopkeeper transports you in his cart towards a mountain area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 2
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏔️ Le marchand vous transporte dans sa charrette vers un endroit Montagnard.",
+                    "en": "** | 🏔️ The shopkeeper transports you in his cart towards a mountain area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 8
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏔️ Le marchand vous transporte dans sa charrette vers un endroit Montagnard.",
+                    "en": "** | 🏔️ The shopkeeper transports you in his cart towards a mountain area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 12
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏔️ Le marchand vous transporte dans sa charrette vers un endroit Montagnard.",
+                    "en": "** | 🏔️ The shopkeeper transports you in his cart towards a mountain area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 19
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏔️ Le marchand vous transporte dans sa charrette vers un endroit Montagnard.",
+                    "en": "** | 🏔️ The shopkeeper transports you in his cart towards a mountain area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 21
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏔️ Le marchand vous transporte dans sa charrette vers un endroit Montagnard.",
+                    "en": "** | 🏔️ The shopkeeper transports you in his cart towards a mountain area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 24
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏔️ Le marchand vous transporte dans sa charrette vers un endroit Montagnard.",
+                    "en": "** | 🏔️ The shopkeeper transports you in his cart towards a mountain area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 38
+            }
+        ],
+        "🏘️": [
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 13
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 15
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 18
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 20
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 26
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 27
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 34
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 36
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 39
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 41
+            },
+            {
+                "translations": {
+                    "fr": "** | 🏘️ Le marchand vous transporte dans sa charrette vers un endroit Urbain.",
+                    "en": "** | 🏘️ The shopkeeper transports you in his cart towards an urban area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 45
+            }
+        ],
+        "👩‍🌾": [
+            {
+                "translations": {
+                    "fr": "** | 👩‍🌾 Le marchand vous transporte dans sa charrette vers un endroit Campagnard.",
+                    "en": "** | 👩‍🌾 The shopkeeper transports you in his cart towards a campaign area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 7
+            },
+            {
+                "translations": {
+                    "fr": "** | 👩‍🌾 Le marchand vous transporte dans sa charrette vers un endroit Campagnard.",
+                    "en": "** | 👩‍🌾 The shopkeeper transports you in his cart towards a campaign area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 9
+            },
+            {
+                "translations": {
+                    "fr": "** | 👩‍🌾 Le marchand vous transporte dans sa charrette vers un endroit Campagnard.",
+                    "en": "** | 👩‍🌾 The shopkeeper transports you in his cart towards a campaign area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 14
+            },
+            {
+                "translations": {
+                    "fr": "** | 👩‍🌾 Le marchand vous transporte dans sa charrette vers un endroit Campagnard.",
+                    "en": "** | 👩‍🌾 The shopkeeper transports you in his cart towards a campaign area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 22
+            },
+            {
+                "translations": {
+                    "fr": "** | 👩‍🌾 Le marchand vous transporte dans sa charrette vers un endroit Campagnard.",
+                    "en": "** | 👩‍🌾 The shopkeeper transports you in his cart towards a campaign area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 30
+            },
+            {
+                "translations": {
+                    "fr": "** | 👩‍🌾 Le marchand vous transporte dans sa charrette vers un endroit Campagnard.",
+                    "en": "** | 👩‍🌾 The shopkeeper transports you in his cart towards a campaign area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 32
+            }
+        ],
+        "💦": [
+            {
+                "translations": {
+                    "fr": "** | 💦 Le marchand vous transporte dans sa charrette vers un endroit Humide.",
+                    "en": "** | 💦 The shopkeeper transports you in his cart towards a wet area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 6
+            },
+            {
+                "translations": {
+                    "fr": "** | 💦 Le marchand vous transporte dans sa charrette vers un endroit Humide.",
+                    "en": "** | 💦 The shopkeeper transports you in his cart towards a wet area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 16
+            },
+            {
+                "translations": {
+                    "fr": "** | 💦 Le marchand vous transporte dans sa charrette vers un endroit Humide.",
+                    "en": "** | 💦 The shopkeeper transports you in his cart towards a wet area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 29
+            },
+            {
+                "translations": {
+                    "fr": "** | 💦 Le marchand vous transporte dans sa charrette vers un endroit Humide.",
+                    "en": "** | 💦 The shopkeeper transports you in his cart towards a wet area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 35
+            },
+            {
+                "translations": {
+                    "fr": "** | 💦 Le marchand vous transporte dans sa charrette vers un endroit Humide.",
+                    "en": "** | 💦 The shopkeeper transports you in his cart towards a wet area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 42
+            },
+            {
+                "translations": {
+                    "fr": "** | 💦 Le marchand vous transporte dans sa charrette vers un endroit Humide.",
+                    "en": "** | 💦 The shopkeeper transports you in his cart towards a wet area."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 44
+            }
+        ],
+        "end": [
+            {
+                "translations": {
+                    "fr": "** | 🥴 N'ayant pas répondu, le marchand vous transporte dans sa charrette vers un endroit plus accessible que vous, afin de vous faire réagir un peu plus.",
+                    "en": "** | 🥴 Having not answered, the shopkeeper transports you in his cart towards a place more accessible than you, in order to make you react a bit more."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 3
+            },
+            {
+                "translations": {
+                    "fr": "** | 🥴 N'ayant pas répondu, le marchand vous transporte dans sa charrette vers un endroit plus accessible que vous, afin de vous faire réagir un peu plus.",
+                    "en": "** | 🥴 Having not answered, the shopkeeper transports you in his cart towards a place more accessible than you, in order to make you react a bit more."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 4
+            },
+            {
+                "translations": {
+                    "fr": "** | 🥴 N'ayant pas répondu, le marchand vous transporte dans sa charrette vers un endroit plus accessible que vous, afin de vous faire réagir un peu plus.",
+                    "en": "** | 🥴 Having not answered, the shopkeeper transports you in his cart towards a place more accessible than you, in order to make you react a bit more."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 5
+            },
+            {
+                "translations": {
+                    "fr": "** | 🥴 N'ayant pas répondu, le marchand vous transporte dans sa charrette vers un endroit plus accessible que vous, afin de vous faire réagir un peu plus.",
+                    "en": "** | 🥴 Having not answered, the shopkeeper transports you in his cart towards a place more accessible than you, in order to make you react a bit more."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 25
+            },
+            {
+                "translations": {
+                    "fr": "** | 🥴 N'ayant pas répondu, le marchand vous transporte dans sa charrette vers un endroit plus accessible que vous, afin de vous faire réagir un peu plus.",
+                    "en": "** | 🥴 Having not answered, the shopkeeper transports you in his cart towards a place more accessible than you, in order to make you react a bit more."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 28
+            },
+            {
+                "translations": {
+                    "fr": "** | 🥴 N'ayant pas répondu, le marchand vous transporte dans sa charrette vers un endroit plus accessible que vous, afin de vous faire réagir un peu plus.",
+                    "en": "** | 🥴 Having not answered, the shopkeeper transports you in his cart towards a place more accessible than you, in order to make you react a bit more."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 37
+            },
+            {
+                "translations": {
+                    "fr": "** | 🥴 N'ayant pas répondu, le marchand vous transporte dans sa charrette vers un endroit plus accessible que vous, afin de vous faire réagir un peu plus.",
+                    "en": "** | 🥴 Having not answered, the shopkeeper transports you in his cart towards a place more accessible than you, in order to make you react a bit more."
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 150,
+                "money": 0,
+                "item": false,
+                "nextEvent": 43
+            }
+        ]
+    }
+}
