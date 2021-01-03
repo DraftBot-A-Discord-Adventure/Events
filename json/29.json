@@ -40,7 +40,7 @@
                 "experience": 150,
                 "money": 0,
                 "item": false,
-                "nextEvent": 10047
+                "nextEvent": 10049
             }
         ],
         "❌": [
@@ -64,10 +64,10 @@
                 "lostTime": 0,
                 "health": 0,
                 "effect": ":head_bandage:",
-                "experience": 0
+                "experience": 0,
                 "money": 0,
-                "item": false
-                "nextEvent": 10047
+                "item": false,
+                "nextEvent": 10049
             },
                         {
                 "translations": {
