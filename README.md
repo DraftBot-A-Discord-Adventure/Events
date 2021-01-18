@@ -1,2 +1,2 @@
 # Events
-Events for a Discord adventure bot that speak english and french 
+Events for a Discord adventure bot that speaks english and french 
