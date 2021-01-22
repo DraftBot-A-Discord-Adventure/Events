@@ -145,8 +145,8 @@
 				},
 				"lostTime": 0,
 				"health": -60,
-				"effect": ":bandage:",
-				"experience": 150,
+				"effect": ":head_bandage:",
+				"experience": 0,
 				"money": 0,
 				"item": false
 			}
@@ -154,20 +154,20 @@
 		"🚶": [
 			{
 				"translations": {
-					"fr": "** | ",
-					"en": "** | ",
+					"fr": "** | Vous décidez de ne pas vous engager dans cette folie et repartez au plus vite. Malheureusement vous croisez un garde avide de richesse sur votre chemin qui vous demande de vous arrêter. Il vous donne un coup avant de vous immobiliser et vous dérobe tout ce qui l'intéresse.",
+					"en": "** | You decide to don't take part in this madness and go as fast as you can. Sadly on your way you met a money avid guard that asked you to stop. He hit you before immobilizing you and stealing you everything interesting.",
 				},
 				"lostTime": 0,
-				"health": 0,
+				"health": -4,
 				"effect": ":smiley:",
-				"experience": 150,
-				"money": 0,
+				"experience": 0,
+				"money": -300,
 				"item": false
 			},
 			{
 				"translations": {
-					"fr": "** | ",
-					"en": "** | ",
+					"fr": "** | Vous ne voulez pas risquer votre vie et déclinez l'offre. Vous partez en remerciant les villageois de vous avoir accueilli.",
+					"en": "** | No wating to risk your life. you decline the offer. You leave thanking the villager for having gived you a warm welcome.",
 				},
 				"lostTime": 0,
 				"health": 0,
@@ -178,38 +178,38 @@
                         },
 			{
 				"translations": {
-					"fr": "** | ",
-					"en": "** | ",
+					"fr": "** | Vous déclarez que vous êtes épuisé, ils vous trouvent un logement et vous vous reposez. Vous profitez de la nuit pour fuir le village.",
+					"en": "** | You annouce that you are tired, and they find you a place to have some rest. You take advantage of the night to get away of the village.",
 				},
 				"lostTime": 0,
-				"health": 0,
+				"health": 10,
 				"effect": ":smiley:",
-				"experience": 150,
+				"experience": 350,
 				"money": 0,
 				"item": false
 			},
 			{
 				"translations": {
-					"fr": "** | ",
-					"en": "** | ",
+					"fr": "** | Vous leur dites que vous ne pouvez pas combattre le dirigeant car vous êtes épuisé. Ils acceptent de vous offrir un logement et vous vous reposez. Vous décidez de les voler pendant la nuit et emportez un objet, puis vous fuyez aussi vite que vous le pouvez.",
+					"en": "** | You tell them that you can't fight the leader because you are too tired. They get you a place to sleep. During the night you decide to steal them, and you then run as fast as you can.",
 				},
 				"lostTime": 0,
 				"health": 0,
 				"effect": ":smiley:",
-				"experience": 150,
+				"experience": 450,
 				"money": 0,
-				"item": false
+				"item": true
                         },
 			{
 				"translations": {
-					"fr": "** | ",
-					"en": "** | ",
+					"fr": "** | Vous dites aux villageois que vous êtes épuisé et leur demandez de vous laisser une nuit pour vous préparer. Ils acceptent et lorsque la nuit tombe, vous rassemblez vos affaires et fuyez le village. Dans votre précipitation vous faites tomber une partie de votre bourse.",
+					"en": "** | You tell the villagers that you are tired, and that you need a night in order to get ready. They accept, and once the night has fallen you get all your stuff and run. In the rush you didn't realised you had lost your wallet.",
 				},
 				"lostTime": 0,
 				"health": 0,
 				"effect": ":smiley:",
 				"experience": 150,
-				"money": 0,
+				"money": -250,
 				"item": false
 			}
 		],
@@ -241,6 +241,3 @@
 		]
 	}
 }
-
-
-WIP Ne pas toucher (le pourfendeur s'en charge x) )
