@@ -44,7 +44,7 @@
 			{
 				"translations": {
 					"fr": "** | ⚔️ Vous allez voir le dirigeant et lui faîtes croire que vous possédez une armée, et qu'ensemble vous pourriez certainement accomplir de grandes choses. Vous lui annoncez aussi que son village compte organiser une rébellion. Après avoir longuement discuté, vous réussissez à gagner sa confiance et lorsque vous pouvez enfin l'approcher, vous en profitez pour lui enfoncer une dague dans le cœur. Les gardes réagissent immédiatement et vous entourent. L’un d’entre eux vous donne un coup d'épée que vous parvenez à esquiver mais un autre garde se précipite sur vous et vous transperce de sa lame. :skull:",
-					"en": "** | ⚔️ You go see the ruler and lie to him, saying that you have an entire army, and that together you could do great things. You also tell him that his village is about to organise a rebellion. After having speaked for a while, he now trusts you, and when you can finally approach him, you get a knife into his heart. The guards immediatly attacks you, one of them try to hit you with his sword, and you dodge it, but an other one charges you, and pierces you with his blade.",
+					"en": "** | ⚔️ You go see the ruler and lie to him, saying that you have an entire army, and that together you could do great things. You also tell him that his village is about to organise a rebellion. After having speaked for a while, he now trusts you, and when you can finally approach him, you get a knife into his heart. The guards immediatly attacks you, one of them try to hit you with his sword, and you dodge it, but an other one charges you, and pierces you with his blade. :skull:",
 				},
 				"lostTime": 0,
 				"health": 0,
@@ -92,8 +92,8 @@
 		"🗣️": [
 			{
 				"translations": {
-					"fr": "** | Vous allez voir le dirigeant, lui parlez de la demande du villageois et l'aidez à le retrouver. Le dirigeant vous remercie après que vous l'ayez retrouvé et vous repartez.",
-					"en": "** | You go see the tyrant, and inform him about the request of the villager. You help him finding the villager, and he thank you after finding him.",
+					"fr": "** | 🗣️ Vous allez voir le dirigeant, lui parlez de la demande du villageois et l'aidez à le retrouver. Le dirigeant vous remercie après que vous l'ayez retrouvé et vous repartez.",
+					"en": "** | 🗣️ You go see the tyrant, and inform him about the request of the villager. You help him finding the villager, and he thank you after finding him.",
 				},
 				"lostTime": 0,
 				"health": 0,
@@ -104,20 +104,20 @@
 			},
 			{
 				"translations": {
-					"fr": "** | Vous allez voir le dirigeant et lui dîtes qu’il y a un traître, vous lui annoncez que vous êtes prêt à le lui remettre en échange d’une importante somme d'argent. Il accepte votre offre et vous donne l'argent. Vous le conduisez jusqu'au traître et il l'exécute sous vos yeux. Sur la route vous vérifiez la bourse qu'il vous a donné et vous vous rendez compte qu'elle ne contient que peu de pièces !",
-					"en": "** | You go see the ruler, and inform him of the presence of a traitor in the village, and that you are ready to find him in exchange of some money. He accepts your deal. You get him to the villager, and he kills him in front of you. He thank you, and give you a wallet. You go, and when checking the wallet, you realize that it only contain a few money.",
+					"fr": "** | 🗣️ Vous allez voir le dirigeant et lui dîtes qu’il y a un traître, vous lui annoncez que vous êtes prêt à le lui remettre en échange d’une importante somme d'argent. Il accepte votre offre et vous donne l'argent. Vous le conduisez jusqu'au traître et il l'exécute sous vos yeux. Sur la route vous vérifiez la bourse qu'il vous a donné et vous vous rendez compte qu'elle ne contient que peu de pièces !",
+					"en": "** | 🗣️ You go see the ruler, and inform him of the presence of a traitor in the village, and that you are ready to find him in exchange of some money. He accepts your deal. You get him to the villager, and he kills him in front of you. He thank you, and give you a wallet. You go, and when checking the wallet, you realize that it only contain a few money.",
 				},
 				"lostTime": 0,
 				"health": 0,
 				"effect": ":smiley:",
-				"experience": 250,
+				"experience": 550,
 				"money": 300,
 				"item": true
-                        },
+			},
 			{
 				"translations": {
-					"fr": "** | Vous allez voir le dirigeant, lui parlez de la demande du villageois et lui expliquez que vous pouvez l'aider à retrouver le rebelle mais qu'en échange vous voulez une belle somme d'argent. Il accepte et vous demande de l'aider à le retrouver. Ensemble vous y parvenez et lorsque vous demandez l'argent au dirigeant, celui-ci vous répond qu'il ne vous donnera rien. Vous commencez à vous énerver et le menacez pour qu'il vous donne l'argent qu'il vous avait promis. Il vous donne donc quelques pièces et vous sentant provoqué, vous dégainez votre arme mais le dirigeant, ayant de bons réflexes, vous désarme aussitôt et vous laisse planté là. Vous repartez avec cette maigre somme.",
-					"en": "** | You go see the local leader in order to inform him about the villagers request, and that you can help him find this villager in exchange of some money. He accepts you offer, and you together find the man. When you ask for your money, he says that he won't give you anything. You begin to be angry, and threaten him in order to get your request. He finally gives you some pieces. Feeling provokes you take you sword out, but having good reflex, he instantly unarm you, and leave you alone. You then go with this small reward.",
+					"fr": "** | 🗣️ Vous allez voir le dirigeant, lui parlez de la demande du villageois et lui expliquez que vous pouvez l'aider à retrouver le rebelle mais qu'en échange vous voulez une belle somme d'argent. Il accepte et vous demande de l'aider à le retrouver. Ensemble vous y parvenez et lorsque vous demandez l'argent au dirigeant, celui-ci vous répond qu'il ne vous donnera rien. Vous commencez à vous énerver et le menacez pour qu'il vous donne l'argent qu'il vous avait promis. Il vous donne donc quelques pièces et vous sentant provoqué, vous dégainez votre arme mais le dirigeant, ayant de bons réflexes, vous désarme aussitôt et vous laisse planté là. Vous repartez avec cette maigre somme.",
+					"en": "** | 🗣️ You go see the local leader in order to inform him about the villagers request, and that you can help him find this villager in exchange of some money. He accepts you offer, and you together find the man. When you ask for your money, he says that he won't give you anything. You begin to be angry, and threaten him in order to get your request. He finally gives you some pieces. Feeling provokes you take you sword out, but having good reflex, he instantly unarm you, and leave you alone. You then go with this small reward.",
 				},
 				"lostTime": 0,
 				"health": 0,
@@ -125,11 +125,11 @@
 				"experience": 250,
 				"money": 100,
 				"item": false
-                        },
+			},
 			{
 				"translations": {
-					"fr": "** | Vous allez voir le dirigeant, mais les gardes ne vous laissent pas passer. Vous leur faites savoir que c'est important mais ils ne veulent rien entendre, ils vous menacent et vous repartez en poussant un juron, impuissant.",
-					"en": "** | You go see the leader, but the guards doesn't let you in. You inform them that it is really important, but they still kept their decision, and threatened you. You told them a curse and finally go, powerless.",
+					"fr": "** | 🗣️ Vous allez voir le dirigeant, mais les gardes ne vous laissent pas passer. Vous leur faites savoir que c'est important mais ils ne veulent rien entendre, ils vous menacent et vous repartez en poussant un juron, impuissant.",
+					"en": "** | 🗣️ You go see the leader, but the guards doesn't let you in. You inform them that it is really important, but they still kept their decision, and threatened you. You told them a curse and finally go, powerless.",
 				},
 				"lostTime": 0,
 				"health": 0,
@@ -137,11 +137,11 @@
 				"experience": 150,
 				"money": 0,
 				"item": false
-                        },
+			},
 			{
 				"translations": {
-					"fr": "** | Vous décidez de répéter au dirigeant ce que vous avez entendu, mais sur votre route vous croisez un villageois qui semble avoir deviné votre intention de trahir le village. Vous lui demandez de vous laisser passer, mais celui-ci refuse et les villageois vous encerclent. Ils vous mettent à terre et vous frappent, mais vous parvenez à vous relever. Vous sortez du village en courant, mais une fois sorti, vous tombez à terre à cause de vos blessures.",
-					"en": "** | You decide to inform the leader about what you have heard, but on your way you meet an other villager that guessed your intention of betraying the village. You ask them to let your cross your way, but other villagers arrive, and circle you. They set you on the ground and hit you, but you get up, and ran out of the village. Once out of danger, you fall on the ground because of your injuries.",
+					"fr": "** | 🗣️ Vous décidez de répéter au dirigeant ce que vous avez entendu, mais sur votre route vous croisez un villageois qui semble avoir deviné votre intention de trahir le village. Vous lui demandez de vous laisser passer, mais celui-ci refuse et les villageois vous encerclent. Ils vous mettent à terre et vous frappent, mais vous parvenez à vous relever. Vous sortez du village en courant, mais une fois sorti, vous tombez à terre à cause de vos blessures.",
+					"en": "** | 🗣️ You decide to inform the leader about what you have heard, but on your way you meet an other villager that guessed your intention of betraying the village. You ask them to let your cross your way, but other villagers arrive, and circle you. They set you on the ground and hit you, but you get up, and ran out of the village. Once out of danger, you fall on the ground because of your injuries.",
 				},
 				"lostTime": 0,
 				"health": -60,
@@ -154,8 +154,8 @@
 		"🚶": [
 			{
 				"translations": {
-					"fr": "** | Vous décidez de ne pas vous engager dans cette folie et repartez au plus vite. Malheureusement vous croisez un garde avide de richesse sur votre chemin qui vous demande de vous arrêter. Il vous donne un coup avant de vous immobiliser et vous dérobe tout ce qui l'intéresse.",
-					"en": "** | You decide to don't take part in this madness and go as fast as you can. Sadly on your way you met a money avid guard that asked you to stop. He hit you before immobilizing you and stealing you everything interesting.",
+					"fr": "** | 🚶 Vous décidez de ne pas vous engager dans cette folie et repartez au plus vite. Malheureusement vous croisez un garde avide de richesse sur votre chemin qui vous demande de vous arrêter. Il vous donne un coup avant de vous immobiliser et vous dérobe tout ce qui l'intéresse.",
+					"en": "** | 🚶 You decide to don't take part in this madness and go as fast as you can. Sadly on your way you met a money avid guard that asked you to stop. He hit you before immobilizing you and stealing you everything interesting.",
 				},
 				"lostTime": 0,
 				"health": -4,
@@ -166,8 +166,8 @@
 			},
 			{
 				"translations": {
-					"fr": "** | Vous ne voulez pas risquer votre vie et déclinez l'offre. Vous partez en remerciant les villageois de vous avoir accueilli.",
-					"en": "** | No wating to risk your life. you decline the offer. You leave thanking the villager for having gived you a warm welcome.",
+					"fr": "** | 🚶 Vous ne voulez pas risquer votre vie et déclinez l'offre. Vous partez en remerciant les villageois de vous avoir accueilli.",
+					"en": "** | 🚶 No wating to risk your life. you decline the offer. You leave thanking the villager for having gived you a warm welcome.",
 				},
 				"lostTime": 0,
 				"health": 0,
@@ -175,11 +175,11 @@
 				"experience": 150,
 				"money": 0,
 				"item": false
-                        },
+			},
 			{
 				"translations": {
-					"fr": "** | Vous déclarez que vous êtes épuisé, ils vous trouvent un logement et vous vous reposez. Vous profitez de la nuit pour fuir le village.",
-					"en": "** | You annouce that you are tired, and they find you a place to have some rest. You take advantage of the night to get away of the village.",
+					"fr": "** | 🚶 Vous déclarez que vous êtes épuisé, ils vous trouvent un logement et vous vous reposez. Vous profitez de la nuit pour fuir le village.",
+					"en": "** | 🚶 You annouce that you are tired, and they find you a place to have some rest. You take advantage of the night to get away of the village.",
 				},
 				"lostTime": 0,
 				"health": 10,
@@ -190,8 +190,8 @@
 			},
 			{
 				"translations": {
-					"fr": "** | Vous leur dites que vous ne pouvez pas combattre le dirigeant car vous êtes épuisé. Ils acceptent de vous offrir un logement et vous vous reposez. Vous décidez de les voler pendant la nuit et emportez un objet, puis vous fuyez aussi vite que vous le pouvez.",
-					"en": "** | You tell them that you can't fight the leader because you are too tired. They get you a place to sleep. During the night you decide to steal them, and you then run as fast as you can.",
+					"fr": "** | 🚶 Vous leur dites que vous ne pouvez pas combattre le dirigeant car vous êtes épuisé. Ils acceptent de vous offrir un logement et vous vous reposez. Vous décidez de les voler pendant la nuit et emportez un objet, puis vous fuyez aussi vite que vous le pouvez.",
+					"en": "** | 🚶 You tell them that you can't fight the leader because you are too tired. They get you a place to sleep. During the night you decide to steal them, and you then run as fast as you can.",
 				},
 				"lostTime": 0,
 				"health": 0,
@@ -199,11 +199,11 @@
 				"experience": 450,
 				"money": 0,
 				"item": true
-                        },
+			},
 			{
 				"translations": {
-					"fr": "** | Vous dites aux villageois que vous êtes épuisé et leur demandez de vous laisser une nuit pour vous préparer. Ils acceptent et lorsque la nuit tombe, vous rassemblez vos affaires et fuyez le village. Dans votre précipitation vous faites tomber une partie de votre bourse.",
-					"en": "** | You tell the villagers that you are tired, and that you need a night in order to get ready. They accept, and once the night has fallen you get all your stuff and run. In the rush you didn't realised you had lost your wallet.",
+					"fr": "** | 🚶 Vous dites aux villageois que vous êtes épuisé et leur demandez de vous laisser une nuit pour vous préparer. Ils acceptent et lorsque la nuit tombe, vous rassemblez vos affaires et fuyez le village. Dans votre précipitation vous faites tomber une partie de votre bourse.",
+					"en": "** | 🚶 You tell the villagers that you are tired, and that you need a night in order to get ready. They accept, and once the night has fallen you get all your stuff and run. In the rush you didn't realised you had lost your wallet.",
 				},
 				"lostTime": 0,
 				"health": 0,
@@ -216,8 +216,8 @@
 		"end": [
 			{
 				"translations": {
-					"fr": "** | 🚶‍♂️ Vous réfléchissez à l'offre du villageois et ne répondez pas. Il insiste et vous partez sans dire un mot.",
-					"en": "** | 🚶‍♂️ You think about the villagers offer, and don't answer. He insists, and you finally go without a word.",
+					"fr": "** | 🚶 Vous réfléchissez à l'offre du villageois et ne répondez pas. Il insiste et vous partez sans dire un mot.",
+					"en": "** | 🚶 You think about the villagers offer, and don't answer. He insists, and you finally go without a word.",
 				},
 				"lostTime": 0,
 				"health": 0,
@@ -228,8 +228,8 @@
 			},
 			{
 				"translations": {
-					"fr": "** | 🏃‍♂️ Vous ne réagissez pas, et lorsque votre interlocuteur s’en va, vous fuyez le village pour ne pas avoir d'ennuis avec le dirigeant.",
-					"en": "** | 🏃‍♂️ You don't react, and once the villager was gone, you left the village in order to not getting any trouble with the ruler.",
+					"fr": "** | 🏃 Vous ne réagissez pas, et lorsque votre interlocuteur s’en va, vous fuyez le village pour ne pas avoir d'ennuis avec le dirigeant.",
+					"en": "** | 🏃 You don't react, and once the villager was gone, you left the village in order to not getting any trouble with the ruler.",
 				},
 				"lostTime": 0,
 				"health": 0,
