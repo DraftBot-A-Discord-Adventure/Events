@@ -110,9 +110,9 @@
 				"lostTime": 0,
 				"health": 0,
 				"effect": ":smiley:",
-				"experience": 550,
+				"experience": 250,
 				"money": 300,
-				"item": true
+				"item": false
 			},
 			{
 				"translations": {
@@ -202,7 +202,7 @@
 			},
 			{
 				"translations": {
-					"fr": "** | 🚶 Vous dites aux villageois que vous êtes épuisé et leur demandez de vous laisser une nuit pour vous préparer. Ils acceptent et lorsque la nuit tombe, vous rassemblez vos affaires et fuyez le village. Dans votre précipitation vous faites tomber une partie de votre bourse.",
+					"fr": "** | 🚶 Vous dîtes aux villageois que vous êtes épuisé et leur demandez de vous laisser une nuit pour vous préparer. Ils acceptent et lorsque la nuit tombe, vous rassemblez vos affaires et fuyez le village. Dans votre précipitation vous faites tomber une partie de votre bourse.",
 					"en": "** | 🚶 You tell the villagers that you are tired, and that you need a night in order to get ready. They accept, and once the night has fallen you get all your stuff and run. In the rush you didn't realised you had lost your wallet.",
 				},
 				"lostTime": 0,
