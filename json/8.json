@@ -92,7 +92,7 @@
 		"🗣️": [
 			{
 				"translations": {
-					"fr": "** | 🗣️ Vous allez voir le dirigeant, lui parlez de la demande du villageois et l'aidez à le retrouver. Le dirigeant vous remercie après que vous l'ayez retrouvé et vous repartez.",
+					"fr": "** | 🗣️ Vous allez voir le dirigeant, lui parlez de la demande du villageois et l'aidez à le retrouver. Celui-ci vous remercie après que vous l'ayez retrouvé et vous repartez.",
 					"en": "** | 🗣️ You go see the tyrant, and inform him about the request of the villager. You help him finding the villager, and he thank you after finding him.",
 				},
 				"lostTime": 0,
