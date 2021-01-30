@@ -1,7 +1,7 @@
 {
     "translations": {
-        "fr": " : ** \n:cookie:t\n:crossed_swords: t\n:clown: t\n\n*- Utilisez les réactions pour effectuer une action :warning: Ne pas répondre est considéré comme un choix à part !*",
-        "en": " : ** \n:cookie: t\n:crossed_swords: t\n:clown: t\n\n*-Use the reactions to take an action. :warning: Not reacting is also considered a choice!*"
+        "fr": " : ** \n\n:cookie:t\n:crossed_swords: t\n:clown: t\n\n*- Utilisez les réactions pour effectuer une action :warning: Ne pas répondre est considéré comme un choix à part !*",
+        "en": " : ** \n\n:cookie: t\n:crossed_swords: t\n:clown: t\n\n*-Use the reactions to take an action. :warning: Not reacting is also considered a choice!*"
     },
     "possibilities": {
         "🍪": [
