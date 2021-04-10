@@ -1,7 +1,7 @@
 {
     "translations": {
-        "fr": " : ** :camping: Pendant votre route forestière en direction de la ville, vous croisez une grande tente, avec un marchand accueillant se tenant devant, vous invitant à venir acheter ses produits.\n:white_check_mark: Entrer dans la tente\n:x: Ne pas entrer dans la tente\n\n*- Utilisez les réactions pour effectuer une action :warning: Ne pas répondre est considéré comme un choix à part !*",
-        "en": " : ** :camping: While your forest trip towards the town, you cross a marquee, with a welcoming shopkeeper standing still ahead, calling upon you to come in buy his products.\n:white_check_mark: Enter in the tent\n:x: Do not enter in the tent\n\n*-Use the reactions to take an action. :warning: Not reacting is also considered a choice!*"
+        "fr": " : ** \uD83C\uDFD5 Pendant votre route forestière en direction de la ville, vous croisez une grande tente, avec un marchand accueillant se tenant devant, vous invitant à venir acheter ses produits.\n✅ Entrer dans la tente\n❌ Ne pas entrer dans la tente\n\n*- Utilisez les réactions pour effectuer une action ⚠ Ne pas répondre est considéré comme un choix à part !*",
+        "en": " : ** \uD83C\uDFD5 While your forest trip towards the town, you cross a marquee, with a welcoming shopkeeper standing still ahead, calling upon you to come in buy his products.\n✅ Enter in the tent\n❌ Do not enter in the tent\n\n*-Use the reactions to take an action. ⚠ Not reacting is also considered a choice!*"
     },
     "possibilities": {
         "✅": [
@@ -58,8 +58,8 @@
             },
             {
                 "translations": {
-                    "fr": "** | ❌ Voulant vous faire entrer à l'intérieur de la tente, l'homme vous tire par le bras et vous assomme. :head_bandage:",
-                    "en": "** | ❌ Wanting to let you inside the tent, the man pulls your arm and stuns you. :head_bandage:"
+                    "fr": "** | ❌ Voulant vous faire entrer à l'intérieur de la tente, l'homme vous tire par le bras et vous assomme. \uD83E\uDD15",
+                    "en": "** | ❌ Wanting to let you inside the tent, the man pulls your arm and stuns you. \uD83E\uDD15"
                 },
                 "lostTime": 0,
                 "health": 0,
@@ -85,8 +85,8 @@
         "end": [
             {
                 "translations": {
-                    "fr": "** | ☠️ Son discours vous envoûte au point de ne pas réagir. Vous vous laissez trainer dans la tente. 3 marchands à l'intérieur vous expliquent qu'ils sont des marchands noirs, vendant des organes et des greffes aux pauvres de la capitale. Ceux-ci vous sautent ensuite dessus, sans que vous ne puissiez réagir, et vous désossent afin de récupérer vos organes vitaux. Vous mourrez sur place, sentant le trou béant de votre torse vidé de ses reins, foie, et autres sources d'argent présent en vous. :skull:",
-                    "en": "** | ☠️ His speech voodoo you at a point at which you didn't react. You let yourself get drag into the tent. Inside, 3 merchants explain you that they're black dealers, selling organs and transplants to poor from the capital. Then, they jump on you, without you being able to react, and bone you to collect your vital organs. You die there, feeling the gaping hole inside your chest emptied of their kidneys, liver, and other money springs in you. :skull:"
+                    "fr": "** | ☠️ Son discours vous envoûte au point de ne pas réagir. Vous vous laissez trainer dans la tente. 3 marchands à l'intérieur vous expliquent qu'ils sont des marchands noirs, vendant des organes et des greffes aux pauvres de la capitale. Ceux-ci vous sautent ensuite dessus, sans que vous ne puissiez réagir, et vous désossent afin de récupérer vos organes vitaux. Vous mourrez sur place, sentant le trou béant de votre torse vidé de ses reins, foie, et autres sources d'argent présent en vous. \uD83D\uDC80",
+                    "en": "** | ☠️ His speech voodoo you at a point at which you didn't react. You let yourself get drag into the tent. Inside, 3 merchants explain you that they're black dealers, selling organs and transplants to poor from the capital. Then, they jump on you, without you being able to react, and bone you to collect your vital organs. You die there, feeling the gaping hole inside your chest emptied of their kidneys, liver, and other money springs in you. \uD83D\uDC80"
                 },
                 "lostTime": 0,
                 "health": 0,
