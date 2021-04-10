@@ -1,7 +1,7 @@
 {
     "translations": {
-        "fr": " : ** Après une visite de la ville où vous vous êtes arrêté, vous voyez une grande bibliothèque. Ne sachant pas quoi faire, vous décidez de vous y rendre.\n:closed_book: Tenter de voler un livre pour le revendre\n:book: Lire un livre\n:calendar_spiral: Regarder le calendrier\n\n*- Utilisez les réactions pour effectuer une action :warning: Ne pas répondre est considéré comme un choix à part !*",
-        "en": " : ** After a tour of the town where you stopped, you see a large library.\n:closed_book: Trying to steal a book to resell it\n:book: Read a book\n:calendar_spiral: Look at the calendar\n\n*-Use the reactions to take an action. :warning: Not reacting is also considered a choice!*"
+        "fr": " : ** \uD83C\uDFDB Après une visite de la ville où vous vous êtes arrêté, vous voyez une grande bibliothèque. Ne sachant pas quoi faire, vous décidez de vous y rendre.\n\uD83D\uDCD5 Tenter de voler un livre pour le revendre\n\uD83D\uDCD6 Lire un livre\n\uD83D\uDDD3 Regarder le calendrier\n\n*- Utilisez les réactions pour effectuer une action ⚠ Ne pas répondre est considéré comme un choix à part !*",
+        "en": " : ** \uD83C\uDFDB After a tour of the town where you stopped, you see a large library.\n\uD83D\uDCD5 Trying to steal a book to resell it\n\uD83D\uDCD6 Read a book\n\uD83D\uDDD3 Look at the calendar\n\n*-Use the reactions to take an action. ⚠ Not reacting is also considered a choice!*"
     },
     "possibilities": {
         "📕": [
@@ -51,7 +51,7 @@
                 "lostTime": 60,
                 "health": 10,
                 "effect": ":clock2:",
-                "experience": 125,
+                "experience": 225,
                 "money": 0,
                 "item": false
             },
@@ -63,19 +63,19 @@
                 "lostTime": 10,
                 "health": 0,
                 "effect": ":clock2:",
-                "experience": 25
+                "experience": 25,
                 "money": 0,
                 "item": false
             },
-                        {
+            {
                 "translations": {
-                    "fr": "** | 📖 Vous lisez un livre de cuisine, celui-ci parle d'un délicieux met. Alléché, vous décidez de préparer le plat, cependant vous ne respectez pas totalement ce qui était marqué et après avoir mangé vous ne vous sentez pas bien. :sick:",
-                    "en": "** | 📖 You are reading a cookery book, this one talks about a delicious dish. You decide to prepare the dish, however you don't fully respect what was marked and after eating you don't feel well. :sick:"
+                    "fr": "** | 📖 Vous lisez un livre de cuisine, celui-ci parle d'un délicieux met. Alléché, vous décidez de préparer le plat, cependant vous ne respectez pas totalement ce qui était marqué et après avoir mangé vous ne vous sentez pas bien. \uD83E\uDD22",
+                    "en": "** | 📖 You are reading a cookery book, this one talks about a delicious dish. You decide to prepare the dish, however you don't fully respect what was marked and after eating you don't feel well. \uD83E\uDD22"
                 },
                 "lostTime": 0,
                 "health": 0,
                 "effect": ":sick:",
-                "experience": 20,
+                "experience": 0,
                 "money": 0,
                 "item": false
             }
@@ -93,7 +93,7 @@
                 "money": 300,
                 "item": false
             },
-                        {
+            {
                 "translations": {
                     "fr": "** | 🗓️  Vous regardez le calendrier et constatez que vous êtes en février, vous décidez de sortir et d'aller manger une galette à un stand avoisinant. Cette nourriture vous aura bien rassasié ! Vous reprenez votre route, repu.",
                     "en": "** | 🗓️ You look at the calendar and see that it's February, you decide to go out and eat a pancake at a nearby stand. This pancake will have satisfied you well! You're back on your way, full to the brim."
@@ -101,39 +101,40 @@
                 "lostTime": 0,
                 "health": 10,
                 "effect": ":smiley:",
-                "experience": 250,
+                "experience": 350,
                 "money": 0,
                 "item": false
             },
-                        {
+            {
                 "translations": {
                     "fr": "** | 🗓️ En voyant le calendrier vous vous rappelez des affiches dans les rues parlant d'une chasse au trésor. Vous décidez de participer, cependant au bout des quelques heures vous n'arrivez pas à trouver quoi que ce soit. Vous décidez donc de rebrousser chemin.",
                     "en": "** | 🗓️ When you see the calendar you remember the posters in the streets talking about a treasure hunt. You decide to participate, but after a few hours you can't find it. So you decide to turn back."
                 },
                 "lostTime": 0,
                 "health": 0,
-                "effect": ":stick:",
-                "experience": 20,
+                "effect": ":smiley:",
+                "experience": 150,
                 "money": 0,
                 "item": false
             },
             {
                 "translations": {
-                    "fr": "** | 🗓️ Vous regardez le calendrier, écrit en gros à la date d'aujourd'hui vous voyez inscrit : Concours d'hydromel ! Vous sentant résistant à l'alcool vous tentez votre chance. Vous gagnez même le concours ainsi qu'une récompense ! Cependant vous finissez totalement ivre. :zany_face:",
-                    "en": "** | 🗓️ You are looking at the calendar, written roughly at today's date you see entered: Mead competition! Feeling resistant to alcohol, you try your luck. You even win the competition as well as a reward! However, you end up totally drunk. :zany_face:"
+                    "fr": "** | 🗓️ Vous regardez le calendrier, écrit en gros à la date d'aujourd'hui vous voyez inscrit : Concours d'hydromel ! Vous sentant résistant à l'alcool vous tentez votre chance. Vous gagnez même le concours ainsi qu'une récompense ! Cependant vous finissez totalement ivre. \uD83E\uDD2A",
+                    "en": "** | 🗓️ You are looking at the calendar, written roughly at today's date you see entered: Mead competition! Feeling resistant to alcohol, you try your luck. You even win the competition as well as a reward! However, you end up totally drunk. \uD83E\uDD2A"
                 },
                 "lostTime": 0,
                 "health": 0,
                 "effect": ":zany_face:",
-                "experience": 120,
+                "experience": 0,
                 "money": 350,
                 "item": false
             }
+        ],
         "end": [
             {
                 "translations": {
-                    "fr": "** | Vous traînez dans cette bibliothèque, vous ne voyez pas les minutes passer. Lors de la fermeture de cette dernière, vous sortez et vous rendez compte qu'il est déjà tard. Vous reprenez votre route sans plus tarder.",
-                    "en": "** | You hang out in this library, you don't see the minutes go by. When it closes, you go out and realise that it is already late. You get back on the road without further delay."
+                    "fr": "** | \uD83C\uDF0C Vous traînez dans cette bibliothèque, vous ne voyez pas les minutes passer. Lors de la fermeture de cette dernière, vous sortez et vous rendez compte qu'il est déjà tard. Vous reprenez votre route sans plus tarder.",
+                    "en": "** | \uD83C\uDF0C You hang out in this library, you don't see the minutes go by. When it closes, you go out and realise that it is already late. You get back on the road without further delay."
                 },
                 "lostTime": 30,
                 "health": 0,
@@ -144,8 +145,8 @@
             },
             {
                 "translations": {
-                    "fr": "** | Vous sortez de la bibliothèque avant de reprendre votre quête.",
-                    "en": "** | You leave the library before resuming your quest."
+                    "fr": "** | \uD83D\uDEB6 Vous sortez de la bibliothèque avant de reprendre votre quête.",
+                    "en": "** | \uD83D\uDEB6 You leave the library before resuming your quest."
                 },
                 "lostTime": 0,
                 "health": 0,
@@ -156,4 +157,4 @@
             }
         ]
     }
-NE PAS TOUCHER => A edit 
+}
