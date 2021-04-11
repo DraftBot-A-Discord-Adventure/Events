@@ -1,6 +1,6 @@
 {
   "translations": {
-    "fr": " : ** \uD83D\uDCDC Vous vous baladez lorsque vous apercevez un château au loin, il semble abandonné. Étant avide d'aventure, vous décidez d'y entrer. A première vue, il est désert. Vous vous apprêtez à l’explorer lorsqu’un détail attire votre attention. De nature curieuse, vous vous baissez et découvrez un bout de parchemin dans un recoin. Un message y est inscrit, vous le décryptez avec peine, celui-ci indique l'emplacement d'un trésor dans le château. Un bruit vous interrompt dans vos réflexions.\n:arrow_right: Courir jusqu'à l'aile droite du château\n:arrow_left: Se diriger vers l'aile gauche\n:arrow_heading_down: Faire demi tour\n:detective: Se cacher\n\n*- Utilisez les réactions pour effectuer une action ⚠ Ne pas répondre est considéré comme un choix à part !*",
+    "fr": " : ** \uD83D\uDCDC Vous vous baladez lorsque vous apercevez un château au loin, il semble abandonné. Étant avide d'aventure, vous décidez d'y entrer. A première vue, il est désert. Vous vous apprêtez à l’explorer lorsqu’un détail attire votre attention. De nature curieuse, vous vous baissez et découvrez un bout de parchemin dans un recoin. Un message y est inscrit, vous le décryptez avec peine, celui-ci indique l'emplacement d'un trésor dans le château. Un bruit vous interrompt dans vos réflexions.\n\n➡ Courir jusqu'à l'aile droite du château\n⬅ Se diriger vers l'aile gauche\n⤵ Faire demi tour\n\uD83D\uDD75 Se cacher\n\n*- Utilisez les réactions pour effectuer une action ⚠ Ne pas répondre est considéré comme un choix à part !*",
     "en": " : ** \uD83D\uDCDC \n\n*-Use the reactions to take an action. ⚠ Not reacting is also considered a choice!*"
   },
   "possibilities": {
@@ -207,8 +207,8 @@
       },
       {
         "translations": {
-          "fr": "** | \uD83C\uDF77 Vous attendez quelques instants avant de glisser le parchemin dans votre poche. Méfiant, vous décidez de ne pas suivre ces indications. Vous bifurquez dans l'escalier qui descend sur votre gauche. Après quelques minutes de marche dans des souterrains, vous découvrez les caves du château. Des anciennes caisses de vin s'y trouvent. Vous buvez goulûment dans plusieurs bouteilles et vous effondrez à terre, ivre. \uD83E\uDD2A",
-          "en": "** | \uD83C\uDF77  \uD83E\uDD2A"
+          "fr": "** | \uD83D\uDD0D Vous attendez quelques instants avant de glisser le parchemin dans votre poche. Méfiant, vous décidez de ne pas suivre ces indications. Vous bifurquez dans l'escalier qui descend sur votre gauche. Après quelques minutes de marche dans des souterrains, vous découvrez les caves du château. Des anciennes caisses de vin s'y trouvent. Vous buvez goulûment dans plusieurs bouteilles et vous effondrez à terre, ivre. \uD83E\uDD2A",
+          "en": "** | \uD83D\uDD0D  \uD83E\uDD2A"
         },
         "lostTime": 0,
         "health": 0,
