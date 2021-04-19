@@ -1,202 +1,226 @@
 {
   "translations": {
-    "fr": " : ** \uD83D\uDCDC Alors que vous vous baladez, vous apercevez un château au loin, il semble abandonné. Avide d'aventure, vous décidez d'y entrer. A première vue, il est désert. Vous vous apprêtez à l’explorer lorsqu’un détail attire votre attention. Vous vous baissez et découvrez un bout de parchemin dans un recoin. Vous comprenez avec peine que celui-ci indique l'emplacement d'un trésor dans le château.\n\n➡ Courir jusqu'à l'aile droite du château\n⬅ Se diriger vers l'aile gauche\n⤵ Faire demi tour\n\uD83D\uDD75 Se cacher\n\n*- Utilisez les réactions pour effectuer une action ⚠ Ne pas répondre est considéré comme un choix à part !*",
-    "en": " : ** \uD83D\uDCDC While walking, you see a castle far from you, it seems abandoned. Being hungry for adventure, you decide to enter. At first sight, it is deserted. You are going to explore it when a detail catches your attention. Curious, you crouch down and discover a piece of parchment in a corner. A message is written on it, you decrypt it with difficulty, it indicates the location of a treasure in the castle. A noise interrupts your thoughts.\n\n➡ Run to the right wing of the castle\n⬅ Move to the left wing of the castle\n⤵ Turn around\n\uD83D\uDD75 Hide yourself\n\n*-Use the reactions to take an action. ⚠ Not reacting is also considered a choice!*"
+    "fr": "\uD83D\uDCDC Alors que vous vous baladez, vous apercevez un château au loin, il semble abandonné. Avide d'aventure, vous décidez d'y entrer. A première vue, il est désert. Vous vous apprêtez à l’explorer lorsqu’un détail attire votre attention. Vous vous baissez et découvrez un bout de parchemin dans un recoin. Vous comprenez avec peine que celui-ci indique l'emplacement d'un trésor dans le château.",
+    "en": "\uD83D\uDCDC While walking, you see a castle far from you, it seems abandoned. Being hungry for adventure, you decide to enter. At first sight, it is deserted. You are going to explore it when a detail catches your attention. Curious, you crouch down and discover a piece of parchment in a corner. A message is written on it, you decrypt it with difficulty, it indicates the location of a treasure in the castle. A noise interrupts your thoughts."
   },
   "possibilities": {
-    "➡": [
-      {
-        "translations": {
-          "fr": "** | ➡ Vous vous dépêchez d'atteindre l'escalier lorsque quelqu'un surgit devant vous. De surprise, vous trébuchez et vous tordez la cheville. L'inconnu se confond en excuses, c'est un aventurier qui sillone les châteaux à la recherche de biens précieux. Pour se faire pardonner, il vous offre l'un de ses objets. \uD83E\uDD15",
-          "en": "** | ➡ You are speeding up to reach the stairs when someone appears in front of you. In surprise, you fall and twist your ankle. The stranger made excuses for his actions, he was an adventurer who travels the castles in search of precious goods. To compensate, he offers you one of his items. \uD83E\uDD15"
-        },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":head_bandage:",
-        "experience": 0,
-        "money": 0,
-        "item": true
+    "➡": {
+      "translations": {
+        "fr": "Courir jusqu'à l'aile droite du château",
+        "en": "Run to the right wing of the castle"
       },
-      {
-        "translations": {
-          "fr": "** | ➡ Arrivé à l'aile droite, vous découvrez une luxueuse salle. Des pièces d'or sont disséminées un peu partout. Vous prenez une bonne heure avant de tout ramasser, puis vous repartez, la bourse pleine.",
-          "en": "** | ➡ When you arrive at the right wing, you discover a luxurious room. Gold coins are dispersed everywhere. You take a long hour to pick up everything, then you leave with a full purse."
+      "issues": [
+        {
+          "translations": {
+            "fr": "Vous vous dépêchez d'atteindre l'escalier lorsque quelqu'un surgit devant vous. De surprise, vous trébuchez et vous tordez la cheville. L'inconnu se confond en excuses, c'est un aventurier qui sillone les châteaux à la recherche de biens précieux. Pour se faire pardonner, il vous offre l'un de ses objets.",
+            "en": "You are speeding up to reach the stairs when someone appears in front of you. In surprise, you fall and twist your ankle. The stranger made excuses for his actions, he was an adventurer who travels the castles in search of precious goods. To compensate, he offers you one of his items."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":head_bandage:",
+          "experience": 0,
+          "money": 0,
+          "item": true
         },
-        "lostTime": 60,
-        "health": 0,
-        "effect": ":clock2:",
-        "experience": 125,
-        "money": 145,
-        "item": false
+        {
+          "translations": {
+            "fr": "Arrivé à l'aile droite, vous découvrez une luxueuse salle. Des pièces d'or sont disséminées un peu partout. Vous prenez une bonne heure avant de tout ramasser, puis vous repartez, la bourse pleine.",
+            "en": "When you arrive at the right wing, you discover a luxurious room. Gold coins are dispersed everywhere. You take a long hour to pick up everything, then you leave with a full purse."
+          },
+          "lostTime": 60,
+          "health": 0,
+          "effect": ":clock2:",
+          "experience": 125,
+          "money": 145,
+          "item": false
+        },
+        {
+          "translations": {
+            "fr": "Vous atteignez l'aile droite lorsque le sol s'effondre sous vos pieds. C'était en fait un piège ! Des brigands vous dépouillent de votre bourse. Vous finissez par ressortir, les poches vides. En quittant le chateau, vous découvrez une besace probablement perdue par l'un de vos assaillants. Vous y découvrez des restes de viande que vous cuisinez avec plaisir.",
+            "en": "You reach the right wing when the ground collapses under your feet. It was a trap! Robbers rob you of your purse. You finally leave with your pockets empty. One of them dropped a bag in the escape, you approach it to open it. You discover scraps of meat. You cook it all and it lifts your mood."
+          },
+          "lostTime": 0,
+          "health": 10,
+          "effect": ":smiley:",
+          "experience": 350,
+          "money": -222,
+          "item": false
+        },
+        {
+          "translations": {
+            "fr": "Arrivé à l'aile droite , vous trouvez en effet un coffre. Après quelques difficultés à l'ouvrir, vous découvrez avec surprise une somme d'argent considérable ainsi qu'un objet qui pourra vous être utile.",
+            "en": "Arrived at the right wing, you find indeed a chest. After some difficulties to open it, you discover with surprise a considerable amount of money as well as an item which can be useful to you."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":smiley:",
+          "experience": 550,
+          "money": 560,
+          "item": true
+        }
+      ]
+    },
+    "⬅": {
+      "translations": {
+        "fr": "Se diriger vers l'aile gauche",
+        "en": "Move to the left wing of the castle"
       },
-      {
-        "translations": {
-          "fr": "** | ➡ Vous atteignez l'aile droite lorsque le sol s'effondre sous vos pieds. C'était en fait un piège ! Des brigands vous dépouillent de votre bourse. Vous finissez par ressortir, les poches vides. En quittant le chateau, vous découvrez une besace probablement perdue par l'un de vos assaillants. Vous y découvrez des restes de viande que vous cuisinez avec plaisir.",
-          "en": "** | ➡ You reach the right wing when the ground collapses under your feet. It was a trap! Robbers rob you of your purse. You finally leave with your pockets empty. One of them dropped a bag in the escape, you approach it to open it. You discover scraps of meat. You cook it all and it lifts your mood."
+      "issues": [
+        {
+          "translations": {
+            "fr": "Sans réfléchir davantage, vous vous dirigez vers l'aile opposée à celle indiquée. Mais le château est grand et vous finissez par vous égarer dans ce labyrinthe. Vous ressortez après avoir tourné en rond un bon moment.",
+            "en": "Without further thought, you head for the opposite wing to the one indicated. But the castle is big and you end up getting lost in this labyrinth. You come out after turning around for a while."
+          },
+          "lostTime": 60,
+          "health": 0,
+          "effect": ":clock2:",
+          "experience": 25,
+          "money": 0,
+          "item": false
         },
-        "lostTime": 0,
-        "health": 10,
-        "effect": ":smiley:",
-        "experience": 350,
-        "money": -222,
-        "item": false
+        {
+          "translations": {
+            "fr": "Vous atteignez l'aile gauche, essouflé. Vous suivez votre instinct et ouvrez une porte sur votre droite. Celle-ci grince pour s'ouvrir sur une pièce vide. C'est en avançant que vous découvrez un objet dans un recoin de la pièce. Vous le ramassez, il vous sera utile pour l'aventure. ",
+            "en": "You reach the left wing, out of breath. You follow your instinct and open a door on your right. This one creaks to open on an empty room. It is while moving forward that you discover an item in a corner of the room. You take it, it will be useful for the adventure."
+          },
+          "lostTime": 15,
+          "health": 0,
+          "effect": ":clock2:",
+          "experience": 325,
+          "money": 0,
+          "item": true
+        },
+        {
+          "translations": {
+            "fr": "Ne suivant pas les instructions du parchemin, vous vous rendez dans l'aile gauche. Vous avancez prudemment dans les couloirs en essayant de vous repérer. C'est alors qu'une légère odeur vous parvient, vous laissez votre odorat vous guider. Vous arrivez alors dans ce qui devait être une cuisine. Vous apercevez des traces de feu dans la cheminée, indice d'un récent passage. Vous vous avancez, la main sur votre dague, et découvrez un reste de repas. Vous l'engloutissez. Vous revenez ensuite sur vos pas et trouvez la sortie sans trop de difficultés.",
+            "en": "Not following the instructions of the scroll, you go to the left wing. You move cautiously through the corridors, trying to locate your position. It is then that a light smell reaches you, you let your sense of smell guide you. You then arrive in what must have been a kitchen. You can see traces of fire in the chimney, an indication of a recent visit. You step forward, hand on your dagger, and discover a leftover meal. You gulp it down, it gives you a boost of energy (+ life). You then retrace your steps and find the exit without too much difficulty."
+          },
+          "lostTime": 0,
+          "health": 10,
+          "effect": ":smiley:",
+          "experience": 350,
+          "money": 0,
+          "item": false
+        }
+      ]
+    },
+    "⤵": {
+      "translations": {
+        "fr": "Faire demi tour",
+        "en": "Turn around"
       },
-      {
-        "translations": {
-          "fr": "** | ➡ Arrivé à l'aile droite , vous trouvez en effet un coffre. Après quelques difficultés à l'ouvrir, vous découvrez avec surprise une somme d'argent considérable ainsi qu'un objet qui pourra vous être utile.",
-          "en": "** | ➡ Arrived at the right wing, you find indeed a chest. After some difficulties to open it, you discover with surprise a considerable amount of money as well as an item which can be useful to you."
+      "issues": [
+        {
+          "translations": {
+            "fr": "Vous vous précipitez pour faire demi-tour, ce bruit ne vous disant rien qui vaille. Vous repartez donc sans avoir exploré le château mais déterminé à continuer votre aventure.",
+            "en": "You rush to turn back, that noise not telling you anything good. You leave without having explored the castle but decided to continue your adventure."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":smiley:",
+          "experience": 150,
+          "money": 0,
+          "item": false
         },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":smiley:",
-        "experience": 550,
-        "money": 560,
-        "item": true
-      }
-    ],
-    "⬅": [
-      {
-        "translations": {
-          "fr": "** | ⬅ Sans réfléchir davantage, vous vous dirigez vers l'aile opposée à celle indiquée. Mais le château est grand et vous finissez par vous égarer dans ce labyrinthe. Vous ressortez après avoir tourné en rond un bon moment.",
-          "en": "** | ⬅ Without further thought, you head for the opposite wing to the one indicated. But the castle is big and you end up getting lost in this labyrinth. You come out after turning around for a while."
+        {
+          "translations": {
+            "fr": "Vous faites demi-tour lorsqu'un groupe de voyageurs vous accoste. Ils vous invitent à partager leur repas, et vous acceptez leur généreuse proposition. Repus, vous repartez non sans les avoir remercié de quelques pièces.",
+            "en": "You turn around when a group of travelers approaches you. They invite you to share their meal, and you accept their generous offer. Full, you leave not without having thanked them with a few coins."
+          },
+          "lostTime": 0,
+          "health": 42,
+          "effect": ":smiley:",
+          "experience": 350,
+          "money": -120,
+          "item": false
         },
-        "lostTime": 60,
-        "health": 0,
-        "effect": ":clock2:",
-        "experience": 25,
-        "money": 0,
-        "item": false
+        {
+          "translations": {
+            "fr": "Vous vous dirigez vers la sortie lorsqu'un bruit retentit de nouveau, semblable à un craquement. Votre curiosité aiguisée, vous vous dirigez vers la source de bruit lorsque des tremblements se font sentir. Le château étant en ruine, des éboulements se déclenchent, vous courrez en direction de la sortie mais pas assez vite, et vous finissez blessé.",
+            "en": "You are heading for the exit when you hear another cracking sound. Your curiosity sharpened, you head towards the source of the noise when you felt shaking. The castle being in ruins, falling rocks starts, you run towards the exit but not fast enough, and you end up injured."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":head_bandage:",
+          "experience": 0,
+          "money": 0,
+          "item": false
+        },
+        {
+          "translations": {
+            "fr": "Vous prenez la sortie et tombez nez à nez avec un autre aventurier, vous l'avertissez du bruit. La source de bruit venait de lui, il s'excuse platement. Vous lui expliquez alors l'histoire du parchemin. Vous décidez alors de chercher le trésor ensemble, et après maintes recherches dans le château, vous finissez par trouver un coffre contenant de l'or. Vous partagez alors la somme en deux et l'aventurier vous invite à manger avec lui. Cela vous redonne de la force. Après un bon moment passé à discuter avec lui, vous vous endormez, repu et content.",
+            "en": "You take the exit and fall in front of another adventurer, you warn him about the noise. The source of noise came from him, he apologizes flatly. You talk to him about the parchment. You decide to search for the treasure together, and after many searches in the castle, you finally find a chest containing gold. You then split the money in two and the adventurer invites you to eat with him. It gives you strength. After a good moment spent chatting with him, you fall asleep, full and happy."
+          },
+          "lostTime": 360,
+          "health": 27,
+          "effect": ":clock2:",
+          "experience": 625,
+          "money": 362,
+          "item": true
+        }
+      ]
+    },
+    "\uD83D\uDD75": {
+      "translations": {
+        "fr": "Se cacher",
+        "en": "Hide yourself"
       },
-      {
-        "translations": {
-          "fr": "** | ⬅ Vous atteignez l'aile gauche, essouflé. Vous suivez votre instinct et ouvrez une porte sur votre droite. Celle-ci grince pour s'ouvrir sur une pièce vide. C'est en avançant que vous découvrez un objet dans un recoin de la pièce. Vous le ramassez, il vous sera utile pour l'aventure. ",
-          "en": "** | ⬅ You reach the left wing, out of breath. You follow your instinct and open a door on your right. This one creaks to open on an empty room. It is while moving forward that you discover an item in a corner of the room. You take it, it will be useful for the adventure."
+      "issues": [
+        {
+          "translations": {
+            "fr": "Vous vous réfugiez derrière une statue juste à temps pour apercevoir des intrus fouiller le château. Ceux-ci éloignés, vous vous précipitez pour sortir lorsque vous trébuchez sur des débris. Attirés par le bruit, les pillards ne tardent pas à vous voir et à vous dépouiller. Vous repartez, la bourse légère.",
+            "en": "You take refuge behind a statue just in time to see intruders searching the castle. With these away, you rush to get out when you fall over debris. Attracted by the noise, the looters see you quickly and rob you. You leave, the purse light."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":smiley:",
+          "experience": 150,
+          "money": -154,
+          "item": false
         },
-        "lostTime": 15,
-        "health": 0,
-        "effect": ":clock2:",
-        "experience": 325,
-        "money": 0,
-        "item": true
-      },
-      {
-        "translations": {
-          "fr": "** | ⬅ Ne suivant pas les instructions du parchemin, vous vous rendez dans l'aile gauche. Vous avancez prudemment dans les couloirs en essayant de vous repérer. C'est alors qu'une légère odeur vous parvient, vous laissez votre odorat vous guider. Vous arrivez alors dans ce qui devait être une cuisine. Vous apercevez des traces de feu dans la cheminée, indice d'un récent passage. Vous vous avancez, la main sur votre dague, et découvrez un reste de repas. Vous l'engloutissez. Vous revenez ensuite sur vos pas et trouvez la sortie sans trop de difficultés.",
-          "en": "** | ⬅ Not following the instructions of the scroll, you go to the left wing. You move cautiously through the corridors, trying to locate your position. It is then that a light smell reaches you, you let your sense of smell guide you. You then arrive in what must have been a kitchen. You can see traces of fire in the chimney, an indication of a recent visit. You step forward, hand on your dagger, and discover a leftover meal. You gulp it down, it gives you a boost of energy (+ life). You then retrace your steps and find the exit without too much difficulty."
+        {
+          "translations": {
+            "fr": "Vous vous cachez dans un coin et attendez. Fausse alerte, ce n'était que des oiseaux. Vous sortez de votre cachette de fortune lorsque votre pied s'enfonce légèrement dans le sol. Vous vous baissez, curieux, et découvrez une petite cavité. Vous y plongez la main et en ressortez avec un objet. Quelle chance ! Vous l'empochez avant de continuer votre route. Cela vous aura fait perdre 30 minutes.",
+            "en": "You hide in a corner and wait. Wrong alert, it was only birds. You emerge from your improvised hiding place as your foot sinks slightly into the ground. You stoop down, curious, and discover a small cavity. You put your hand in and come out with an object. What a chance! You take it before continuing on your way. You lost 30 minutes."
+          },
+          "lostTime": 30,
+          "health": 0,
+          "effect": ":clock2:",
+          "experience": 325,
+          "money": 0,
+          "item": true
         },
-        "lostTime": 0,
-        "health": 10,
-        "effect": ":smiley:",
-        "experience": 350,
-        "money": 0,
-        "item": false
-      }
-    ],
-    "⤵": [
-      {
-        "translations": {
-          "fr": "** | ⤵ Vous vous précipitez pour faire demi-tour, ce bruit ne vous disant rien qui vaille. Vous repartez donc sans avoir exploré le château mais déterminé à continuer votre aventure.",
-          "en": "** | ⤵ You rush to turn back, that noise not telling you anything good. You leave without having explored the castle but decided to continue your adventure."
+        {
+          "translations": {
+            "fr": "Vous vous accroupissez au sol sans un bruit. Des bruits de pas se rapprochent. Vous attendez dans l'ombre jusqu'à ce que tout soit redevenu silencieux. Après un intense stress, vous vous endormez à même le sol.",
+            "en": "You crouch to the ground without a sound. Footsteps are coming closer. You wait in the shadows until everything is silent again. After an intense stress, you fall asleep on the floor."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":sleeping:",
+          "experience": 20,
+          "money": 0,
+          "item": false
         },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":smiley:",
-        "experience": 150,
-        "money": 0,
-        "item": false
-      },
-      {
-        "translations": {
-          "fr": "** | ⤵ Vous faites demi-tour lorsqu'un groupe de voyageurs vous accoste. Ils vous invitent à partager leur repas, et vous acceptez leur généreuse proposition. Repus, vous repartez non sans les avoir remercié de quelques pièces.",
-          "en": "** | ⤵ You turn around when a group of travelers approaches you. They invite you to share their meal, and you accept their generous offer. Full, you leave not without having thanked them with a few coins."
-        },
-        "lostTime": 0,
-        "health": 42,
-        "effect": ":smiley:",
-        "experience": 350,
-        "money": -120,
-        "item": false
-      },
-      {
-        "translations": {
-          "fr": "** | ⤵ Vous vous dirigez vers la sortie lorsqu'un bruit retentit de nouveau, semblable à un craquement. Votre curiosité aiguisée, vous vous dirigez vers la source de bruit lorsque des tremblements se font sentir. Le château étant en ruine, des éboulements se déclenchent, vous courrez en direction de la sortie mais pas assez vite, et vous finissez blessé. \uD83E\uDD15",
-          "en": "** | ⤵ You are heading for the exit when you hear another cracking sound. Your curiosity sharpened, you head towards the source of the noise when you felt shaking. The castle being in ruins, falling rocks starts, you run towards the exit but not fast enough, and you end up injured. \uD83E\uDD15"
-        },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":head_bandage:",
-        "experience": 0,
-        "money": 0,
-        "item": false
-      },
-      {
-        "translations": {
-          "fr": "** | ⤵ Vous prenez la sortie et tombez nez à nez avec un autre aventurier, vous l'avertissez du bruit. La source de bruit venait de lui, il s'excuse platement. Vous lui expliquez alors l'histoire du parchemin. Vous décidez alors de chercher le trésor ensemble, et après maintes recherches dans le château, vous finissez par trouver un coffre contenant de l'or. Vous partagez alors la somme en deux et l'aventurier vous invite à manger avec lui. Cela vous redonne de la force. Après un bon moment passé à discuter avec lui, vous vous endormez, repu et content.",
-          "en": "** | ⤵ You take the exit and fall in front of another adventurer, you warn him about the noise. The source of noise came from him, he apologizes flatly. You talk to him about the parchment. You decide to search for the treasure together, and after many searches in the castle, you finally find a chest containing gold. You then split the money in two and the adventurer invites you to eat with him. It gives you strength. After a good moment spent chatting with him, you fall asleep, full and happy."
-        },
-        "lostTime": 360,
-        "health": 27,
-        "effect": ":clock2:",
-        "experience": 625,
-        "money": 362,
-        "item": true
-      }
-    ],
-    "\uD83D\uDD75": [
-      {
-        "translations": {
-          "fr": "** | \uD83D\uDD75 Vous vous réfugiez derrière une statue juste à temps pour apercevoir des intrus fouiller le château. Ceux-ci éloignés, vous vous précipitez pour sortir lorsque vous trébuchez sur des débris. Attirés par le bruit, les pillards ne tardent pas à vous voir et à vous dépouiller. Vous repartez, la bourse légère.",
-          "en": "** | \uD83D\uDD75 You take refuge behind a statue just in time to see intruders searching the castle. With these away, you rush to get out when you fall over debris. Attracted by the noise, the looters see you quickly and rob you. You leave, the purse light."
-        },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":smiley:",
-        "experience": 150,
-        "money": -154,
-        "item": false
-      },
-      {
-        "translations": {
-          "fr": "** | \uD83D\uDD75 Vous vous cachez dans un coin et attendez. Fausse alerte, ce n'était que des oiseaux. Vous sortez de votre cachette de fortune lorsque votre pied s'enfonce légèrement dans le sol. Vous vous baissez, curieux, et découvrez une petite cavité. Vous y plongez la main et en ressortez avec un objet. Quelle chance ! Vous l'empochez avant de continuer votre route. Cela vous aura fait perdre 30 minutes.",
-          "en": "** | \uD83D\uDD75 You hide in a corner and wait. Wrong alert, it was only birds. You emerge from your improvised hiding place as your foot sinks slightly into the ground. You stoop down, curious, and discover a small cavity. You put your hand in and come out with an object. What a chance! You take it before continuing on your way. You lost 30 minutes."
-        },
-        "lostTime": 30,
-        "health": 0,
-        "effect": ":clock2:",
-        "experience": 325,
-        "money": 0,
-        "item": true
-      },
-      {
-        "translations": {
-          "fr": "** | \uD83D\uDD75 Vous vous accroupissez au sol sans un bruit. Des bruits de pas se rapprochent. Vous attendez dans l'ombre jusqu'à ce que tout soit redevenu silencieux. Après un intense stress, vous vous endormez à même le sol. \uD83D\uDE34",
-          "en": "** | \uD83D\uDD75 You crouch to the ground without a sound. Footsteps are coming closer. You wait in the shadows until everything is silent again. After an intense stress, you fall asleep on the floor. \uD83D\uDE34"
-        },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":sleeping:",
-        "experience": 20,
-        "money": 0,
-        "item": false
-      },
-      {
-        "translations": {
-          "fr": "** | \uD83D\uDD75 Vous vous cachez dans une crevasse du mur pendant une dizaine de minutes. Vous n'entendez plus rien et décidez de repartir pour plus de sûreté.",
-          "en": "** | \uD83D\uDD75 You hide in a gap in the wall for about ten minutes. You don't hear anything more and decide to leave for safety."
-        },
-        "lostTime": 10,
-        "health": 0,
-        "effect": ":clock2:",
-        "experience": 25,
-        "money": 0,
-        "item": false
-      }
-    ],
+        {
+          "translations": {
+            "fr": "Vous vous cachez dans une crevasse du mur pendant une dizaine de minutes. Vous n'entendez plus rien et décidez de repartir pour plus de sûreté.",
+            "en": "You hide in a gap in the wall for about ten minutes. You don't hear anything more and decide to leave for safety."
+          },
+          "lostTime": 10,
+          "health": 0,
+          "effect": ":clock2:",
+          "experience": 25,
+          "money": 0,
+          "item": false
+        }
+      ]
+    },
     "end": [
       {
         "translations": {
-          "fr": "** | \uD83E\uDD37 Vous restez les bras ballants, le bruit étant sûrement dû à votre imagination. Vous contemplez le bout de parchemin quelques instants. Vous sortez du château et continuez votre route. Réfléchissant à ce qui venait de se passer, vous ne remarquez pas le piège à loup à vos pieds, et celui-ci se referme sur votre jambe. Blessé, vous devrez vous soigner. \uD83E\uDD15",
-          "en": "** | \uD83E\uDD37 You stand there, the noise is probably due to your imagination. You contemplate the piece of parchment for a few moments. You leave the castle and continue on your way. Thinking about what just happened, you don't notice the wolf trap at your feet, and it closes on your leg. Injured, you will have to heal yourself. \uD83E\uDD15"
+          "fr": "\uD83E\uDD37 Vous restez les bras ballants, le bruit étant sûrement dû à votre imagination. Vous contemplez le bout de parchemin quelques instants. Vous sortez du château et continuez votre route. Réfléchissant à ce qui venait de se passer, vous ne remarquez pas le piège à loup à vos pieds, et celui-ci se referme sur votre jambe. Blessé, vous devrez vous soigner.",
+          "en": "\uD83E\uDD37 You stand there, the noise is probably due to your imagination. You contemplate the piece of parchment for a few moments. You leave the castle and continue on your way. Thinking about what just happened, you don't notice the wolf trap at your feet, and it closes on your leg. Injured, you will have to heal yourself."
         },
         "lostTime": 0,
         "health": 0,
@@ -207,8 +231,8 @@
       },
       {
         "translations": {
-          "fr": "** | \uD83D\uDD0D Vous attendez quelques instants avant de glisser le parchemin dans votre poche. Méfiant, vous décidez de ne pas suivre ces indications. Vous bifurquez dans l'escalier qui descend sur votre gauche. Après quelques minutes de marche dans des souterrains, vous découvrez les caves du château. Des anciennes caisses de vin s'y trouvent. Vous buvez goulûment dans plusieurs bouteilles et vous effondrez à terre, ivre. \uD83E\uDD2A",
-          "en": "** | \uD83D\uDD0D You wait a few moments before placing the parchment in your pocket. Suspicious, you decide not to follow these indications. You turn into the staircase that goes down on your left. After a few minutes of walking in the underground, you discover the caves of the castle. Some old wine boxes are there. You drink in several bottles and collapse to the ground, drunk. \uD83E\uDD2A"
+          "fr": "\uD83D\uDD0D Vous attendez quelques instants avant de glisser le parchemin dans votre poche. Méfiant, vous décidez de ne pas suivre ces indications. Vous bifurquez dans l'escalier qui descend sur votre gauche. Après quelques minutes de marche dans des souterrains, vous découvrez les caves du château. Des anciennes caisses de vin s'y trouvent. Vous buvez goulûment dans plusieurs bouteilles et vous effondrez à terre, ivre.",
+          "en": "\uD83D\uDD0D You wait a few moments before placing the parchment in your pocket. Suspicious, you decide not to follow these indications. You turn into the staircase that goes down on your left. After a few minutes of walking in the underground, you discover the caves of the castle. Some old wine boxes are there. You drink in several bottles and collapse to the ground, drunk."
         },
         "lostTime": 0,
         "health": 0,
@@ -219,8 +243,8 @@
       },
       {
         "translations": {
-          "fr": "** | \uD83D\uDEB6 Vous restez aux aguets quelques instants, puis admirez l'architecture de la bâtisse. Un nouveau bruit se fait entendre et vous décidez de ne pas vous éternisez. Vous sortez simplement du château et vous remettez en route.",
-          "en": "** | \uD83D\uDEB6 You stay alert for a few moments, then admire the architecture of the building. A new noise is heard and you decide not to stay long. You simply walk out of the castle and get back on the road."
+          "fr": "\uD83D\uDEB6 Vous restez aux aguets quelques instants, puis admirez l'architecture de la bâtisse. Un nouveau bruit se fait entendre et vous décidez de ne pas vous éternisez. Vous sortez simplement du château et vous remettez en route.",
+          "en": "\uD83D\uDEB6 You stay alert for a few moments, then admire the architecture of the building. A new noise is heard and you decide not to stay long. You simply walk out of the castle and get back on the road."
         },
         "lostTime": 0,
         "health": 0,
@@ -231,8 +255,8 @@
       },
       {
         "translations": {
-          "fr": "** | \uD83D\uDCA6 Un nouveau bruit se fait entendre mais vous n'y prêtez pas attention. C'est alors que vous voyez tomber des gouttes d'eau du plafond en ressortant. Perdu dans votre contemplation, vous ne voyez pas la flaque d'eau devant vous, et glissez dedans.",
-          "en": "** | \uD83D\uDCA6 A new noise is heard but you do not pay attention to it. Then you see drops of water falling from the ceiling as you come out. Lost in your contemplation, you do not see the puddle in front of you, and slip into it."
+          "fr": "\uD83D\uDCA6 Un nouveau bruit se fait entendre mais vous n'y prêtez pas attention. C'est alors que vous voyez tomber des gouttes d'eau du plafond en ressortant. Perdu dans votre contemplation, vous ne voyez pas la flaque d'eau devant vous, et glissez dedans.",
+          "en": "\uD83D\uDCA6 A new noise is heard but you do not pay attention to it. Then you see drops of water falling from the ceiling as you come out. Lost in your contemplation, you do not see the puddle in front of you, and slip into it."
         },
         "lostTime": 0,
         "health": -5,
