@@ -1,128 +1,146 @@
 {
   "translations": {
-    "fr": " : ** 🌲 Vous marchez le long d'un sentier sinueux, en route pour votre prochaine escale. Au bout d'un petit moment, vous arrivez à l'orée d'une grande forêt. Voulant rompre l'ennui des derniers heures de marche, vous y entrez. Après un petit moment de marche dans des sentiers sinueux, vous vous trouvez nez-à-nez avec un sanglier. Celui-ci semble relativement peu amical.\n:cookie: Essayer de l'amadouer avec un biscuit\n:crossed_swords: Sortir votre épée\n:clown: Lui faire une blague\n\n*- Utilisez les réactions pour effectuer une action :warning: Ne pas répondre est considéré comme un choix à part !*",
-    "en": " : ** 🌲 You walk along a long sinuous path, on your way to your next stop. After a while, you arrive at the edge of a large forest in which you enter, wishing to break the bore of the past few days, spent only by walking along a path. After a short walk, you find yourself face-to-face with a boar. It seems relatively unfriendly.\n:cookie: Try to coax it with a cookie\n:crossed_swords: Unsheathe your sword\n:clown: Tell it a joke\n\n*-Use the reactions to take an action. :warning: Not reacting is also considered a choice!*"
+    "fr": "🌲 Vous marchez le long d'un sentier sinueux, en route pour votre prochaine escale. Au bout d'un petit moment, vous arrivez à l'orée d'une grande forêt. Voulant rompre l'ennui des derniers heures de marche, vous y entrez. Après un petit moment de marche dans des sentiers sinueux, vous vous trouvez nez-à-nez avec un sanglier. Celui-ci semble relativement peu amical.",
+    "en": "🌲 You walk along a long sinuous path, on your way to your next stop. After a while, you arrive at the edge of a large forest in which you enter, wishing to break the bore of the past few days, spent only by walking along a path. After a short walk, you find yourself face-to-face with a boar. It seems relatively unfriendly."
   },
   "possibilities": {
-    "🍪": [
-      {
-        "translations": {
-          "fr": "** | 🍪 Vous sortez de votre sac un biscuit, et le tendez au sanglier. Méfiant tout d'abord, il ne tarde pas à s'approcher et le manger. L'ayant englouti en quelques secondes, il se frotte à vous. Vous interprétez cela comme le signe qu'il en veut plus, et lui en sortez trois autres, qu'il avale tout aussi vite que le premier. Tout heureux, le sanglier se met à fouir le sol, et vous voyez apparaître un objet là où il creuse. Pensant que c'est sa façon de vous remercier, vous le caressez, prenez l'objet, et reprenez route... Cependant, il vous suit jusqu'à ce que vous sortiez des bois.",
-          "en": "** | 🍪 You take a biscuit out of your bag, and offer it to the boar. Wary at first, he doesn't wait long to approach and to eat it. Having engulfed it in a few seconds, he rubs with you. You interpret this as a sign that he wants more, and you offer him three others, that he swallows as quickly as the first. So happy, the boar begins to dig a hole in the ground, and you see an item appearing in the hole. Think it was his way of thanking you, you caress him, take the object, and go away... However, it follows you until you get out of the forest."
-        },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":smiley:",
-        "experience": 350,
-        "money": 0,
-        "item": true
+    "🍪": {
+      "translations": {
+        "fr": "Essayer de l'amadouer avec un biscuit",
+        "en": "Try to coax it with a cookie"
       },
-      {
-        "translations": {
-          "fr": "** | 🍪 Vous sortez de votre sac un biscuit, que le sanglier dédaigne totalement ! Il vous fixe quelques secondes, puis repart. Vous reprenez votre route.",
-          "en": "** | 🍪 You take a biscuit out of your bag, that the boar totally scorns! He stares at you for a few seconds, then leaves. You get back on your way."
+      "issues": [
+        {
+          "translations": {
+            "fr": "Vous sortez de votre sac un biscuit, et le tendez au sanglier. Méfiant tout d'abord, il ne tarde pas à s'approcher et le manger. L'ayant englouti en quelques secondes, il se frotte à vous. Vous interprétez cela comme le signe qu'il en veut plus, et lui en sortez trois autres, qu'il avale tout aussi vite que le premier. Tout heureux, le sanglier se met à fouir le sol, et vous voyez apparaître un objet là où il creuse. Pensant que c'est sa façon de vous remercier, vous le caressez, prenez l'objet, et reprenez route... Cependant, il vous suit jusqu'à ce que vous sortiez des bois.",
+            "en": "You take a biscuit out of your bag, and offer it to the boar. Wary at first, he doesn't wait long to approach and to eat it. Having engulfed it in a few seconds, he rubs with you. You interpret this as a sign that he wants more, and you offer him three others, that he swallows as quickly as the first. So happy, the boar begins to dig a hole in the ground, and you see an item appearing in the hole. Think it was his way of thanking you, you caress him, take the object, and go away... However, it follows you until you get out of the forest."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":smiley:",
+          "experience": 350,
+          "money": 0,
+          "item": true
         },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":smiley:",
-        "experience": 150,
-        "money": 0,
-        "item": false
+        {
+          "translations": {
+            "fr": "Vous sortez de votre sac un biscuit, que le sanglier dédaigne totalement ! Il vous fixe quelques secondes, puis repart. Vous reprenez votre route.",
+            "en": "You take a biscuit out of your bag, that the boar totally scorns! He stares at you for a few seconds, then leaves. You get back on your way."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":smiley:",
+          "experience": 150,
+          "money": 0,
+          "item": false
+        },
+        {
+          "translations": {
+            "fr": "Vous sortez de votre sac un biscuit, et le tendez au sanglier. Sans doute affamé, il se jette sur vous et le dérobe de votre main, vous écorchant au passage. Pas contenté avec ce seul biscuit, et comme vous êtes encore affaissé sur le sol après sa charge, il éventre votre sac à la recherche de nourriture. Il mange tout ce qu'il peut, saccageant au passage une partie de vos biens. Une fois satisfais, il quitte... vous attendez une poignée de minutes, puis repartez, abattu.",
+            "en": "You take a biscuit out of your bag, and offer it to the boar. Probably starving, it rams on you and steals it out of your hand, scratching you in the way. Not satisfied with this single biscuit, and because you are still laying on the ground after its charge, it opens your bag in search for food. It eats everything that it can, breaking a part of your belongings in the process. Once satisfied, it goes away... you wait a couple of minutes, then leave, disgusted."
+          },
+          "lostTime": 0,
+          "health": -1,
+          "effect": ":smiley:",
+          "experience": 0,
+          "money": -250,
+          "item": false
+        }
+      ]
+    },
+    "🗡": {
+      "translations": {
+        "fr": "Sortir votre épée",
+        "en": "Unsheathe your sword"
       },
-      {
-        "translations": {
-          "fr": "** | 🍪 Vous sortez de votre sac un biscuit, et le tendez au sanglier. Sans doute affamé, il se jette sur vous et le dérobe de votre main, vous écorchant au passage. Pas contenté avec ce seul biscuit, et comme vous êtes encore affaissé sur le sol après sa charge, il éventre votre sac à la recherche de nourriture. Il mange tout ce qu'il peut, saccageant au passage une partie de vos biens. Une fois satisfais, il quitte... vous attendez une poignée de minutes, puis repartez, abattu.",
-          "en": "** | 🍪 You take a biscuit out of your bag, and offer it to the boar. Probably starving, it rams on you and steals it out of your hand, scratching you in the way. Not satisfied with this single biscuit, and because you are still laying on the ground after its charge, it opens your bag in search for food. It eats everything that it can, breaking a part of your belongings in the process. Once satisfied, it goes away... you wait a couple of minutes, then leave, disgusted."
+      "issues": [
+        {
+          "translations": {
+            "fr": "Vous vous apprêtez à dégainer, mais le sanglier vous fonce dessus avant que vous n'ayez pu faire quoi que ce soit. Vous tombez à terre, blessé.",
+            "en": "You are about to take your weapon out, but the boar comes on you before you are able to do anything. You fall down, hurt."
+          },
+          "lostTime": 0,
+          "health": -25,
+          "effect": ":smiley:",
+          "experience": 0,
+          "money": 0,
+          "item": false
         },
-        "lostTime": 0,
-        "health": -1,
-        "effect": ":smiley:",
-        "experience": 0,
-        "money": -250,
-        "item": false
-      }
-    ],
-    "🗡️": [
-      {
-        "translations": {
-          "fr": "** | 🗡️ Vous vous apprêtez à dégainer, mais le sanglier vous fonce dessus avant que vous n'ayez pu faire quoi que ce soit. Vous tombez à terre, blessé.",
-          "en": "** | 🗡️ You are about to take your weapon out, but the boar comes on you before you are able to do anything. You fall down, hurt."
+        {
+          "translations": {
+            "fr": "Vous sortez votre épée et au moment où le sanglier vous fonce dessus, vous l'éventrez. Vous emmenez sa carcasse et vous régalez de sa chair dorée au feu. Il vous faudra digérer avant de repartir.",
+            "en": "You get your sword out and as the boar rams into you, you stab it. You take its corpse and enjoy its golden meat on the fire. You will need to digest before you continue on your road."
+          },
+          "lostTime": 145,
+          "health": 20,
+          "effect": ":clock2:",
+          "experience": 125,
+          "money": 0,
+          "item": false
         },
-        "lostTime": 0,
-        "health": -25,
-        "effect": ":smiley:",
-        "experience": 0,
-        "money": 0,
-        "item": false
+        {
+          "translations": {
+            "fr": "Le sanglier s'apprête à vous foncer dessus lorsqu'un chevalier surgit au galop sur le sentier. Cela fait fuir le sanglier à travers les broussailles. Vous remerciez chaleureusement votre sauveur et lui offrez quelque pièces. Vous repartez ensuite dans votre aventure.",
+            "en": "The boar prepares to attack you when a knight appears and make it run away. You thank him warmly and offer him some coins."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":smiley:",
+          "experience": 150,
+          "money": -150,
+          "item": false
+        },
+        {
+          "translations": {
+            "fr": "Le sanglier s'apprête à vous attaquer lorsqu'un chevalier surgit du chemin et le fait fuir. Vous le remerciez chaleureusement et lui offrez quelque pièces. Celui-ci, vous trouvant fort sympathique, refuse l'argent et vous offre un objet en guise d'adieu.",
+            "en": "The boar prepares to attack you when a knight appears and make it run away. You thank him warmly and offer him some coins. Him finding you nice, he refuses the money and offers you an object as a goodbye present."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":smiley:",
+          "experience": 350,
+          "money": 0,
+          "item": true
+        }
+      ]
+    },
+    "🤡": {
+      "translations": {
+        "fr": "Lui faire une blague",
+        "en": "Tell it a joke"
       },
-      {
-        "translations": {
-          "fr": "** | 🗡️ Vous sortez votre épée et au moment où le sanglier vous fonce dessus, vous l'éventrez. Vous emmenez sa carcasse et vous régalez de sa chair dorée au feu. Il vous faudra digérer avant de repartir.",
-          "en": "** | 🗡️ You get your sword out and as the boar rams into you, you stab it. You take its corpse and enjoy its golden meat on the fire. You will need to digest before you continue on your road."
+      "issues": [
+        {
+          "translations": {
+            "fr": "Vous faites une blague au sanglier... qui n'a pas l'air de prêter attention à ce que vous déblatérez. Vous repartez, un peu déçu.",
+            "en": "You tell a joke to the boar... which doesn't seem to pay attention to what you're saying. You go on your way, a little dissapointed."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":smiley:",
+          "experience": 150,
+          "money": 0,
+          "item": false
         },
-        "lostTime": 145,
-        "health": 20,
-        "effect": ":clock2:",
-        "experience": 125,
-        "money": 0,
-        "item": false
-      },
-      {
-        "translations": {
-          "fr": "** | 🗡️ Le sanglier s'apprête à vous foncer dessus lorsqu'un chevalier surgit au galop sur le sentier. Cela fait fuir le sanglier à travers les broussailles. Vous remerciez chaleureusement votre sauveur et lui offrez quelque pièces. Vous repartez ensuite dans votre aventure.",
-          "en": "** | 🗡️ The boar prepares to attack you when a knight appears and make it run away. You thank him warmly and offer him some coins."
-        },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":smiley:",
-        "experience": 150,
-        "money": -150,
-        "item": false
-      },
-      {
-        "translations": {
-          "fr": "** | 🗡️ Le sanglier s'apprête à vous attaquer lorsqu'un chevalier surgit du chemin et le fait fuir. Vous le remerciez chaleureusement et lui offrez quelque pièces. Celui-ci, vous trouvant fort sympathique, refuse l'argent et vous offre un objet en guise d'adieu.",
-          "en": "** | 🗡️ The boar prepares to attack you when a knight appears and make it run away. You thank him warmly and offer him some coins. Him finding you nice, he refuses the money and offers you an object as a goodbye present."
-        },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":smiley:",
-        "experience": 350,
-        "money": 0,
-        "item": true
-      }
-    ],
-    "🤡": [
-      {
-        "translations": {
-          "fr": "** | 🤡 Vous faites une blague au sanglier... qui n'a pas l'air de prêter attention à ce que vous déblatérez. Vous repartez, un peu déçu.",
-          "en": "** | 🤡 You tell a joke to the boar... which doesn't seem to pay attention to what you're saying. You go on your way, a little dissapointed."
-        },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":smiley:",
-        "experience": 150,
-        "money": 0,
-        "item": false
-      },
-      {
-        "translations": {
-          "fr": "** | 🤡 Vous faites une blague au sanglier.... qui semble l'apprécier. En effet, celui-ci tremblote comme s'il riait. Juste après, il s'éloigne de vous et vous le suivez, curieux. Lorsqu'il s'arrête, vous remarquez un cadavre dans les broussailles. N'ayant aucun remords, vous le dépouillez, et repartez pour votre aventure, un nouvel objet en poche.",
-          "en": "** | 🤡 You tell a joke to the boar.... which seems to appreciate it. Indeed, it trembles as if it were laughing. Just after, it slowly goes away, and you follow it. When it stops, a corpse is laying next to it. You strip it, and leave, whistling."
-        },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":smiley:",
-        "experience": 450,
-        "money": 250,
-        "item": true
-      }
-    ],
+        {
+          "translations": {
+            "fr": "Vous faites une blague au sanglier.... qui semble l'apprécier. En effet, celui-ci tremblote comme s'il riait. Juste après, il s'éloigne de vous et vous le suivez, curieux. Lorsqu'il s'arrête, vous remarquez un cadavre dans les broussailles. N'ayant aucun remords, vous le dépouillez, et repartez pour votre aventure, un nouvel objet en poche.",
+            "en": "You tell a joke to the boar.... which seems to appreciate it. Indeed, it trembles as if it were laughing. Just after, it slowly goes away, and you follow it. When it stops, a corpse is laying next to it. You strip it, and leave, whistling."
+          },
+          "lostTime": 0,
+          "health": 0,
+          "effect": ":smiley:",
+          "experience": 450,
+          "money": 250,
+          "item": true
+        }
+      ]
+    },
     "end": [
       {
         "translations": {
-          "fr": "** | 🐗 Vous vous dévisagez pendant quelques minutes, jusqu'à ce que le sanglier se désintéresse de vous et s'enfonce dans la forêt.",
-          "en": "** | 🐗 You look at each others for a few minutes, until the boar looses his interest for you and go somewhere else."
+          "fr": "🐗 Vous vous dévisagez pendant quelques minutes, jusqu'à ce que le sanglier se désintéresse de vous et s'enfonce dans la forêt.",
+          "en": "🐗 You look at each others for a few minutes, until the boar looses his interest for you and go somewhere else."
         },
         "lostTime": 0,
         "health": 0,
