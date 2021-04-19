@@ -1,13 +1,13 @@
 {
   "translations": {
-    "fr": " : ** \uD83D\uDCDC Vous vous baladez lorsque vous apercevez un château au loin, il semble abandonné. Étant avide d'aventure, vous décidez d'y entrer. A première vue, il est désert. Vous vous apprêtez à l’explorer lorsqu’un détail attire votre attention. De nature curieuse, vous vous baissez et découvrez un bout de parchemin dans un recoin. Un message y est inscrit, vous le décryptez avec peine, celui-ci indique l'emplacement d'un trésor dans le château. Un bruit vous interrompt dans vos réflexions.\n\n➡ Courir jusqu'à l'aile droite du château\n⬅ Se diriger vers l'aile gauche\n⤵ Faire demi tour\n\uD83D\uDD75 Se cacher\n\n*- Utilisez les réactions pour effectuer une action ⚠ Ne pas répondre est considéré comme un choix à part !*",
+    "fr": " : ** \uD83D\uDCDC Alors que vous vous baladez, vous apercevez un château au loin, il semble abandonné. Avide d'aventure, vous décidez d'y entrer. A première vue, il est désert. Vous vous apprêtez à l’explorer lorsqu’un détail attire votre attention. Vous vous baissez et découvrez un bout de parchemin dans un recoin. Vous comprenez avec peine que celui-ci indique l'emplacement d'un trésor dans le château.\n\n➡ Courir jusqu'à l'aile droite du château\n⬅ Se diriger vers l'aile gauche\n⤵ Faire demi tour\n\uD83D\uDD75 Se cacher\n\n*- Utilisez les réactions pour effectuer une action ⚠ Ne pas répondre est considéré comme un choix à part !*",
     "en": " : ** \uD83D\uDCDC While walking, you see a castle far from you, it seems abandoned. Being hungry for adventure, you decide to enter. At first sight, it is deserted. You are going to explore it when a detail catches your attention. Curious, you crouch down and discover a piece of parchment in a corner. A message is written on it, you decrypt it with difficulty, it indicates the location of a treasure in the castle. A noise interrupts your thoughts.\n\n➡ Run to the right wing of the castle\n⬅ Move to the left wing of the castle\n⤵ Turn around\n\uD83D\uDD75 Hide yourself\n\n*-Use the reactions to take an action. ⚠ Not reacting is also considered a choice!*"
   },
   "possibilities": {
     "➡": [
       {
         "translations": {
-          "fr": "** | ➡ Vous vous dépêchez d'atteindre l'escalier lorsque quelqu'un surgit devant vous. De surprise, vous trébuchez et vous tordez la cheville. L'inconnu se confond en excuses, c'est un aventurier qui sillone les châteaux à la recherche de biens précieux. Pour se faire pardonner, il vous offre un de ses objets. \uD83E\uDD15",
+          "fr": "** | ➡ Vous vous dépêchez d'atteindre l'escalier lorsque quelqu'un surgit devant vous. De surprise, vous trébuchez et vous tordez la cheville. L'inconnu se confond en excuses, c'est un aventurier qui sillone les châteaux à la recherche de biens précieux. Pour se faire pardonner, il vous offre l'un de ses objets. \uD83E\uDD15",
           "en": "** | ➡ You are speeding up to reach the stairs when someone appears in front of you. In surprise, you fall and twist your ankle. The stranger made excuses for his actions, he was an adventurer who travels the castles in search of precious goods. To compensate, he offers you one of his items. \uD83E\uDD15"
         },
         "lostTime": 0,
@@ -31,7 +31,7 @@
       },
       {
         "translations": {
-          "fr": "** | ➡ Vous atteignez l'aile droite lorsque le sol s'effondre sous vos pieds. C'était en fait un piège ! Des brigands vous dépouillent de votre bourse. Vous finissez par ressortir, les poches vides. L'un d'entre eux a fait tomber une sacoche dans la fuite, vous vous en approchez pour l'ouvrir. Vous découvrez des restes de viande. Vous cuisinez le tout et cela vous remonte le moral.",
+          "fr": "** | ➡ Vous atteignez l'aile droite lorsque le sol s'effondre sous vos pieds. C'était en fait un piège ! Des brigands vous dépouillent de votre bourse. Vous finissez par ressortir, les poches vides. En quittant le chateau, vous découvrez une besace probablement perdue par l'un de vos assaillants. Vous y découvrez des restes de viande que vous cuisinez avec plaisir.",
           "en": "** | ➡ You reach the right wing when the ground collapses under your feet. It was a trap! Robbers rob you of your purse. You finally leave with your pockets empty. One of them dropped a bag in the escape, you approach it to open it. You discover scraps of meat. You cook it all and it lifts your mood."
         },
         "lostTime": 0,
@@ -69,7 +69,7 @@
       },
       {
         "translations": {
-          "fr": "** | ⬅ Vous atteignez l'aile gauche, essouflé. Vous suivez votre instinct et ouvrez une porte sur votre droite. Celle-ci grince pour s'ouvrir sur une pièce vide. C'est en avançant que vous découvrez un objet dans un recoin de la pièce. Vous le prenez, il vous sera utile pour l'aventure. ",
+          "fr": "** | ⬅ Vous atteignez l'aile gauche, essouflé. Vous suivez votre instinct et ouvrez une porte sur votre droite. Celle-ci grince pour s'ouvrir sur une pièce vide. C'est en avançant que vous découvrez un objet dans un recoin de la pièce. Vous le ramassez, il vous sera utile pour l'aventure. ",
           "en": "** | ⬅ You reach the left wing, out of breath. You follow your instinct and open a door on your right. This one creaks to open on an empty room. It is while moving forward that you discover an item in a corner of the room. You take it, it will be useful for the adventure."
         },
         "lostTime": 15,
@@ -81,7 +81,7 @@
       },
       {
         "translations": {
-          "fr": "** | ⬅ Ne suivant pas les instructions du parchemin, vous allez dans l'aile gauche. Vous avancez prudemment dans les couloirs en essayant de vous repérer. C'est alors qu'une légère odeur vous parvient, vous laissez votre odorat vous guider. Vous arrivez alors dans ce qui devait être une cuisine. Vous apercevez des traces de feu dans la cheminée, indice d'un récent passage. Vous vous avancez, la main sur votre dague, et découvrez un reste de repas. Vous l'engloutissez, cela vous donne un regain d'énergie. Vous revenez ensuite sur vos pas et trouvez la sortie sans trop de difficultés.",
+          "fr": "** | ⬅ Ne suivant pas les instructions du parchemin, vous vous rendez dans l'aile gauche. Vous avancez prudemment dans les couloirs en essayant de vous repérer. C'est alors qu'une légère odeur vous parvient, vous laissez votre odorat vous guider. Vous arrivez alors dans ce qui devait être une cuisine. Vous apercevez des traces de feu dans la cheminée, indice d'un récent passage. Vous vous avancez, la main sur votre dague, et découvrez un reste de repas. Vous l'engloutissez. Vous revenez ensuite sur vos pas et trouvez la sortie sans trop de difficultés.",
           "en": "** | ⬅ Not following the instructions of the scroll, you go to the left wing. You move cautiously through the corridors, trying to locate your position. It is then that a light smell reaches you, you let your sense of smell guide you. You then arrive in what must have been a kitchen. You can see traces of fire in the chimney, an indication of a recent visit. You step forward, hand on your dagger, and discover a leftover meal. You gulp it down, it gives you a boost of energy (+ life). You then retrace your steps and find the exit without too much difficulty."
         },
         "lostTime": 0,
