@@ -1,18 +1,18 @@
 {
   "translations": {
-    "fr": "⚔ Vous êtes tellement épuisé que vous avez du mal à marcher. Vous apercevez un village et pensez à ce moment là que vous êtes sauvé: vous pourrez certainement leur demander un logis et ensuite continuer votre chemin. Lorsque vous arrivez enfin au village, vous êtes nourris et on vous trouve un endroit où dormir. Vous pensez bientôt partir, mais l’un des villageois vient vous voir et vous demande une faveur. Il vous dit qu'en échange ils vous donneront tout ce que vous voudrez. Votre interlocuteur affirme qu’ils pourront vous offrir beaucoup d’or ! Pour cela, il vous suffit simplement de vaincre le dirigeant qui règne sur ces lieux.",
-    "en": "⚔ You are so tired that you have difficulties walking. You spot a village, and think that you are saved, and that you will be able to ask them for a housing before continuing your way. You finally arrive at the village, eat a dinner, and someone finds you a place to sleep. You get ready to go, but one of the villager comes to see you, and offers you everything you need, even gold, in exchange of fighting the ruler of the village."
+    "fr": "⚔ Vous êtes tellement épuisé que vous avez du mal à marcher. Vous apercevez un village et pensez à ce moment là que vous êtes sauvé: vous pourrez certainement leur demander un logis et ensuite continuer votre chemin. Lorsque vous arrivez enfin au village, vous êtes nourris et on vous trouve un endroit où dormir. Vous pensez bientôt partir, mais l’un des villageois vient vous demander une faveur. Il vous dit qu'en échange ils vous donneront tout ce que vous voudrez. Votre interlocuteur affirme qu’ils pourront vous offrir beaucoup d’or ! Pour cela, il vous suffit simplement de vaincre le dirigeant qui règne sur ces lieux.",
+    "en": "⚔ You are so tired that you have difficulties walking. You spot a village, and think that you are saved, and that you will be able to ask them for a housing before continuing your way. You finally arrive at the village, eat a dinner, and someone finds you a place to sleep. You get ready to go, but one of the villager comes to see you, and offers you everything you want, even gold, in exchange of fighting the ruler of the village."
   },
   "possibilities": {
     "⚔": {
       "translations": {
         "fr": "Aider les villageois à se débarrasser du dirigeant.",
-        "en": "Help the villagers to get rid of the ruler."
+        "en": "Help the villagers to get rid of the seignior."
       },
       "issues": [
         {
           "translations": {
-            "fr": "Avec le village, vous assiégez le château du dirigeant. Impatient que cela se termine, vous surveillez le château, mais personne n'en sort avant que la nuit ne tombe, vous décidez donc de vous reposer. Or, c'est durant la nuit que le dirigeant sort enfin de son château, accompagné d'une trentaine d'hommes. Ils arrivent jusqu'au campement que vous avez établi et passent immédiatement à l'attaque. Vous profitez de la panique générale pour voler un cheval et fuyez.",
+            "fr": "Avec le village, vous assiégez le château du seigneur. Impatient que cela se termine, vous surveillez le château, mais personne n'en sort avant que la nuit ne tombe, vous décidez donc de vous reposer. Or c'est durant la nuit que le seigneur sort enfin de son château, accompagné d'une trentaine d'hommes. Ils arrivent jusqu'au campement que vous avez établi et passent immédiatement à l'attaque. Vous profitez de la panique générale pour voler un cheval et fuyez.",
             "en": "You siege the ruler's castle, and before ending it you have a look at the castle, but noone get out. Once the night falls you decide to take some rest, but during the night the ruler finally gets out with about thirty mens, and attack you camp. You take advantage of the general panic to steal a horse and run away."
           },
           "lostTime": 0,
@@ -24,7 +24,7 @@
         },
         {
           "translations": {
-            "fr": "Vous et les villageois organisez une rébellion ! Malheureusement, quand vous décidez d'attaquer un garde, les villageois trop effrayés ne vous suivent pas et s’enfuient. Le garde vous donne un violent coup de poing dans la mâchoire et réussit à vous maîtriser, puis profite que vous soyez à terre pour vous voler ce que vous possédez. Il vous laisse ainsi et s'en va. Vous n'arrivez plus à vous relever et avez mal partout. :head_bandage:",
+            "fr": "Vous et les villageois organisez une rébellion ! Malheureusement, lorsque vous décidez d'attaquer un garde, les villageois trop effrayés ne vous suivent pas et s’enfuient. Le garde vous donne un violent coup de poing dans la mâchoire et réussit à vous maîtriser, puis profite que vous soyez à terre pour vous voler ce que vous possédez. Il vous laisse ainsi et s'en va. Vous n'arrivez plus à vous relever et avez mal partout. :head_bandage:",
             "en": "With the help of the villagers organise a rebellion ! Sadly, once you decide to attack a guard, the affraid villagers doesn't follow you. The guard success on taking control of you, and hits you with a strong punch on the jaw, and then takes advantage of you being on the ground to steal everything you have. He leaves you there and goes. You are hurt and can no longer get up. :head_bandage:"
           },
           "lostTime": 0,
@@ -36,8 +36,8 @@
         },
         {
           "translations": {
-            "fr": "Vous décidez d'organiser une révolte ! Cependant un villageois vous trahit pour obtenir une récompense, et les gardes arrivent par derrière. Ils tuent tous les villageois sur leur passage pour vous capturer ! Vous êtes ensuite emmené au château du dirigeant où vous lui racontez tout. Il vous oblige à le conduire jusqu'au traître qui vous a demandé votre aide, vous acceptez et il tue le villageois devant vos yeux. Vous comprenez trop tard qu'il veut uniquement se débarrasser de tous ceux qui pourraient lui poser problème. Il vous donne un violent coup sur le dos et vous dit de ne plus jamais revenir.",
-            "en": "You decide to organise a revolt ! However, a villager betrays you, and the guard come from the back. They kill all the villager in front of them in order to capture you. you are then taken to the ruler's castle, and explain him everything. He then orders you to get him to the traitor that asked your help. You accept, and he kills the villager in front of you. You understand to late that he tries to get rid of anyone that could be an issue for him. He hits you at the back, and tell you to never come back."
+            "fr": "Vous décidez d'organiser une révolte ! Cependant un villageois vous trahit afin d'obtenir une récompens. Les gardes arrivent par derrière et tuent tous les villageois sur leur passage pour vous capturer. Vous êtes ensuite emmené au château du seigneur où vous lui racontez tout. Il vous oblige à le conduire jusqu'au traître qui vous a demandé votre aide, vous acceptez et il tue le villageois devant vos yeux. Il vous donne ensuite un violent coup sur le dos et vous dit de ne plus jamais revenir.",
+            "en": "You decide to organise a revolt ! However, a villager betrays you, and the guard come from the back. They kill all the villager in front of them in order to capture you. you are then taken to the ruler's castle, and explain him everything. He then orders you to get him to the traitor that asked your help. You accept, and he kills the villager in front of you. Then he hits you at the back, and tell you to never come back."
           },
           "lostTime": 0,
           "health": -15,
@@ -48,7 +48,7 @@
         },
         {
           "translations": {
-            "fr": "Vous allez voir le dirigeant en lui faisant croire que vous possédez une armée, et qu'ensemble vous pourrez certainement accomplir de grandes choses. Vous lui annoncez aussi que son village compte organiser une rébellion. Après avoir longuement discuté, vous parvenez à gagner sa confiance et lorsque vous pouvez enfin l'approcher, vous en profitez pour lui enfoncer une dague dans le cœur. Les gardes réagissent immédiatement et vous entourent. L’un d’entre eux vous donne un coup d'épée que vous parvenez à esquiver, mais un autre garde se précipite sur vous et vous transperce de sa lame. :skull:",
+            "fr": "Vous allez voir le seigneur en lui faisant croire que vous possédez une armée, et qu'ensemble vous pourrez certainement accomplir de grandes choses. Vous lui annoncez aussi que son village compte organiser une rébellion. Après avoir longuement discuté, vous parvenez à gagner sa confiance et lorsque vous pouvez enfin l'approcher, vous en profitez pour lui enfoncer une dague dans le cœur. Les gardes réagissent immédiatement et vous entourent. L’un d’entre eux vous donne un coup d'épée que vous parvenez à esquiver, mais un autre garde se précipite sur vous et vous transperce de sa lame. :skull:",
             "en": "You go see the ruler and lie to him, saying that you have an entire army, and that together you could do great things. You also tell him that his village is about to organise a rebellion. After having speaked for a while, he now trusts you, and when you can finally approach him, you get a knife into his heart. The guards immediatly attacks you, one of them try to hit you with his sword, and you dodge it, but an other one charges you, and pierces you with his blade. :skull:"
           },
           "lostTime": 0,
@@ -61,8 +61,8 @@
         },
         {
           "translations": {
-            "fr": "Vous tentez d’assiéger le château du dirigeant avec le village. La nuit tombe et vous décidez de dormir devant le château. Le tyran en profite pour sortir avec ses hommes et arrive jusqu’à a votre campement, mais un villageois alerte tout le monde. Vous vous précipitez sur le dirigeant et le tuez. Les gardes se rendent et les villageois vous donnent une bourse remplie d'or pour vous remercier de les avoir aidé !",
-            "en": "You try to siege the ruler's castle. The night falls, and you decide to take some rest in front of the castle. He tries to take advantage of this moment to attack you, but a villager alerts everyone. You charge the ruler, and kill him. The villager thank you for helping them and give you a wallet full of money to thank you for helping them !"
+            "fr": "Vous tentez d’assiéger le château du seigneur avec le village mais la nuit tombe, vous décidez donc de dormir devant le château. Le seigneur en profite pour sortir avec ses hommes et arrive jusqu’à a votre campement, mais un villageois alerte tout le monde. Vous vous précipitez sur le seigneur et le tuez d'un agile coup d'épée. Les gardes se rendent et les villageois vous donnent une bourse remplie d'or pour vous remercier de les avoir aidé !",
+            "en": "You try to siege the seignior's castle. The night falls, and you decide to take some rest in front of the castle. He tries to take advantage of this moment to attack you, but a villager alerts everyone. You charge the ruler, and kill him. The villager thank you for helping them and give you a wallet full of money to thank you for helping them !"
           },
           "lostTime": 0,
           "health": 0,
@@ -73,8 +73,8 @@
         },
         {
           "translations": {
-            "fr": "Vous allez voir le dirigeant et lui annoncez que son village compte organiser une rébellion. Après avoir longuement discuté, vous réussissez à gagner sa confiance et vous en profitez pour lui enfoncer une dague dans le cœur. Les gardes loyaux au dirigeant se précipitent sur vous et vous immobilisent. L’un d'eux propose de vous exécuter devant le village entier pour faire passer le message mais la révolte fait alors rage ! Les villageois se précipitent sur les gardes qui décident de fuir, ils vous donnent ensuite une bourse d’or pour vous remercier.",
-            "en": "You go see the ruler and inform him that his village is organising a rebellion. After having a long chat with him, you gain his trust and hit him at the heart with your knife. The guards instantly come on you and freeze you. One of them suggests to kill you in front of the whole village to make an example, but a revolt takes place ! The villagers charge the guards that decide to escape. They finally give you a wallet with some money to thank you."
+            "fr": "Vous allez voir le seigneur et lui annoncez que son village compte organiser une rébellion. Après avoir longuement discuté, vous réussissez à gagner sa confiance et vous en profitez pour lui enfoncer une dague dans le cœur. Les gardes loyaux au dirigeant se précipitent sur vous et vous immobilisent. L’un d'eux propose de vous exécuter devant le village entier pour faire passer le message mais la révolte fait alors rage ! Les villageois se précipitent sur les gardes qui décident de fuir, ils vous donnent ensuite une bourse d’or pour vous remercier.",
+            "en": "You go see the seignior and inform him that his village is organising a rebellion. After having a long chat with him, you gain his trust and hit him at the heart with your knife. The guards instantly come on you and freeze you. One of them suggests to kill you in front of the whole village to make an example, but a revolt takes place ! The villagers charge the guards that decide to escape. They finally give you a wallet with some money to thank you."
           },
           "lostTime": 0,
           "health": 0,
