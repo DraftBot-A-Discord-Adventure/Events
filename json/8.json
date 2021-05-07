@@ -85,7 +85,7 @@
         },
         {
           "translations": {
-            "fr": "Vous allez voir le seigneur et lui annoncez qu'une rébellion s'organise. Après avoir longuement discuté, vous parvenez à gagner sa confiance et lui enfoncez une dague dans le cœur. Les gardes loyaux au dirigeant vous attaquent, mais d’autres qui ne souhaitaient que sa mort vous aident à fuir. Lorsque vous êtes de retour au village, on vous offre un peu d’argent et un objet pouvant être utile.",
+            "fr": "Vous allez voir le seigneur et lui annoncez qu'une rébellion s'organise. Après avoir longuement discuté, vous parvenez à gagner sa confiance et lui enfoncez une dague dans le cœur. Les gardes loyaux au dirigeant vous attaquent, mais d’autres qui ne souhaitaient que sa mort vous aident à fuir. De retour au village, on vous offre un peu d’argent et un objet pouvant être utile.",
             "en": "You go see the ruler to inform him that a rebellion is taking place. After having a long chat with him, he finally trusts you, and you approach him in order to get you knife into his heart. Some loyal guard get on you, but other wishing the tyrant to leave helps you escaping. Once you get back to the village, the villagers decide to give you some money and an item that could be very useful."
           },
           "lostTime": 0,
@@ -105,7 +105,7 @@
       "issues": [
         {
           "translations": {
-            "fr": "Vous allez voir le seigneur, lui parlez de la demande du villageois et l'aidez à le retrouver. Celui-ci vous remercie et vous repartez.",
+            "fr": "Vous allez voir le seigneur, lui parlez de la demande du villageois et l'aidez à le retrouver. Il vous remercie et vous repartez.",
             "en": "You go see the lord, and inform him about the request of the villager. You help him finding the villager, and he thank you after finding him."
           },
           "lostTime": 0,
