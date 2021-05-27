@@ -4,8 +4,6 @@ Vous entrez dans la ville des érudits, le silence est d'or dans la ville et mai
 
 💵 Tenter de le vendre au prochain passant
 
-🏃 Le voler et s'enfuir avec
-
 📖 Le lire et s'instruire (bien sûr, une sortie sur le Kyutisme)
 
 
@@ -13,3 +11,19 @@ Vous entrez dans la ville des érudits, le silence est d'or dans la ville et mai
 
 🗣️ Vous interpellez l'homme et lui tendez le parchemin, il rougit et le prend en hochant la tête pour vous remercier, des gardes vous apréhendent quelques secondes plus tard et vous emmènent en cellule, là-bas, on vous explique que parler tout haut est interdit. Il vous faudra prendre votre mal en patience. (🔐 -24h)
 
+🗣️ Vous lui rendez le parchemin et celui-ci écarquille les yeux de surprise et vous fait signe de le suivre. Une fois chez lui il vous explique que parler tout haut dans cette ville est dangereux et qu'il vous faut être prudent, reconnaissant pour le parchemin, il vous offre un objet qui pourrait vous être utile. (item)
+
+
+💵 La personne à qui vous proposez de l'acheter vous donne un bon prix de ce texte. Vous quittez la cité heureux d'avoir pu générer des revenus. (+300$)
+
+💵 Le propriétaire du parchemin vous remarque et crie au voleur, un mur d'érudits se forme devant vous et vous barre la route, vous êtes passé à tabac et laissé pour mort dans une ruelle sombre. (-30pv, -1h)
+
+
+📖  Vous ramassez le parchemin et lisez son contenu, il raconte l'histoire d'un vagabond perdu en plein désert entendant une voix lui disant de fonder un groupe rendant hommage à la vie et l'aventure
+
+📖 Vous ramassez le parchemin et commencez à lire son contenu, quelqu'un vous secoue doucement l'épaule, c'est le propriétaire du parchemin vous demandant de le lui rendre en vous souriant, vous lui remettez et reprenez votre route.
+
+
+END 1 : Vous poursuivez votre chemin sans faire plus attention à la situation.
+
+END 2 : Vous restez là sans rien faire d'autre que d'observer fixement ce parchemin. Quelques minutes plus tard, son propriétaire vient le récupérer et vous reprenez votre chemin. (-15min)
