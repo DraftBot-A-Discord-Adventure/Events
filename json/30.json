@@ -1,0 +1,255 @@
+{
+    "translations": {
+        "fr": "Vous êtes à la recherche d'un artéfact. Vous le convoitez car celui-ci, d'après les légendes, offrirait richesse et pouvoir à son possesseur. Après que votre quête vous ai mené jusque devant une tour censée renfermer le trésor, vous vous retrouvez face à un chevalier en armure bloquant l'entrée. Ce dernier reste impassible malgré vos injonctions...",
+        "en": ""
+    },
+    "possibilities": {
+        "⚔️": {
+            "translations": {
+                "fr": "Combattre le chevalier",
+                "en": ""
+            },
+            "issues": [
+                {
+                    "translations": {
+                        "fr": "Prêt à vous battre mais ne connaissant guère votre adversaire, vous vous rapprochez en prétextant vouloir discuter un arrangement. Assez proche de votre ennemi, vous dégainez votre épée et vous élancez sur lui. Malheureusement pour vous, le chevalier était aux aguets et possède une force colossale qu’il utilise pour vous désarmer avant de vous repousser à terre.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": 0,
+                    "effect": ":smiley:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": false
+                },
+                {
+                    "translations": {
+                        "fr": "Prêt à vous battre mais ne connaissant guère votre adversaire, vous vous rapprochez en prétextant vouloir discuter un arrangement. Assez proche de votre ennemi, vous dégainez votre épée et vous élancez sur lui. Le chevalier n’a guère le temps de réagir que vous l’assommez déjà avec le pommeau de votre épée. Cela ne suffit pas. Vous lui assénez un deuxième coup, et cette fois-ci il s’écroule par terre. Vous tentez ensuite d’ouvrir la porte de la tour, en vain. Vous vérifiez si le garde ne possède pas la clé, mais il n’en a pas sur lui. Vous repartez donc, dépité.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": 0,
+                    "effect": ":smiley:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": false
+                },
+                {
+                    "translations": {
+                        "fr": "Prêt à vous battre mais ne connaissant guère votre adversaire, vous vous rapprochez en prétextant vouloir discuter un arrangement. Assez proche de votre ennemi, vous dégainez votre épée et l'assommez avec le pommeau de votre épée. Vous tentez ensuite d’ouvrir la porte de la tour mais celle-ci est fermée. Vous fouillez donc le garde et ne tardez pas à trouver une clé. Vous ouvrez la porte, une fois à l’intérieur vous n’avez aucun mal à trouver l'artéfact. Vous trouvez un marchand après une heure de recherche. Celui-ci vous achète l'artefact pour la modique somme de cinq cents pièces d’or.",
+                        "en": ""
+                    },
+                    "lostTime": 60,
+                    "health": 0,
+                    "effect": ":clock_2:",
+                    "experience": 0,
+                    "money": 500,
+                    "item": false
+                },
+                {
+                    "translations": {
+                        "fr": "Prêt à vous battre mais ne connaissant guère votre adversaire, vous vous rapprochez en prétextant vouloir discuter un arrangement. Proche de votre ennemi, vous dégainez votre épée et l'assommez avec le pommeau. Vous tentez ensuite d’ouvrir la porte de la tour mais celle-ci est fermée... Vous fouillez le garde et ne tardez pas à trouver la clé. Vous ouvrez la porte, à l’intérieur vous n’avez aucun mal à trouver l’artefact. Vous partez donc à la recherche d'un marchand que vous trouvez aisément. Il vole l'artefact d'un habile geste, mais vous parvenez vous aussi à lui voler un objet. Espérant que celui-ci a de la valeur, vous regardez ce que c’est.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": 0,
+                    "effect": ":smiley:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": true
+                },
+                {
+                    "translations": {
+                        "fr": "Ne connaissant guère votre adversaire, vous vous rapprochez en prétextant vouloir discuter un arrangement. Une fois assez proche de votre ennemi vous dégainez votre épée pour l'assommer avec le pommeau. Malheureusement pour vous, le chevalier était bien plus fort et rapide que vous. Celui-ci vous fonce dessus, vous fait un crochet du droit et vous repousse avec un coup de pied ventrale avant de vous asséner un puissant uppercut. A terre, au bord de l'évanouissement, vous n'arrivez pas à vous relever.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": -70,
+                    "effect": ":dizzy_face:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": false
+                },
+                {
+                    "translations": {
+                        "fr": "Le chevalier brandit son épée afin de vous intimider. Devant ce colosse, vous hésitez à fuir, mais décidez de rester. Vous combattrez ce chevalier bien que vos chances de le vaincre soient minces. Votre adversaire pare vos coups un à un sans faire le moindre effort avant de vous renverser à terre. Au sol, désarmé, vous savez que le combat est fini. C'est alors que le chevalier vous dit : tu es bien courageux, voici donc ta récompense. Il vous donne un objet avant de se placer à l'entrée de la tour.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": 0,
+                    "effect": ":smiley:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": true
+                },
+                {
+                    "translations": {
+                        "fr": "Prêt à vous battre, vous vous élancez rapidement sur votre adversaire, dégainant votre épée. Le chevalier a à peine le temps de dégainer son arme que vous arrivez sur lui. A cet instant vous vous rendez compte de votre erreur. Lui possède une armure, vous non. Vous essayez donc de l'assommer avec le pommeau de votre épée, plusieurs fois. Cela semble l'avoir désorienté et vous vous apprêtez donc à recommencer. Mais avant que vous ne puissiez le faire, votre adversaire vous blesse à la jambe. Vous êtes à terre, incapable de vous relever. Le chevalier se place au-dessus de vous et lève son épée. Vous fermez les yeux, et entendez votre propre cri.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": 0,
+                    "effect": ":skull:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": false,
+                    "oneshot": true
+                }
+            ]
+        },
+        "🤝": {
+            "translations": {
+                "fr": "Faire connaissance avec lui",
+                "en": ""
+            },
+            "issues": [
+                {
+                    "translations": {
+                        "fr": "Vous commencez à discuter avec lui, et le trouvez fort sympathique. Vous aiguillez progressivement la discussion sur son son rôle ici, il vous explique qu'il est le gardien de la tour. Vous lui demandez s'il est possible que vous y entriez, mais celui-ci refuse. Vous reprenez votre route.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": 0,
+                    "effect": ":smiley:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": false
+                },
+                {
+                    "translations": {
+                        "fr": "Vous engagez la discussion et parlez durant plusieurs minutes. Le chevalier ne dit point un mot. Comprenant bien qu'il ne parlera pas, vous abandonnez toute discussion en repartant.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": 0,
+                    "effect": ":smiley:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": false
+                },
+                {
+                    "translations": {
+                        "fr": "Vous engagez la discussion, le chevalier vous ordonne immédiatement de passer votre route. Vous ne souhaitez pas partir, mais après qu'il vous montre son épée, vous n'hésitez plus un instant.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": 0,
+                    "effect": ":smiley:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": false
+                },
+                {
+                    "translations": {
+                        "fr": "Vous engagez la discussion mais le chevalier reste muet. Comprenant que toute tentative de dialogue est vaine, vous partez.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": 0,
+                    "effect": ":smiley:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": false
+                },
+                {
+                    "translations": {
+                        "fr": "Vous engagez la discussion et sympathisez durant plus d'une heure avec le chevalier. Vous aiguillez progressivement la discussion sur l'artefact et jouissez par avance de votre talent d'orateur. Le chevalier s'en va chercher l'artefact tandis que vous, obnubilé par votre triomphe, ne remarquez pas la personne derrière vous avant que celle-ci ne vous poignarde dans le dos. Vous tombez à terre.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": -80,
+                    "effect": ":dizzy_face:",
+                    "experience": 0,
+                    "money": 0,
+                    "item": false
+                },
+                {
+                    "translations": {
+                        "fr": "Vous engagez la discussion et tentez de sympathiser durant plus d'une heure avec le chevalier. Celui-ci ne souhaite aucunement vous laisser passer. N'ayant pas d'autre choix, vous dégainez votre épée et l'attaquez. Le chevalier, insensible à vos coups grâce à son armure, vous frappe violemment au visage avant de vous assommer d'un coup de pommeau.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": -30,
+                    "effect": ":dizzy_face:",
+                    "experience": 0,
+                    "money": null,
+                    "item": null
+                },
+                {
+                    "translations": {
+                        "fr": "Vous engagez la discussion et sympathisez avec le chevalier. Vous aiguillez progressivement la discussion sur l'artefact et jouissez par avance de votre talent d'orateur. Le chevalier, convaincu que vous êtes digne de posséder l'artefact, s'en va vous chercher l'artefact. Il vous le rapporte, comme promis. Vous le remerciez et partez à la recherche d'un marchand. Vous parvenez à le vendre pour la modique somme de cinq cents pièces d'or.",
+                        "en": ""
+                    },
+                    "lostTime": 0,
+                    "health": 0,
+                    "effect": ":smiley:",
+                    "experience": 0,
+                    "money": 500,
+                    "item": false
+                }
+            ]
+        },
+        "end": [
+            {
+                "translations": {
+                    "fr": "Vous observez le chevalier, ne sachant que faire face à ce colosse en armure. Finalement, vous reprenez votre chemin.",
+                    "en": ""
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 0,
+                "money": 0,
+                "item": false
+            },
+            {
+                "translations": {
+                    "fr": "Vous observez le chevalier, ne sachant que faire face à ce colosse en armure. Prenant votre courage à deux mains, vous l'affrontez en duel... et êtes misérablement vaincu par celui-ci. Blessé, vous repartez en rampant et trouvez un abri où vous reposer.",
+                    "en": ""
+                },
+                "lostTime": 0,
+                "health": -40,
+                "effect": ":smiley:",
+                "experience": 0,
+                "money": 0,
+                "item": false
+            },
+            {
+                "translations": {
+                    "fr": "Vous observez le chevalier, ne sachant que faire face à ce colosse en armure. Soudain vous vient une idée, vous attendez qu'il fasse nuit et d'être dans le noir total avant de vous diriger discrètement vers la tour. La porte est fermée, le chevalier disparu. Vous escaladez la tour et entrez par une fenêtre. Vous fouillez la tour de fond en comble mais ne trouvez rien à part de la nourriture. Vous mangez sur place et en prenez autant que possible. Ce bon repas vous à redonner des forces, vous vous sentez à présent mieux que jamais.",
+                    "en": ""
+                },
+                "lostTime": 0,
+                "health": 30,
+                "effect": ":smiley:",
+                "experience": 0,
+                "money": 0,
+                "item": false
+            },
+            {
+                "translations": {
+                    "fr": "Ne sachant que faire, vous engagez la discussion et sympathisez avec le chevalier. Vous aiguillez progressivement la discussion sur l'artefact et jouissez par avance de votre talent d'orateur. Le chevalier, convaincu que vous êtes digne de posséder l'artefact, s'en va vous chercher l'artefact. Il vous le rapporte, comme promis. Vous le remerciez et partez à la recherche d'un acheteur. Vous croisez ce qui semble être un marchand, mais c'est en réalité un voleur qui vous tire une flèche dans la jambe. Il vous vole l'artefact et s'en va en courant. Blessé et impuissant, vous le regardez fuir avec votre butin.",
+                    "en": ""
+                },
+                "lostTime": 0,
+                "health": -20,
+                "effect": ":dizzy_face:",
+                "experience": 0,
+                "money": 0,
+                "item": false
+            },
+            {
+                "translations": {
+                    "fr": "Ne sachant que faire, vous engagez la discussion et sympathisez avec le chevalier. Vous aiguillez progressivement la discussion sur l'artefact par avance de votre talent d'orateur. Contre toute attente, lorsque vous lui demandez l'artefact celui-ci refuse. Ne souhaitant guère le contrarier, vous n'insistez pas plus et discutez un peu avec le chevalier avant de reprendre votre chemin.",
+                    "en": ""
+                },
+                "lostTime": 0,
+                "health": 0,
+                "effect": ":smiley:",
+                "experience": 0,
+                "money": 0,
+                "item": false
+            }
+        ]
+    }
+}
