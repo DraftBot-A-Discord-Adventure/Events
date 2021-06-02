@@ -1,7 +1,7 @@
 {
     "translations": {
-        "fr": "Vous êtes à la recherche d'un artéfact. Vous le convoitez car celui-ci, d'après les légendes, offrirait richesse et pouvoir à son possesseur. Après que votre quête vous ai mené jusque devant une tour censée renfermer le trésor, vous vous retrouvez face à un chevalier en armure bloquant l'entrée. Ce dernier reste impassible malgré vos injonctions...",
-        "en": ""
+        "fr": "🏯 Vous êtes à la recherche d'un artéfact. Vous le convoitez car celui-ci, d'après les légendes, offrirait richesse et pouvoir à son possesseur. Après que votre quête vous ai mené jusque devant une tour censée renfermer le trésor, vous vous retrouvez face à un chevalier en armure bloquant l'entrée. Ce dernier reste impassible malgré vos injonctions...",
+        "en": "🏯 "
     },
     "possibilities": {
         "⚔️": {
@@ -84,7 +84,7 @@
                 },
                 {
                     "translations": {
-                        "fr": "Prêt à vous battre, vous vous élancez rapidement sur votre adversaire, dégainant votre épée. Le chevalier a à peine le temps de dégainer son arme que vous arrivez sur lui. A cet instant vous vous rendez compte de votre erreur. Lui possède une armure, vous non. Vous essayez donc de l'assommer avec le pommeau de votre épée, plusieurs fois. Cela semble l'avoir désorienté et vous vous apprêtez donc à recommencer. Mais avant que vous ne puissiez le faire, votre adversaire vous blesse à la jambe. Vous êtes à terre, incapable de vous relever. Le chevalier se place au-dessus de vous et lève son épée. Vous fermez les yeux, et entendez votre propre cri.",
+                        "fr": "Prêt à vous battre, vous vous élancez rapidement sur votre adversaire, dégainant votre épée. Le chevalier eut à peine le temps de dégainer son arme que vous lui arrivez dessus. A cet instant vous vous rendez compte de votre erreur. Lui possède une armure, vous non. Vous essayez donc de l'assommer avec le pommeau de votre épée, plusieurs fois. Cela semble l'avoir désorienté et vous vous apprêtez donc à recommencer. Mais avant que vous ne puissiez le faire, votre adversaire vous blesse à la jambe. Vous êtes à terre, incapable de vous relever. Le chevalier se place au-dessus de vous et lève son épée. Vous fermez les yeux, et entendez votre propre cri.",
                         "en": ""
                     },
                     "lostTime": 0,
