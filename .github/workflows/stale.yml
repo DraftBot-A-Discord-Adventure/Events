@@ -16,9 +16,8 @@ jobs:
     - uses: actions/stale@v3
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        stale-issue-message: "Cet évent n'a pas été modifié depuis plus de 60 jours."
+        stale-issue-message: "Cet évent n'a pas été modifié depuis plus de 60 jours. Si elle n'est pas modifiée dans les 7 prochains jours, elle sera fermée."
         days-before-pr-stale: 9999
-        days-before-issue-close : 60
         days-before-pr-close : 9999
         stale-issue-label: 'Abandonné'
         stale-pr-label: 'Abandonné'
