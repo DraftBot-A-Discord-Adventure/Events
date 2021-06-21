@@ -1,0 +1,24 @@
+name: Mark stale issues and pull requests
+
+on:
+  schedule:
+  - cron: '44 7 * * *'
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+
+    steps:
+    - uses: actions/stale@v3
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: "Cet évent n'a pas été modifié depuis plus de 60 jours."
+        days-before-pr-stale: 9999
+        days-before-issue-close : 60
+        days-before-pr-close : 9999
+        stale-issue-label: 'Abandonné'
+        stale-pr-label: 'Abandonné'
