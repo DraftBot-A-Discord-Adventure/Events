@@ -19,7 +19,7 @@
           "lostTime": 0,
           "health": 0,
           "effect": ":smiley:",
-          "experience": 150,
+          "experience": 450,
           "money": 0,
           "item": true
         },
@@ -31,7 +31,7 @@
           "lostTime": 0,
           "health": -1,
           "effect": ":smiley:",
-          "experience": 150,
+          "experience": 0,
           "money": 0,
           "item": false
         },
@@ -63,7 +63,7 @@
           "lostTime": 0,
           "health": -5,
           "effect": ":smiley:",
-          "experience": 150,
+          "experience": 0,
           "money": 0,
           "item": false
         },
@@ -75,7 +75,7 @@
           "lostTime": 10,
           "health": 0,
           "effect": ":clock2:",
-          "experience": 125,
+          "experience": 25,
           "money": 0,
           "item": false
         },
@@ -87,7 +87,7 @@
           "lostTime": 120,
           "health": 0,
           "effect": ":clock2:",
-          "experience": 125,
+          "experience": 25,
           "money": 0,
           "item": false
         }
@@ -104,11 +104,12 @@
             "fr": "Vous l'attrapez et le gobez d'un coup d'un seul, il ne vous faut pas longtemps pour comprendre que ne pas cuire la pauvre créature était une erreur.",
             "en": "You catch it and swallow it in one fell swoop, it doesn't take you long to realize that not baking the poor creature was a mistake."
           },
-          "lostTime": 360,
+          "lostTime": 0,
           "health": 0,
-          "effect": ":nauseated_face:",
+          "effect": ":sick:",
+          "experience": 0,
           "money": 0,
-          "experience": 0
+          "item": false
         },
         {
           "translations": {
@@ -134,7 +135,7 @@
         "health": 0,
         "effect": ":clock2:",
         "money": 0,
-        "experience": 125,
+        "experience": 25,
         "item": false
       },
       {
@@ -158,7 +159,7 @@
         "health": -10,
         "effect": ":clock2:",
         "money": 0,
-        "experience": 125,
+        "experience": 0,
         "item": false
       }
     ]
