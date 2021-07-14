@@ -1,4 +1,5 @@
 {
+  "restrictedMaps": "pl",
   "translations": {
     "fr": "🏖️ Après vous être baladé plusieurs minutes sur la plage vous croisez une étrange petite créature, c'est un bernard l'hermite ! Il semble s'être retourné sur sa coquille...",
     "en": "🏖️ After walking for several minutes on the beach you meet a strange little creature, this is a hermit crab! It seems to have turned on its shell..."
@@ -44,19 +45,19 @@
           "effect": ":smiley:",
           "experience": 250,
           "money": 500,
-          "item": 
+          "item": false
         }
       ]
     },
     "💞": {
       "translations": {
-        "fr": "Le prendre avec vous"
+        "fr": "Le prendre avec vous",
         "en": "Take it with you"
       },
       "issues": [
         {
           "translations": {
-            "fr": "Vous décidez d'emmener la petite créature avec vous mais celle-ci vous pince violemment au visage et s'empresse de vous échapper."
+            "fr": "Vous décidez d'emmener la petite créature avec vous mais celle-ci vous pince violemment au visage et s'empresse de vous échapper.",
             "en": "You decide to take the little creature with you but it pinches you violently in the face and hurries to escape."
           },
           "lostTime": 0,
@@ -73,7 +74,7 @@
           },
           "lostTime": 10,
           "health": 0,
-          "effect": ":clock2:"
+          "effect": ":clock2:",
           "experience": 125,
           "money": 0,
           "item": false
@@ -94,13 +95,13 @@
     },
     "🍖": {
       "translations": {
-        "fr": "Décider de le manger"
+        "fr": "Décider de le manger",
         "en": "Decide to eat him"
       },
       "issues": [
         {
           "translations": {
-            "fr": "Vous l'attrapez et le gobez d'un coup d'un seul, il ne vous faut pas longtemps pour comprendre que ne pas cuire la pauvre créature était une erreur.";
+            "fr": "Vous l'attrapez et le gobez d'un coup d'un seul, il ne vous faut pas longtemps pour comprendre que ne pas cuire la pauvre créature était une erreur.",
             "en": "You catch it and swallow it in one fell swoop, it doesn't take you long to realize that not baking the poor creature was a mistake."
           },
           "lostTime": 360,
@@ -142,8 +143,8 @@
           "en": "🐚 This spectacle is of no interest to you and you continue on your way immediately."
         },
         "lostTime": 0,
-        "health" 0,
-        "effect": ":smiley:"
+        "health": 0,
+        "effect": ":smiley:",
         "money": 0,
         "experience": 150,
         "item": false
@@ -155,7 +156,7 @@
         },
         "lostTime": 60,
         "health": -10,
-        "effect": ":clock2:"
+        "effect": ":clock2:",
         "money": 0,
         "experience": 125,
         "item": false
