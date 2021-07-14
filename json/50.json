@@ -4,19 +4,19 @@
     "en": "After walking for several minutes on the beach you meet a strange little creature, this is a hermit crab! It seems to have turned on its shell..."
   },
   "possibilities": {
-    "🍪": {
+    "🤝": {
       "translations": {
-        "fr": "",
-        "en": ""
+        "fr": "L'aider et le remettre sur pattes",
+        "en": "Help it and put it back on its feet"
       },
       "issues": [
         {
           "translations": {
-            "fr": "",
-            "en": ""
+            "fr": "Vous le remettez sur pattes puis le regardez partir, fier d'avoir fait une bonne action.",
+            "en": "You get it back on its feet and then watch it go, proud to have done a good deed."
           },
-          "lostTime": ,
-          "health": ,
+          "lostTime": 0,
+          "health": 0,
           "effect": ":smiley:",
           "experience": ,
           "money": ,
