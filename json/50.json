@@ -142,7 +142,7 @@
           "en": "🐚 This spectacle is of no interest to you and you continue on your way immediately."
         },
         "lostTime": 0,
-        "health",
+        "health" 0,
         "effect": ":smiley:"
         "money": 0,
         "experience": 150,
