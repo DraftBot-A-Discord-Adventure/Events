@@ -1,0 +1,47 @@
+{
+  "translations": {
+    "fr": "Après vous être baladé plusieurs minutes sur la plage vous croisez une étrange petite créature, c'est un bernard l'hermite ! Il semble s'être retourné sur sa coquille...",
+    "en": "After walking for several minutes on the beach you meet a strange little creature, this is a hermit crab! It seems to have turned on its shell..."
+  },
+  "possibilities": {
+    "🍪": {
+      "translations": {
+        "fr": "",
+        "en": ""
+      },
+      "issues": [
+        {
+          "translations": {
+            "fr": "",
+            "en": ""
+          },
+          "lostTime": ,
+          "health": ,
+          "effect": ":smiley:",
+          "experience": ,
+          "money": ,
+          "item": true
+        },
+        {
+          "translations": {
+            "fr": "",
+            "en": ""
+          },
+          "lostTime": ,
+          "health": ,
+          "effect": ":smiley:",
+          "experience": ,
+          "money": ,
+          "item": false
+        },
+        {
+          "translations": {
+            "fr": "",
+            "en": ""
+          },
+          "lostTime": ,
+          "health": ,
+          "effect": ":smiley:",
+          "experience": ,
+          "money": ,
+          "item": 
