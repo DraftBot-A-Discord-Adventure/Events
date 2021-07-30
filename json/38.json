@@ -18,7 +18,7 @@
                     "lostTime": -20,
                     "health": 0,
                     "effect": ":clock2:",
-                    "experience": null,
+                    "experience": 25,
                     "money": 0,
                     "item": false
                 },
@@ -42,7 +42,7 @@
                     "lostTime": 0,
                     "health": 0,
                     "effect": ":smiley:",
-                    "experience": null,
+                    "experience": 150,
                     "money": -250,
                     "item": false
                     },
@@ -54,7 +54,7 @@
                     "lostTime": -20,
                     "health": 0,
                     "effect": ":clock2:",
-                    "experience": null,
+                    "experience": 25,
                     "money": 0,
                     "item": false
                 }
@@ -74,7 +74,7 @@
                     "lostTime": -360,
                     "health": -25,
                     "effect": ":head_bandage:",
-                    "experience": null,
+                    "experience": 0,
                     "money": 0,
                     "item": false
                 },
@@ -86,7 +86,7 @@
                     "lostTime": -190,
                     "health": 0,
                     "effect": ":clock2:",
-                    "experience": null,
+                    "experience": 325,
                     "money": 0,
                     "item": true
                 },
@@ -130,7 +130,7 @@
                     "lostTime": -5,
                     "health": 0,
                     "effect": ":clock2:",
-                    "experience": null,
+                    "experience": 25,
                     "money": 0,
                     "item": false
                 },
@@ -202,7 +202,7 @@
                 "health": 0,
                 "effect": "smiley",
                 "experience": 150,
-                "money": null,
+                "money": 0,
                 "item": false
             },
             {
@@ -225,8 +225,8 @@
                 "lostTime": -120,
                 "health": 0,
                 "effect": "clock2",
-                "experience": null,
-                "money": 0,
+                "experience": 25,
+                "money": -100,
                 "item": false
             }
         ]
