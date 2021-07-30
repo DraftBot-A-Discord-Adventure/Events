@@ -1,0 +1,66 @@
+{
+    "translations": {
+        "fr": "",
+        "en": ""
+    },
+    "possibilities": {
+        "": {
+            "translations": {
+                "fr": "",
+                "en": ""
+            },
+            "issues": [
+                {
+                    "translations": {
+                        "fr": "",
+                        "en": ""
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                },
+                {
+                    "translations": {
+                        "fr": "",
+                        "en": ""
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                }
+            ]
+        },
+        "end": [
+            {
+                "translations": {
+                    "fr": "",
+                    "en": ""
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+            {
+                "translations": {
+                    "fr": "",
+                    "en": ""
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            }
+        ]
+    }
+}
