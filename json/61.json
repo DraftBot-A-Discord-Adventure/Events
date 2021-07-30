@@ -18,7 +18,7 @@
                     "lostTime": 360,
                     "health": -30,
                     "effect": ":head_bandage:",
-                    "experience": null,
+                    "experience": 0,
                     "money": 0,
                     "item": false
                 },
@@ -29,8 +29,8 @@
                     },
                     "lostTime": 60,
                     "health": 10,
-                    "effect": ":smiley:",
-                    "experience": null,
+                    "effect": ":clock2:",
+                    "experience": 225,
                     "money": 0,
                     "item": false
                 }
@@ -44,7 +44,7 @@
                     "lostTime": 180,
                     "health": 0,
                     "effect": ":sleeping:",
-                    "experience": null,
+                    "experience": 20,
                     "money": -50,
                     "item": null
                 }
@@ -64,7 +64,7 @@
                     "lostTime": 0,
                     "health": 15,
                     "effect": ":smiley:",
-                    "experience": null,
+                    "experience": 350,
                     "money": -50,
                     "item": false
                 },
@@ -76,7 +76,7 @@
                     "lostTime": 0,
                     "health": -15,
                     "effect": ":smiley:",
-                    "experience": null,
+                    "experience": 0,
                     "money": -100,
                     "item": false
                 },
@@ -88,7 +88,7 @@
                     "lostTime": 0,
                     "health": 0,
                     "effect": ":smiley:",
-                    "experience": null,
+                    "experience": 150,
                     "money": 0,
                     "item": false
                 },
@@ -106,7 +106,7 @@
                     "lostTime": 0,
                     "health": 10,
                     "effect": ":smiley:",
-                    "experience": null,
+                    "experience": 350,
                     "money": 0,
                     "item": false
                 },
@@ -118,7 +118,7 @@
                     "lostTime": 0,
                     "health": 0,
                     "effect": ":smiley:",
-                    "experience": null,
+                    "experience": 150,
                     "money": -100,
                     "item": false
                 },
@@ -130,7 +130,7 @@
                     "lostTime": 0,
                     "health": 0,
                     "effect": ":smiley:",
-                    "experience": null,
+                    "experience": 150,
                     "money": 0,
                     "item": false
                 },
@@ -138,24 +138,24 @@
             {
                 "translations": {
                     "fr": "Vous regardez un moment le spectacle des villageois en train de récolter ces fruits singuliers et reprenez votre route sous le soleil ardent.",
-                    "en": ""
+                    "en": "You watch for a moment the spectacle of the villagers harvesting these singular fruits and resume your journey under the blazing sun."
                 },
                 "lostTime": 10,
                 "health": 0,
-                "effect": ":smiley:",
-                "experience": null,
+                "effect": ":clock2:",
+                "experience": 25,
                 "money": 0,
                 "item": false
             },
             {
                 "translations": {
                     "fr": "L'un de ces fruits tombe à côté de vous. Vous le prenez dans vos mains et l'examinez avec attention avant de reprendre votre route.",
-                    "en": "You watch for a moment the spectacle of the villagers harvesting these singular fruits and resume your journey under the blazing sun. "
+                    "en": "One of these fruits falls next to you. You take it in your hands and examine it carefully before resuming your journey."
                 },
                 "lostTime": 0,
                 "health": 0,
                 "effect": ":smiley:",
-                "experience": null,
+                "experience": 150,
                 "money": 0,
                 "item": false
             }
