@@ -46,7 +46,7 @@
                     "effect": ":sleeping:",
                     "experience": 20,
                     "money": -50,
-                    "item": null
+                    "item": false
                 }
             ]
         },
