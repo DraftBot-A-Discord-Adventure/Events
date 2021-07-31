@@ -230,11 +230,21 @@
                 }
             ]
         },
-        "end": [
-            {
+":coin:": {
+            "translations": {
+                "fr": "Organiser des paris.",
+                "en": "Organize bets."
+            },
+            "issues": [
+                {
+                    "translations": {
+                        "fr": "Vous décidez d'organiser des paris mais personne n'y participe, car tout le monde sait qui sera le gagnant.",
+                        "en": "You decide to organize bets but no one wants to take part, because everyone knows who will the winner be."
+                    },
+                 {
                 "translations": {
-                    "fr": "",
-                    "en": ""
+                    "fr": "Vous décidez d'organiser des paris et pariez que le chevalier ne gagnera pas. Tout le monde vient parier, car tous savent qu'il ne perdra pas. Mais vous avez un plan en tête. Vous proposez au seigneur des lieux de vous battre pour lui, il accepte volontiers votre offre. Comme prévu, vous gagnez le combat et remportez les paris. Cela vous fait une belle somme d'argent.",
+                    "en": "You decide to arrange bets and bet that the knight will not win. Everyone bets, because they know that he will not lose. But you have a plan. You propose to the lord of the places to fight for him, he accepts your offer. As expected you win the battle and win the bets. This gives you a nice amount of money."
                 },
                 "lostTime": null,
                 "health": null,
@@ -243,10 +253,121 @@
                 "money": null,
                 "item": null
             },
+{
+                "translations": {
+                    "fr": "Vous décidez d'organiser des paris et pariez que le chevalier ne gagnera pas. Tout le monde vient parier, car tous savent qu'il ne perdra pas. Mais vous avez un plan en tête. Vous proposez au seigneur des lieux de vous battre pour lui, il accepte volontiers votre offre. Comme prévu, vous gagnez le combat. Alors que vous demandez votre argent aux parieurs, ceux-ci, mécontents, décident de vous prendre l'argent que vous aviez parié.",
+                    "en": "You decide to arrange bets and bet that the knight will not win. Everyone bets, because they know that he will not lose. But you have a plan. You propose to the lord of the places to fight for him, he accepts your offer. As expected you win the battle. While you ask the money to the gamblers, these, discontented, decide to take the money you bet."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+{
+                "translations": {
+                    "fr": "Vous décidez d'organiser des paris et pariez que le chevalier ne gagnera pas. Tout le monde vient parier, car tous savent qu'il ne perdra pas. Mais vous avez un plan en tête. Vous proposez au seigneur des lieux de vous battre pour lui, il accepte volontiers votre offre. Vous perdez le combat, mais vous refusez de donner votre argent. Les villageois se mettent à vous suivre et à vous lancer divers objets. Une fois loin du village, vous avez mal partout. Vous êtes aussi blessé à la jambe, il vous faudra du repos avant de poursuivre votre chemin.",
+                    "en": "You decide to arrange bets and bet that the knight will not win. Everyone bets, because they know that he will not lose. But you have a plan. You propose to the lord of the places to fight for him, he accepts your offer. You lose the fight, but you refuse to give your money. The villagers follow you and throw you items. Once away from the village, you are in pain everywhere. You are also injured to your leg, it will take you some rest before continuing your journey."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+{
+                "translations": {
+                    "fr": "Vous organisez des paris et pariez que le chevalier ne gagnera pas. Beaucoup viennent parier, car tous savent qu'il ne perdra pas. Des gardes vous surveillent afin d'être sûr que vous ne voliez pas l'argent. Vous leur proposez d'aller voir le duel avec eux, sauf quelques-uns qui garderont l'endroit. Ils commencent à se disputer pour savoir qui doit rester, vous en profitez pour prendre une partie de l'argent et filer à toute vitesse. Ils vous poursuivent, mais finissent par abandonner, se rendant compte qu'ils ne peuvent pas vous rattraper. Vous regardez l'argent que vous avez ramassé, ravi de votre coup.",
+                    "en": "You decide to arrange bets and bet that the knight will not win. Many come to bet, because everyone knows that he will not lose. Guards are watching you to make sure you don't steal money. You propose them going and see the duel with them, except for a few who will keep the place. They start arguing about who should stay, you take advantage of the oportunity to take part of the money and go fast. They follow you but end up abandoning, realizing that they cannot catch you. You look at the money you picked up, glad of what you've done."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+{
+                "translations": {
+                    "fr": "Vous organisez des paris et pariez que le chevalier ne gagnera pas. Beaucoup viennent parier, car tous savent qu'il ne perdra pas. Mais vous avez un plan en tête. Vous proposez au seigneur des lieux de vous battre pour lui, il accepte volontiers votre offre. Comme prévu vous gagnez le combat, et allez récupérer l'argent des paris. Un villageois vous attaque à la sortie du village, souhaitant certainement vous voler votre argent. Après un rude combat, vous parvenez à lui échapper, non sans être gravement blessé. Il faudra vous reposer.",
+                    "en": "You decide to organize bets and bet that the knight will not win. Many come to bet, because everyone knows that he will not lose. But you have a plan. You propose to the lord of the places to fight for him, he accepts your offer. As expected you win the battle, and go collect the money of the bets. A villager attacks you at the exit of the village, proably to steal your money. After a hard fight, you manage to escape it, without serious injury. You will have to rest."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+{
+                "translations": {
+                    "fr": "Vous organisez des paris et pariez que le chevalier ne gagnera pas. Beaucoup viennent parier, car tous savent qu'il ne perdra pas. Mais vous avez un plan en tête. Vous proposez au seigneur des lieux de vous battre pour lui, il accepte volontiers votre offre. Vous perdez le combat, mais vous ne comptez pas perdre votre argent ainsi. Vous vous élancez donc vers le lieu des paris et volez autant d'argent que vous le pouvez, coursé par les villageois, avant de fuir le village.",
+                    "en": "You decide to organize bets and bet that the knight will not win. Many come to bet, because everyone knows that he will not lose. But you have a plan. You propose to the lord of the places to fight for him, he accepts your offer. You lose the fight, but you don't want to lose your money like that. You jump to the place of bets and steal as much money as you can, raced by the villagers, before fleeing the village."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+                }
+            ]
+        },
+        "end": [
             {
                 "translations": {
-                    "fr": "",
-                    "en": ""
+                    "fr": "Les discussions ayant attisé votre curiosité, vous décidez d'assister au duel. Celui-ci se conclut très rapidement, avec le chevalier étranger pour vainqueur. Déçu, vous reprenez votre chemin.",
+                    "en": "The discussions attract your curiosity so you decide to attend the duel. It quickly concludes with the foreign knight as the winner. Disappointed, you resume your way."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+           {
+                "translations": {
+                    "fr": "Les discussions ayant attisé votre curiosité, vous décidez d'assister au duel. Celui-ci se conclut très rapidement. Déçu, vous proposez de rejouer le duel, mais cette fois-ci, c'est vous qui combattrez. Votre proposition est acceptée, en seulement quelques secondes, vous êtes désarmé puis mis à terre. Votre adversaire se moque ensuite de vous, en déclarant que vous êtes un pathétique combattant. Fou de rage, vous vous élancez sur lui pour le tabasser, mais le chevalier vous assomme avec le pommeau de son épée.",
+                    "en": "The discussions attract your curiosity so you decide to attend the duel. It concludes very quickly. Disappointed, you propose to replay the duel, but this time it's you who will fight. Your proposal is accepted, in just a few seconds, you are disarmed and on the ground. Your opponent laughs at you, claiming that you are a patetic fighter. Absolutely furious, you run on him to beat him, but the knight knocks you out with the pommel of his sword."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+           {
+                "translations": {
+                    "fr": "Peu intéressé par ce duel, vous décidez de ne pas y prêter attention et poursuivez donc votre chemin.",
+                    "en": "Not very well interested by this duel, you decide to not pay attention to it and continue your way."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+           {
+                "translations": {
+                    "fr": "Les discussions ayant attisé votre curiosité, vous décidez d'assister au duel. Proche de celui-ci, vous remarquez que des paris se jouent. Vous décidez donc d'y participer. Naturellement, vous pariez sur le chevalier étranger avant d'aller assister au duel. C'est effectivement lui le gagnant, mais lorsque vous retournez chercher vos gains, tout a disparu. Mécontent de vous être fait avoir ainsi, vous reprenez votre chemin.",
+                    "en": "The discussions attract your curiosity so you decide to attend the duel. Close to it, you notice that bets are played so you decide to participate. Naturally, you bet on the foreign knight before going to attend the duel. It is actually the winner, but when you turn back for your earnings, everything has disappeared. Discontent to have you done so, you get back to your path."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+           {
+                "translations": {
+                    "fr": "5 Les discussions ayant attisé votre curiosité, vous décidez d'assister au duel, qui se conclut rapidement. Vous proposez de le rejouer avec vous comme combattant, votre proposition est acceptée. Vous ne mettez guère longtemps à vaincre votre adversaire, le village entier vous acclame à présent et le seigneur vous propose un bon repas, vous acceptez volontiers son offre. Une fois que vous êtes repus, le seigneur vous propose de devenir chevalier, vous refusez poliment son offre et le remerciez pour le délicieux repas. Vous vous sentez bien mieux à présent.",
+                    "en": "The discussions that attracted your curiosity, you decide to attend the duel, which concludes quickly. You suggest to now duel yourself, and they agree. You don't take a lot of time to defeat your opponent, the village acclames you and the Lord offers you a good meal, you gladly accept his offer. Once you are reputed, the Lord proposes doing you to become a knight, you politely refuse his offer and thank him for the delicious meal. You feel much better ahead."
                 },
                 "lostTime": null,
                 "health": null,
