@@ -1,0 +1,189 @@
+ "translations": {
+        "fr": "Vous apercevez le village Boug-Coton et décidez de vous y rendre. À peine arrivé vous entendez des rumeurs sur un duel contre un chevalier. Vous comprenez vite qu'il y a conflit entre le seigneur de ces lieux et celui du village voisin. Pour le régler, un combat est organisé entre leurs meilleurs combattants, mais tous ici sont médiocres et le duel débute bientôt.",
+        "en": "You see the village of Boug-Coton and decide to go there. Once you have arrived you hear rumours about a duel against a knight. You soon understand that there is conflict between the lord of these lands and that of the neighbouring village. To solve it, a fight is organized between their best combatants, but all here are mediocres and the duel begins soon."
+    },
+    "possibilities": {
+        "🤝": {
+            "translations": {
+                "fr": "Proposer votre aide au seigneur de Boug-Coton.",
+                "en": "Propose your help to the Lord of Boug-Coton."
+            },
+            "issues": [
+                {
+                    "translations": {
+                        "fr": "Comprenant la détresse du seigneur, vous lui proposez de participer au duel. Celui-ci accepte volontiers. Le combat commence, vous savez que n'avez pas la moindre chance de vaincre votre adversaire, mais tentez malgré tout de résister. Il ne lui faut qu'une minute pour vous vaincre. Vous reprenez votre route, honteux de votre défaite.",
+                        "en": "Understanding the Lord's distress, you offer him to participate in the duel. He willingly accepts it. The battle begins, you know there is no chance of defeating your opponent, but you try to resist anyway. It only takes a minute for him to defeat you. You get back on your way, shameful of your defeat."
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                },
+               {
+                    "translations": {
+                        "fr": "Comprenant la détresse du seigneur, vous lui proposez votre aide. On vous équipe alors avant que le duel ne débute. Vous combattez vaillamment, mais êtes tout aussi aisément terrassé par votre adversaire. C'est lorsque celui-ci vous pourfend de sa lame que vous regrettez amèrement d'avoir offert votre aide. En effet, c'est un match à mort. Et vous venez de le perdre. Vous fermez les yeux, et la douleur disparaît.",
+                        "en": "Understanding the Lord's distress, you offer him your help. You are then equipped before the duel begins. You fight valiantly but are just as easily overcome by your opponent. It is when he slashes you with his blade that you bitterly regret having offered your help. Indeed, it is a death match. And you just lost it. You close your eyes, and the pain goes away."
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                },
+                {
+                    "translations": {
+                        "fr": "Comprenant la détresse du seigneur, vous lui proposez votre aide. On vous équipe alors une armure avant que le duel ne débute. Conscient que vous n'avez pas la moindre chance, vous vous défendez du mieux que vous le pouvez. Votre adversaire, impatient, baisse sa garde et vous en profitez pour l'attaquer. Vous parvenez à le mettre à terre avant de le désarmer. Vous ressortez de l'arène victorieux, le seigneur vient à votre rencontre pour vous donner une bourse remplie d'or. Vous le remerciez avant de reprendre votre route.",
+                        "en": "Understanding the Lord's distress, you offer him your help. You are then equipped with an armor before the duel begin. Recognizing that you have no chance at all, you defend yourself the best you can. Your opponent, impatient, lowers his guard and you take advantage of it to attack him. You manage to put him to the ground before disarming him. You emerge victorious from the arena, the Lord comes to meet you to give you a purse full of gold. You thank him before you get back on your way."
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                   {
+                "translations": {
+                    "fr": "Comprenant la détresse du seigneur, vous lui proposez de régler le conflit en usant de vos paroles. Il vous promet une récompense si vous y parvenez. Déterminé, vous allez à la rencontre du chevalier une fois celui-ci arrivé au village et lui dites que vous souhaitez négocier avec son seigneur. Il accepte et vous emmène à lui. Vous sympathisez rapidement et lui demandez d'annuler le duel. Vous lui dites aussi qu'après cela pourront avoir lieu des négociations afin de régler le conflit. Il accepte, et vous retournez à Boug-Coton afin d'annoncer la nouvelle. Le seigneur vous tend une bourse remplie d'or en gage de remerciement.",
+                    "en": "Understanding the distress of the Lord, you propose to him to settle the conflict by using your words. He promises you a reward if you succeed. Determined, you go to meet the knight once he arrives in the village and tell him that you want to negotiate with his lord. He accepts and he brings you at his home. You get on quickly with him and ask him to cancel the duel. You say to him that after that could takes place the negotiations to resolve the conflict. He accepts and you come back with him to Boug-Coton to announce the news. The Lord gives to you a purse filled with gold to thank you."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+       {
+                "translations": {
+                    "fr": "Comprenant la détresse du seigneur, vous lui proposez de régler le conflit en usant de vos paroles. Il vous promet une récompense si vous y parvenez. Vous rencontrez le chevalier afin qu'il vous emmène à son seigneur. Une fois là-bas, vous sympathisez rapidement avec celui-ci. Malheureusement, il ne semble pas décidé à annuler le duel, bien qu'il vous apprécie. Vous retournez au village accompagné du chevalier afin d'annoncer que le duel aura lieu.",
+                    "en": "Understanding the distress of the Lord, you propose to him to settle the conflict by using your words. He promises you a reward if you succeed. You meet the knight so that he takes you to his Lord. Once arrived, you get on quickly with him. Unfortunately, he still doesn't want to cancel the duel, even if he likes you. You come back to the the village with the knight to announce that the duel will takes place."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+ {
+                "translations": {
+                    "fr": "Comprenant la détresse du seigneur, vous lui proposez de régler le conflit en usant de vos paroles. Il vous promet une récompense si vous y parvenez. Vous rencontrez le chevalier afin qu'il vous emmène à son seigneur. Une fois là-bas, vous tentez de négocier avec celui-ci durant plusieurs heures, sans grand succès. Vos efforts étant vains, vous pensez repartir. Mais avant cela, le seigneur déclare qu'il vous apprécie, en effet, celui-ci ajoute qu'il a été impressionné du fait que vous n'ayez pas abandonné. Il vous propose de devenir chevalier, mais vous refusez poliment son offre et reprenez votre chemin.",
+                    "en": "Understanding the distress of the Lord, you propose to him to settle the conflict by using your words. He promises you a reward if you succeed. You meet the knight so that he takes you to his Lord. Once arrived, you try to negociate with him during many hours, unsuccessfully. Because of your vains efforts, you think to leave him. But before it, the Lord declare that he likes you, indeed, he added that he was impressed that you didn't give up. He propose to you to become knight but you decline politely his offer and resume your way."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+                },
+"": {
+            "translations": {
+                "fr": "",
+                "en": ""
+            },
+            "issues": [
+                {
+                    "translations": {
+                        "fr": "",
+                        "en": ""
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                },
+               {
+                    "translations": {
+                        "fr": "",
+                        "en": ""
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                },
+                {
+                    "translations": {
+                        "fr": "",
+                        "en": "
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                   {
+                "translations": {
+                    "fr": "",
+                    "en": ""
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+       {
+                "translations": {
+                    "fr": "",
+                    "en": ""
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+ {
+                "translations": {
+                    "fr": "",
+                    "en": ""
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+                }
+            ]
+        },
+        "end": [
+            {
+                "translations": {
+                    "fr": "",
+                    "en": ""
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            },
+            {
+                "translations": {
+                    "fr": "",
+                    "en": ""
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+            }
+        ]
+    }
+}
