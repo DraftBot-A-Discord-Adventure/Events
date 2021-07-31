@@ -79,8 +79,10 @@
                 "experience": null,
                 "money": null,
                 "item": null
-                },
-"👥": {
+        }
+      ]
+    },
+    "👥": {
             "translations": {
                 "fr": "Assister au duel.",
                 "en": "Attend the duel."
@@ -162,6 +164,62 @@
                 "translations": {
                     "fr": "Vous décidez d'assister au duel, le chevalier étranger gagne en quelques secondes seulement. Devant la médiocre performance du perdant, vous proposez de rejouer le duel, mais cette fois-ci c'est vous qui combattrez. Vous remportez le duel après quelques minutes de combat. Le seigneur des lieux vous propose de discuter autour d'un bon repas. Vous acceptez volontiers, la nourriture est délicieuse et il y en a en abondance. Une fois repus, le seigneur vous propose de vous nommer chevalier. Vous refusez poliment son offre.",
                     "en": "You decide to attend the duel, the foreign knight wins in just a few seconds. Because the duel was so unimpressive, you suggest to fight yourself. You win the fight in just a few minutes. The local Lord invites you for a chat at his table. You accept immediately, there is a lot of delicious food on the table. The Lord waits until you are full to offer you a knighthood. You politely refuse."
+                },
+                "lostTime": null,
+                "health": null,
+                "effect": "",
+                "experience": null,
+                "money": null,
+                "item": null
+                }
+            ]
+        },
+ "🚶": {
+            "translations": {
+                "fr": "Visiter Boug-Coton.",
+                "en": "Visit Boug-Coton."
+            },
+            "issues": [
+                {
+                    "translations": {
+                        "fr": "Vous visitez le village, mais n'y voyant rien d'intéressant, vous repartez sans plus tarder.",
+                        "en": "You visit the village but seeing nothing of interest there, you leave without further delay."
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                },
+               {
+                    "translations": {
+                        "fr": "Vous visitez le village. N'y voyant rien d'intéressant, vous décidez d'aller assister au duel.",
+                        "en": "You visit the village. Seeing nothing interesting there, you decide to go and watch the duel."
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                },
+                {
+                    "translations": {
+                        "fr": "Alors que vous visitez le village, le seigneur passant par là remarque l'aventurier que vous êtes. Il vous explique la situation et vous supplie de participer au duel. Il vous offrira une bourse remplie d'or si vous parvenez à le gagner. Vous acceptez volontiers son offre et vous rendez donc au duel. Mais une fois le combat commencé, vous comprenez que vous n'avez pas la moindre chance de vaincre votre adversaire. Le chevalier vous blesse à la jambe avec son épée, et vous tombez misérablement au sol, blessé. Incapable de vous relever, vous avez perdu le duel.",
+                        "en": "As you visit the village, the Lord notices the adventurer you are. He explains the situation and begs you to take part in the duel. He will offer you a purse full of gold if you win. You accept his offer and go for the fight. But once the duel begins, you understand you don't stand a chance against your opponent. The knight hurts you in the leg with his sword and you miserably fall to the ground, wounded. Unable to stand up, you lose the duel."
+                    },
+                    "lostTime": null,
+                    "health": null,
+                    "effect": "",
+                    "experience": null,
+                    "money": null,
+                    "item": null
+                },
+                   {
+                "translations": {
+                    "fr": "Vous visitez le village et apercevez un objet au fond du puits. Vous le ramassez avant de reprendre votre route.",
+                    "en": "You visit the village and see an object at the bottom of the well. You pick it up before getting back on your way."
                 },
                 "lostTime": null,
                 "health": null,
