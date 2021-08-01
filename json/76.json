@@ -71,7 +71,7 @@
                         "fr": "Vous escaladez le tronc, cependant vous n'êtes pas assez précautionneux : vous vous blessez la main contre l'écorce rugueuse de l'arbre et perdez prise. Vous vous retrouvez contraint de recommencer votre escalade. Au deuxième essai vous y arrivez, mais votre main est bien endolorie !",
                         "en": "You climb the trunk, however you are not enough careful: you wounded yourself with the rough tree's bark and fall. You have to retry your climbing. At the second time you did it, but your hand is very painful."
                     },
-                    "lostTime": 0,
+                    "lostTime": 360,
                     "health": -15,
                     "effect": ":head_bandage:",
                     "experience": 0,
@@ -129,7 +129,7 @@
                     },
                     "lostTime": 180,
                     "health": 0,
-                    "effect": ":smiley:",
+                    "effect": ":clock2:",
                     "experience": 25,
                     "money": 0,
                     "item": false
