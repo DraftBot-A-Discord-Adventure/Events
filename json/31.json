@@ -74,7 +74,7 @@
                     "fr": "Comprenant la détresse du seigneur, vous lui proposez de régler le conflit en usant de vos paroles. Il vous promet une récompense si vous y parvenez. Vous rencontrez le chevalier afin qu'il vous emmène à son seigneur. Une fois là-bas, vous tentez de négocier avec celui-ci durant plusieurs heures, sans grand succès. Vos efforts étant vains, vous pensez repartir. Mais avant cela, le seigneur déclare qu'il vous apprécie, en effet, celui-ci ajoute qu'il a été impressionné du fait que vous n'ayez pas abandonné. Il vous propose de devenir chevalier, mais vous refusez poliment son offre et reprenez votre chemin.",
                     "en": "Understanding the distress of the Lord, you propose to him to settle the conflict by using your words. He promises you a reward if you succeed. You meet the knight so that he takes you to his Lord. Once arrived, you try to negociate with him during many hours, unsuccessfully. Because of your vains efforts, you think to leave him. But before it, the Lord declare that he likes you, indeed, he added that he was impressed that you didn't give up. He propose to you to become knight but you decline politely his offer and resume your way."
                 },
-                "lostTime": -300,
+                "lostTime": 300,
                 "health": 0,
                 "effect": ":clock2:",
                 "experience": 25,
@@ -142,7 +142,7 @@
                     "fr": "Vous décidez d'assister au duel, celui-ci se conclut en quelques secondes. Vous qualifiez le perdant d'incompétent et proposez de rejouer le duel, mais cette fois-ci c'est vous qui combattrez. Le perdant vous propose de venir se battre contre lui avant de critiquer. Vous acceptez sa requête, sachant pertinemment que vous n'aurez aucun mal à le vaincre. Étant trop sûr de vous, votre adversaire parvient à vous désarmer avant de vous mettre à terre. Il vous tabasse ensuite jusqu'à l'évanouissement. Gravement blessé, vous aurez besoin de beaucoup de repos.",
                     "en": "You decide to attend the duel, it ends in a few seconds. You considered the loser of incompetent and propose to replay the duel, but this time it's you who will fight. The loser proposes you to fight him before criticize. You accept his request, knowing pertinently that you will have no problems to defeat him. Too much sure like you are, your opponent arrives to disarm you before knocking you down. After that, he hit you to the faint. Seriously wounded, you will need a lot of rest"
                 },
-                "lostTime": -360,
+                "lostTime": 360,
                 "health": -60,
                 "effect": ":head_bandage:",
                 "experience": 0,
@@ -154,7 +154,7 @@
                     "fr": "Vous décidez d'assister au duel, celui-ci se conclut en quelques secondes. Devant la médiocre performance du perdant, vous proposez de rejouer le duel, mais cette fois-ci c'est vous qui combattrez. Votre proposition est acceptée. Le combat commence, et malgré tous vos efforts vous ne parvenez à résister qu'une dizaine de secondes. Le chevalier décide de vous frapper encore et encore, pour vous faire comprendre que vous n'êtes qu'un insecte face à lui. Après vous avoir gravement blessé, il arrête et s'en va.",
                     "en": "You decide to attend the duel, it ends in a few seconds. Because the duel was so unimpressive, you suggest to fight yourself. They agree. The fight begins, but despite all your efforts you only resist for a few seconds. The knight strikes you again and again, making you understand you are just a little runt. He finally leaves, but not before he had you severely injured."
                 },
-                  "lostTime": -360,
+                  "lostTime": 360,
                 "health": -50,
                 "effect": ":head_bandage:",
                 "experience": 0,
@@ -210,7 +210,7 @@
                         "fr": "Alors que vous visitez le village, le seigneur passant par là remarque l'aventurier que vous êtes. Il vous explique la situation et vous supplie de participer au duel. Il vous offrira une bourse remplie d'or si vous parvenez à le gagner. Vous acceptez volontiers son offre et vous rendez donc au duel. Mais une fois le combat commencé, vous comprenez que vous n'avez pas la moindre chance de vaincre votre adversaire. Le chevalier vous blesse à la jambe avec son épée, et vous tombez misérablement au sol, blessé. Incapable de vous relever, vous avez perdu le duel.",
                         "en": "As you visit the village, the Lord notices the adventurer you are. He explains the situation and begs you to take part in the duel. He will offer you a purse full of gold if you win. You accept his offer and go for the fight. But once the duel begins, you understand you don't stand a chance against your opponent. The knight hurts you in the leg with his sword and you miserably fall to the ground, wounded. Unable to stand up, you lose the duel."
                     },
-                    "lostTime": -360,
+                    "lostTime": 360,
                     "health": 0,
                     "effect": ":head_bandage:",
                     "experience": 0,
@@ -278,7 +278,7 @@
                     "fr": "Vous décidez d'organiser des paris et pariez que le chevalier ne gagnera pas. Tout le monde vient parier, car tous savent qu'il ne perdra pas. Mais vous avez un plan en tête. Vous proposez au seigneur des lieux de vous battre pour lui, il accepte volontiers votre offre. Vous perdez le combat, mais vous refusez de donner votre argent. Les villageois se mettent à vous suivre et à vous lancer divers objets. Une fois loin du village, vous avez mal partout. Vous êtes aussi blessé à la jambe, il vous faudra du repos avant de poursuivre votre chemin.",
                     "en": "You decide to arrange bets and bet that the knight will not win. Everyone bets, because they know that he will not lose. But you have a plan. You propose to the lord of the places to fight for him, he accepts your offer. You lose the fight, but you refuse to give your money. The villagers follow you and throw you items. Once away from the village, you are in pain everywhere. You are also injured to your leg, it will take you some rest before continuing your journey."
                 },
-                "lostTime": -360,
+                "lostTime": 360,
                 "health": -30,
                 "effect": ":head_bandage:",
                 "experience": 0,
@@ -302,7 +302,7 @@
                     "fr": "Vous organisez des paris et pariez que le chevalier ne gagnera pas. Beaucoup viennent parier, car tous savent qu'il ne perdra pas. Mais vous avez un plan en tête. Vous proposez au seigneur des lieux de vous battre pour lui, il accepte volontiers votre offre. Comme prévu vous gagnez le combat, et allez récupérer l'argent des paris. Un villageois vous attaque à la sortie du village, souhaitant certainement vous voler votre argent. Après un rude combat, vous parvenez à lui échapper, non sans être gravement blessé. Il faudra vous reposer.",
                     "en": "You decide to organize bets and bet that the knight will not win. Many come to bet, because everyone knows that he will not lose. But you have a plan. You propose to the lord of the places to fight for him, he accepts your offer. As expected you win the battle, and go collect the money of the bets. A villager attacks you at the exit of the village, proably to steal your money. After a hard fight, you manage to escape it, without serious injury. You will have to rest."
                 },
-                "lostTime": -360,
+                "lostTime": 360,
                 "health": -60,
                 "effect": ":head_bandage:",
                 "experience": 0,
