@@ -39,11 +39,11 @@
                         "en": "Understanding the Lord's distress, you offer him your help. You are then equipped with an armor before the duel begin. Recognizing that you have no chance at all, you defend yourself the best you can. Your opponent, impatient, lowers his guard and you take advantage of it to attack him. You manage to put him to the ground before disarming him. You emerge victorious from the arena, the Lord comes to meet you to give you a purse full of gold. You thank him before you get back on your way."
                     },
                     "lostTime": 0,
-                    "health": 0,
+                    "heal": 0,
                     "effect": ":skull:",
-                    "experience": 0,
                     "money": 0,
-                    "item": false
+                    "experience": 0,
+                    "item": false,
                     "oneshot": true
                    {
                 "translations": {
