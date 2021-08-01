@@ -71,7 +71,7 @@
                         "fr": "Vous entamez l'ascension périlleuse de l'escalier qui vous mène à l'entrée d'une grotte. Vous y pénétrez et découvrez un très ancien campement laissé à l'abandon. Après avoir inspecté l'entièreté de la grotte qui se révèle être sûre, vous décidez de vous y installer pour dormir puisqu'il reste un lit de paille plutôt confortable.",
                         "en": "You begin the perilous ascent of the staircase which leads you to the entrance of a cave. You enter it and discover a very old abandoned camp. After having inspected the whole cave which turns out to be safe, you decide to settle there to sleep since there remains a rather comfortable bed of straw."
                     },
-                    "lostTime": 0,
+                    "lostTime": 180,
                     "heal": 15,
                     "effect": ":sleeping:",
                     "money": 0,
@@ -129,7 +129,7 @@
                     },
                     "lostTime": 0,
                     "heal": 0,
-                    "effect": ":smiley:",
+                    "effect": ":skull:",
                     "money": 0,
                     "experience": 0,
                     "item": false,
@@ -143,7 +143,7 @@
                     "fr": "😴 Après avoir longtemps hésité face aux possibilités qui s'offrent à vous, le Soleil est sur le point de se coucher, vous vous installez donc afin de vous reposer.",
                     "en": "😴 After having hesitated for a long time in front of the possibilities open to you, the Sun is about to set, so you settle down to rest."
                 },
-                "lostTime": 0,
+                "lostTime": 180,
                 "heal": 5,
                 "effect": ":sleeping:",
                 "money": 0,
