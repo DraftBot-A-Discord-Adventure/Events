@@ -15,7 +15,7 @@
                         "fr": "Après avoir joué pendant un certain temps, les enfants remarquent que le soleil est en train de se coucher et se voient contraints de vous dire au revoir.",
                         "en": "After playing for a while, the Kids notice that the Sun is setting and are forced to tell you good bye."
                     },
-                    "lostTime": -20,
+                    "lostTime": 20,
                     "health": 0,
                     "effect": ":clock2:",
                     "experience": 25,
@@ -51,7 +51,7 @@
                         "fr": "Très énergiques, les enfants vous font tourner en rond un moment. Après vingt minutes vous finissez cependant par mettre fin au jeu.",
                         "en": "Very energic, the kids turn you round for a while. However, after twenty minutes you put a stop to the game."
                     },
-                    "lostTime": -20,
+                    "lostTime": 20,
                     "health": 0,
                     "effect": ":clock2:",
                     "experience": 25,
@@ -71,7 +71,7 @@
                         "fr": "Alors que vous expliquez aux enfants comment se positionner au mieux pour tirer, l'un d'eux, un peu en retrait parvient à bander son arc, et, avant que vous ne puissiez faire quoi que ce soit, relâche la flèche qui vient se planter dans votre jambe. Blessé, vous les quittez pour chercher en endroit où vous soigner.",
                         "en": "While you explain to the children how to position themselves at best to shoot, one of them, a little backward manages to bandage his bow, and, before you can do anything, shoot the arrow that comes to your leg. Wounded, you leave them to find a place to cure yourself."
                     },
-                    "lostTime": -360,
+                    "lostTime": 360,
                     "health": -25,
                     "effect": ":head_bandage:",
                     "experience": 0,
@@ -83,7 +83,7 @@
                         "fr": "Vous expliquez aux enfants comment se placer pour tirer et ceux-ci s'en sortent très bien. Vous passez le reste de la journée à les entraîner au tir à l'arc. Avant que vous ne les quittiez vous êtes chaudement remercié par un petit présent de vos apprentis du jour. Vous reprenez la route, heureux d'avoir pu vous rendre utile.",
                         "en": "You explain to the children how to place themselves to shoot and the children do well. You spend the rest of the day training them in archery. Before you left them you were warmly thanked by a small present from your apprentices of the day. Vous reprenez la route, heureux d'avoir pu vous rendre utile."
                     },
-                    "lostTime": -190,
+                    "lostTime": 190,
                     "health": 0,
                     "effect": ":clock2:",
                     "experience": 325,
@@ -127,7 +127,7 @@
                         "fr": "Vous jouez avec eux jusqu'à ce que leurs parents arrivent, vous trouvant suspect ils vous répudient de leur village en vous menaçant. Vous reprenez la route sans demander votre reste.",
                         "en": "You play with them until their parents arrive, finding you suspicious, they repudiate you from their village by threatening you. You get back on the road without asking for your rest."
                     },
-                    "lostTime": -5,
+                    "lostTime": 5,
                     "health": 0,
                     "effect": ":clock2:",
                     "experience": 25,
@@ -139,7 +139,7 @@
                         "fr": "Jouant le rôle du fuyard vous êtes poursuivi par les gamins. En regardant par-dessus votre épaule pour évaluer la distance entre eux et vous, vous vous prenez les pieds dans une racine et vous blessez. Les enfants vous abandonnent à votre triste sort lorsqu'ils constatent votre inaptitude à continuer à jouer. Il faudra vous soigner.",
                         "en": "Playing the role of the runaway you are chased by the kids. As you look over your shoulder to gauge the distance between them and you, you trip over a root and injure yourself. Children leave you to your sad fate when they see your inability to continue playing. You will need to be treated."
                     },
-                    "lostTime": -360,
+                    "lostTime": 360,
                     "health": -15,
                     "effect": ":head_bandage:",
                     "experience": 0,
@@ -171,7 +171,7 @@
                         "fr": "Vous refusez, et cela a pour conséquence d'énerver les enfants qui ramassent des pierres au sol et vous les jettent. Devant la pluie de gravats, vous êtes contraint de fuir, hors de portée des enfants. Vous vous rendez compte que vous avez été touché à la tête et que la blessure saigne abondamment, il faudra vous soigner.",
                         "en": "You refuse, and this has the consequence of annoying the children who pick up stones from the ground and throw them at you. In front of the rubble rain, you are forced to flee, out of reach of children. You realize that you have been hit in the head and the wound is bleeding profusely, you will need treatment."
                     },
-                    "lostTime": -20,
+                    "lostTime": 20,
                     "health": 0,
                     "effect": ":head_bandage:",
                     "experience": 0,
@@ -222,7 +222,7 @@
                     "fr": "Vous restez planté là pendant des heures, et lorsque vous recouvrez vos esprits, vous vous rendez compte que votre bourse a disparu. Vous poursuivez votre chemin, dépité.",
                     "en": "ou just sit there for hours, and when you come back to your senses, you realize your purse is gone. You continue on your way, annoyed."
                 },
-                "lostTime": -120,
+                "lostTime": 120,
                 "health": 0,
                 "effect": "clock2",
                 "experience": 25,
