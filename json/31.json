@@ -39,11 +39,12 @@
                         "en": "Understanding the Lord's distress, you offer him your help. You are then equipped with an armor before the duel begin. Recognizing that you have no chance at all, you defend yourself the best you can. Your opponent, impatient, lowers his guard and you take advantage of it to attack him. You manage to put him to the ground before disarming him. You emerge victorious from the arena, the Lord comes to meet you to give you a purse full of gold. You thank him before you get back on your way."
                     },
                     "lostTime": 0,
-                    "health": -9999,
-                    "effect": ":dead:",
+                    "health": 0,
+                    "effect": ":skull:",
                     "experience": 0,
                     "money": 0,
                     "item": false
+                    "oneshot": true
                    {
                 "translations": {
                     "fr": "Comprenant la détresse du seigneur, vous lui proposez de régler le conflit en usant de vos paroles. Il vous promet une récompense si vous y parvenez. Déterminé, vous allez à la rencontre du chevalier une fois celui-ci arrivé au village et lui dites que vous souhaitez négocier avec son seigneur. Il accepte et vous emmène à lui. Vous sympathisez rapidement et lui demandez d'annuler le duel. Vous lui dites aussi qu'après cela pourront avoir lieu des négociations afin de régler le conflit. Il accepte, et vous retournez à Boug-Coton afin d'annoncer la nouvelle. Le seigneur vous tend une bourse remplie d'or en gage de remerciement.",
