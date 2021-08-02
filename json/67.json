@@ -1,4 +1,7 @@
 {
+    "map_location_ids": [
+        15
+    ],
     "translations": {
         "fr": "⛰ Alors que vous atteignez le pied du Mont Célestrum, vous repérez un escalier tortueux, taillé dans le flanc gauche du Mont. En vous en rapprochant, les marches s'avèrent être coupantes et recouvertes de mousse.",
         "en": "⛰ As you reach the bottom of the Mount Celestrum, you spot a tortuous staircase cut in the left side of the Mount. By getting closer, the steps turns out to be sharps and covered with moss."
@@ -18,7 +21,7 @@
                     "lostTime": 120,
                     "health": 0,
                     "effect": ":clock2:",
-                    "experience": 25,
+                    "experience": 125,
                     "money": 200,
                     "item": false
                 },
@@ -60,7 +63,7 @@
                         "en": "You begin the perilous ascent of the staircase which leads you to the entrance of a cave. You enter it and discover a very old abandoned camp. While digging a little you discover an object that seems useful to you for the advancement of your quest and decided to carefully go down the stairs."
                     },
                     "lostTime": 180,
-                    "heal": 0,
+                    "health": 0,
                     "effect": ":clock2:",
                     "money": 0,
                     "experience": 325,
@@ -71,8 +74,8 @@
                         "fr": "Vous entamez l'ascension périlleuse de l'escalier qui vous mène à l'entrée d'une grotte. Vous y pénétrez et découvrez un très ancien campement laissé à l'abandon. Après avoir inspecté l'entièreté de la grotte qui se révèle être sûre, vous décidez de vous y installer pour dormir puisqu'il reste un lit de paille plutôt confortable.",
                         "en": "You begin the perilous ascent of the staircase which leads you to the entrance of a cave. You enter it and discover a very old abandoned camp. After having inspected the whole cave which turns out to be safe, you decide to settle there to sleep since there remains a rather comfortable bed of straw."
                     },
-                    "lostTime": 180,
-                    "heal": 15,
+                    "lostTime": 0,
+                    "health": 15,
                     "effect": ":sleeping:",
                     "money": 0,
                     "experience": 220,
@@ -81,10 +84,10 @@
                 {
                     "translations": {
                         "fr": "Après avoir monté prudemment quelques marches tapissées de mousses, vous glissez et dégringolez les quelques mètres qui vous séparent du sol. Légèrement sonné et blessé, vous abandonnez l'idée de retenter votre chance et continuez votre route.",
-                        "en": "After having carefully climbed a few steps lined with moss, you slip and tumble down the few meters that separate you from the ground. Slightly stunned and injured, you give up the idea of ​​trying your luck again and continue your journey."
+                        "en": "After having carefully climbed a few steps lined with moss, you slip and tumble down the few meters that separate you from the ground. Slightly stunned and injured, you give up the idea of trying your luck again and continue your journey."
                     },
                     "lostTime": 10,
-                    "heal": -5,
+                    "health": -5,
                     "effect": ":clock2:",
                     "money": 0,
                     "experience": 0,
@@ -104,7 +107,7 @@
                         "en": "You search for a few moments around the base of the stairs, without success. Two more steps let you discover a few gold coins scattered here and there among the weeds. Delighted with your skinny discovery, you continue your adventure whistling."
                     },
                     "lostTime": 0,
-                    "heal": 0,
+                    "health": 0,
                     "effect": ":smiley:",
                     "money": 25,
                     "experience": 250,
@@ -116,7 +119,7 @@
                         "en": "After a handful of minutes searching the surroundings, you find a used leather satchel, almost entirely hidden under a heavy stone. By opening it, you discover a papyrus where only a few words are still legible: \"staircase\", \"cave\", \"camp\" and \"Xetrix\". This name sounds familiar to you, but especially disappointed not to have found any treasure, you resume your journey."
                     },
                     "lostTime": 0,
-                    "heal": 0,
+                    "health": 0,
                     "effect": ":smiley:",
                     "money": 0,
                     "experience": 150,
@@ -128,8 +131,8 @@
                         "en": "Suddenly, while searching the surroundings, a huge rock breaks off from Mount Celestrum and crushes you. You don't even have time to react that you've already given your last breath."
                     },
                     "lostTime": 0,
-                    "heal": 0,
-                    "effect": ":skull:",
+                    "health": 0,
+                    "effect": ":smiley:",
                     "money": 0,
                     "experience": 0,
                     "item": false,
@@ -143,8 +146,8 @@
                     "fr": "😴 Après avoir longtemps hésité face aux possibilités qui s'offrent à vous, le Soleil est sur le point de se coucher, vous vous installez donc afin de vous reposer.",
                     "en": "😴 After having hesitated for a long time in front of the possibilities open to you, the Sun is about to set, so you settle down to rest."
                 },
-                "lostTime": 180,
-                "heal": 5,
+                "lostTime": 0,
+                "health": 5,
                 "effect": ":sleeping:",
                 "money": 0,
                "experience": 220,
@@ -156,7 +159,7 @@
                     "en": "💥 After hesitating for a long time about the possibilities available to you, you decide to try to climb half a dozen steps before changing your mind, finding the climb too perilous. As you pivot your foot back to go down, it slips and you roll down the stairs. You stand up painfully to see with difficulty that you are badly involved. You get back on your way, annoyed by this unfortunate incident."
                 },
                 "lostTime": 10,
-                "heal": -10,
+                "health": -10,
                 "effect": ":clock2:",
                 "money": 0,
                 "experience": 0,
@@ -168,7 +171,7 @@
                     "en": "🦊 You sit down on the ground lined with clovers to think about what you want to do. Quickly, a fox faces you. He slowly approaches you and ends up reaching for one of your hands, puts his nose on it, yaps at you and runs away. You decide to follow the path this friendly animal has just blazed for you."
                 },
                 "lostTime": 0,
-                "heal": 0,
+                "health": 0,
                 "effect": ":smiley:",
                 "money": 0,
                 "experience": 150,
