@@ -1,7 +1,10 @@
 {
+    "map_location_ids": [
+        6
+    ],
     "translations": {
-        "fr": "Alors que vous faites étape à Boug Coton, vous êtes interpellé par des enfants vous demandant de jouer avec eux.",
-        "en": "While you are making a stopover at Boug Coton, you are called out by children asking you to play with them."
+        "fr": "\uD83E\uDDD2 Alors que vous faites étape à Boug Coton, vous êtes interpellé par des enfants vous demandant de jouer avec eux.",
+        "en": "\uD83E\uDDD2 While you are making a stopover at Boug Coton, you are called out by children asking you to play with them."
     },
     "possibilities": {
         "⚔️": {
@@ -71,7 +74,7 @@
                         "fr": "Alors que vous expliquez aux enfants comment se positionner au mieux pour tirer, l'un d'eux, un peu en retrait parvient à bander son arc, et, avant que vous ne puissiez faire quoi que ce soit, relâche la flèche qui vient se planter dans votre jambe. Blessé, vous les quittez pour chercher en endroit où vous soigner.",
                         "en": "While you explain to the children how to position themselves at best to shoot, one of them, a little backward manages to bandage his bow, and, before you can do anything, shoot the arrow that comes to your leg. Wounded, you leave them to find a place to cure yourself."
                     },
-                    "lostTime": 360,
+                    "lostTime": 0,
                     "health": -25,
                     "effect": ":head_bandage:",
                     "experience": 0,
@@ -139,7 +142,7 @@
                         "fr": "Jouant le rôle du fuyard vous êtes poursuivi par les gamins. En regardant par-dessus votre épaule pour évaluer la distance entre eux et vous, vous vous prenez les pieds dans une racine et vous blessez. Les enfants vous abandonnent à votre triste sort lorsqu'ils constatent votre inaptitude à continuer à jouer. Il faudra vous soigner.",
                         "en": "Playing the role of the runaway you are chased by the kids. As you look over your shoulder to gauge the distance between them and you, you trip over a root and injure yourself. Children leave you to your sad fate when they see your inability to continue playing. You will need to be treated."
                     },
-                    "lostTime": 360,
+                    "lostTime": 0,
                     "health": -15,
                     "effect": ":head_bandage:",
                     "experience": 0,
@@ -171,7 +174,7 @@
                         "fr": "Vous refusez, et cela a pour conséquence d'énerver les enfants qui ramassent des pierres au sol et vous les jettent. Devant la pluie de gravats, vous êtes contraint de fuir, hors de portée des enfants. Vous vous rendez compte que vous avez été touché à la tête et que la blessure saigne abondamment, il faudra vous soigner.",
                         "en": "You refuse, and this has the consequence of annoying the children who pick up stones from the ground and throw them at you. In front of the rubble rain, you are forced to flee, out of reach of children. You realize that you have been hit in the head and the wound is bleeding profusely, you will need treatment."
                     },
-                    "lostTime": 20,
+                    "lostTime": 0,
                     "health": 0,
                     "effect": ":head_bandage:",
                     "experience": 0,
@@ -200,7 +203,7 @@
                 },
                 "lostTime": 0,
                 "health": 0,
-                "effect": "smiley",
+                "effect": ":smiley:",
                 "experience": 150,
                 "money": 0,
                 "item": false
@@ -212,7 +215,7 @@
                 },
                 "lostTime": 0,
                 "health": -5,
-                "effect": "smiley",
+                "effect": ":smiley:",
                 "experience": 0,
                 "money": 0,
                 "item": false
@@ -224,7 +227,7 @@
                 },
                 "lostTime": 120,
                 "health": 0,
-                "effect": "clock2",
+                "effect": ":clock2:",
                 "experience": 25,
                 "money": -100,
                 "item": false
