@@ -1,4 +1,7 @@
 {
+    "map_location_ids": [
+        14
+    ],
     "translations": {
         "fr": "📬 Alors que vous passez au bord du lac Mirage, vous remarquez un homme vous faisant signe d'un peu plus loin. Intrigué, vous décidez de le rejoindre. L'homme se présente à vous comme étant coursier et vous implore de l'aider. Vous remarquez qu'il est épuisé et mal en point. Il vous demande de livrer le colis qu'il possède avant la tombée de la nuit, à une maison isolée relativement proche. Il vous dit qu'en échange de cette bonne action, l'homme qui réceptionnera le colis vous offrira un sac rempli de pièces d'or.",
         "en": "📬 As you pass by the shore of Mirage Lake, you notice a man waving at you from a little farther away. Intrigued, you decide to join him. The man introduces himself to you as a courier and begs you to help him. You notice that he is exhausted and in a bad way. He asks you to deliver the package he has before nightfall to a secluded house nearby. He tells you that in exchange for this good deed, the man who receives the package will offer you a bag full of gold coins."
@@ -45,8 +48,10 @@
                     "experience": 325,
                     "money": 0,
                     "item": true
-                },
-               "🕵️": {
+                }
+            ]
+        },
+        "🕵️": {
             "translations": {
                 "fr": "Voler le colis",
                 "en": "Steal the package"
@@ -76,7 +81,7 @@
                     "money": 300,
                     "item": false
                 },
-              {
+                {
                     "translations": {
                         "fr": "Vous promettez au coursier de livrer le colis et rentrez dans l'auberge qui vous a logé la nuit précédente. Vous décidez d'ouvrir le colis afin d'en voir le contenu et découvrez qu'il est totalement vide. Quel gâchis !",
                         "en": "You promise to the courier to deliver the package and return to the inn that hosted you the night before. You decide to open the package in order to see the content and find out that it is completely empty. What a waste !"
@@ -88,7 +93,7 @@
                     "money": 0,
                     "item": false
                 },
-              {
+                {
                     "translations": {
                         "fr": "Vous décidez de voler le colis et de le revendre. N'étant cependant pas bien pressé, vous décidez de vous asseoir près d'une rivière. Vous êtes rapidement rejoint par ce qui semble être un marchand ambulant. N'ayant aucun besoin de ses babioles, vous lui proposez d'acheter le colis. L'homme, à la curiosité piquée par votre misterieux colis, accepte votre offre. Vous ne connaitrez jamais le contenu de ce colis mais les quelques pièces que vous en avez tiré vous suffisent.",
                         "en": "You decide to steal the package and resell it. However, since you were not in a hurry, you decide to sit down near a river. You quickly joiny by what seems to be a wandering trader. Having no need for his trinkets, you offer to buy the package. The man, at the curiosity picked by your mysterious packet, accepts your offer. You will never know the contents of this package but the few pieces you have taken from it are enough for you."
@@ -111,8 +116,10 @@
                     "experience": 450,
                     "money": 0,
                     "item": true
-                },
-              "❌": {
+                }
+            ]
+        },
+        "❌": {
             "translations": {
                 "fr": "Refuser poliment",
                 "en": "Politely decline"
@@ -124,7 +131,7 @@
                         "en": "You Politely decline, explaining that you are occupied. You go to rest under a nearby tree."
                     },
                     "lostTime": 15,
-                    "health": 0",
+                    "health": 0,
                     "effect": ":clock2:",
                     "experience": 25,
                     "money": 0,
@@ -136,7 +143,7 @@
                         "en": "You refuse and the man apologizes for the inconvenience. You quickly change the subject and chat with him. After a few minutes of conversation, he offers you a snack. This little break won't have been a total waste of time, you made a friend."
                     },
                     "lostTime": 30,
-                    "health": 10",
+                    "health": 10,
                     "effect": ":clock2:",
                     "experience": 225,
                     "money": 0,
@@ -149,7 +156,7 @@
                     },
                     "lostTime": 0,
                     "health": -10,
-                    "effect": ":smile:",
+                    "effect": ":smiley:",
                     "experience": 0,
                     "money": 0,
                     "item": true
