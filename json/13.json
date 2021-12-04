@@ -34,7 +34,7 @@
 					"health": 0,
 					"effect": ":sick:",
 					"money": 0,
-					"experience": 25,
+					"experience": 0,
 					"item": false
 				},
 				{
@@ -90,7 +90,7 @@
 					"health": 15,
 					"effect": ":clock2:",
 					"money": 300,
-					"experience": 125,
+					"experience": 325,
 					"item": false
 				},
 				{
@@ -114,7 +114,7 @@
 					"health": 0,
 					"effect": ":lock:",
 					"money": 0,
-					"experience": 25,
+					"experience": 0,
 					"item": false
 				},
 			]
@@ -202,7 +202,7 @@
 					"health": 0,
 					"effect": ":confounded:",
 					"money": 0,
-					"experience": 25,
+					"experience": 10,
 					"item": false
 				},
 				{
@@ -214,7 +214,7 @@
 					"health": 0,
 					"effect": ":dizzy_face:",
 					"money": 0,
-					"experience": 25,
+					"experience": 0,
 					"item": false
 				},
                 {
@@ -254,7 +254,7 @@
 					"health": 0,
 					"effect": ":zany_face:",
 					"money": -75,
-					"experience": 25,
+					"experience": 0,
 					"item": false
 				},
 				{
