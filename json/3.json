@@ -77,7 +77,7 @@
 					"lostTime": 10,
 					"health": 0,
 					"effect": ":clock2:",
-					"experience": 125,
+					"experience": 25,
 					"money": 0,
 					"item": false
 				},
@@ -89,7 +89,7 @@
 					"lostTime": 0,
 					"health": 3,
 					"effect": ":zany_face:",
-					"experience": 225,
+					"experience": 0,
 					"money": 0,
 					"item": false
 				}
