@@ -1,0 +1,49 @@
+🏜Vous marchez depuis plusieurs heures dans un désert sans fin. Le soleil rouge, implacable, vous accable de ses rayons ardents pendant que vous déambulez dans cette fournaise. Soudainement, vous apercevez une ouverture dans un grand rocher au bord de la route : vous vous y faufilez sans hésitation, pour profiter de l’ombre et de la fraicheur de cette grotte. Pris de curiosité, vous décidez de continuer à avancer. Au fur et à mesure de votre exploration, des graphismes montrant la vie de rois, leurs guerres et leurs royaumes, apparaissent sur les murs : c’est un tombeau ! Mais le chemin devant vous se sépare en deux : à droite, vous voyez un soldat, dessiné sur le mur, habillé richement, avec de belles armes prestigieuses. A gauche est peint un monceau de pièces et de bijoux.
+
+    ➡ Aller à droite, émerveillé devant ce grand chevalier
+    ⏪ Partir vers la gauche, appâté par le trésor
+    🚶‍♂️ Rebrousser chemin
+
+Issues
+
+➡ Aller à droite, émerveillé devant ce grand chevalier
+
+    Vous vous engagez prudemment dans la cavité. En faisant minutieusement attention à ce que votre tête ne se cogne pas au plafond très bas, vous ne remarquez pas le trou dans la voie. Vous trébuchez et dégringolez au fond de ce petit précipice. Vous vous extirpez difficilement de ce ravin mais vous vous êtes blessés en tombant, il faudra vous soigner ! (💔-20, 🤕)
+   
+    Vous vous engagez prudemment dans cette cavité quand vous remarquez que le plafond c’est effondré, l’accès est bloqué ! Déçu, vous ressortez de la grotte pour reprendre votre route. (Neutre)
+    
+    Vous vous engagez prudemment dans cette cavité. Le chemin se déroule sans encombre et vous arrivez rapidement dans une pièce. La lumière se faufile par une faille dans la roche et éclaire une tombe au milieu. Autour se trouve quelques beaux objets, sûrement les possessions du défunt. Vous en prenez un et repartez aussi vite que possible pour ne pas profaner encore plus ce lieu sacré. (+item)
+    
+    Vous décidez de vous orienter à droite et avancez sur ce chemin. Après avoir passé presque 1 heure à vous faufiler entre les rochers, les stalagmites et les failles de la roche, vous arrivez dans une pièce, creusée dans la roche. Vous y trouvez là un objet et quelques pièces, ayant sûrement appartenu à un des rois enterrés dans ce lieu, et rebroussez chemin, heureux de cette découverte. (+item +200 pièces)
+    
+    Vous décidez de vous orienter à droite et avancez sur ce chemin. Au bout de quelques minutes, vous entendez un bruit derrière vous : une sorte de porte en roche se ferme, vous enfermant ! Vous êtes dans un prestigieux tombeau, et les créateurs ne veulent pas que celui-ci soit profané. Après avoir passé quelques longues heures à frapper contre la roche, vous arrivez grâce à votre arme à créer une brèche dans laquelle vous vous faufilez. (🕓4h)
+
+⏪Partir vers la gauche, appâté par le trésor
+
+    Vous vous faufilez dans l’ouverture de gauche. Derrière cette fissure le chemin, large et plat, ne présente aucune difficulté. Confiant, vous abandonnez la prudence pour avancer plus vite. Soudain, vous ressentez une cuisante douleur à la cheville… un serpent vous a mordu ! Pris de panique, vous fuyez malgré le sang et sortez de la grotte. Heureusement, le poison n’était pas mortel, il vous vaudra juste un mauvais moment à passer. (🤢, 💔-10)
+    
+    Vous vous faufilez dans l’ouverture de gauche. Derrière cette fissure le chemin, large et plat, ne présente aucune difficulté. Confiant, vous abandonnez la prudence pour avancer plus vite. Au bout de quelques dizaines de minutes, vous commencer à vous demander où se trouve le bout. Voulant opérer un demi-tour, vous remarquez que vous n’arrivez plus à retrouver votre voie ! En effet, vous êtes en plein milieu d’un labyrinthe, et vous mettez plusieurs heures à en trouvez la sortie. Vous êtes rassuré de revoir enfin la lumière du jour… (🕓4h)
+    
+    Vous empruntez le chemin de gauche. Au fur et à mesure de votre avancée, l’ouverture se fait de plus en plus étroite. Heureusement, elle s’élargit vite et vous tombez sur une pièce magnifiquement décorée, pleine de trésors ! Impressionné devant le prestige de cette civilisation, vous n’osez pas piller cet endroit et ne prenez qu’une partie des pièces, ce qui est déjà un grand gain ! (+700 pièces)
+    
+    Vous empruntez le chemin de gauche. Au fur et à mesure de votre avancée, vous remarquez quelques pièces sur le côté que vous ramassez. Confiant, vous continuer votre route encore quelques dizaines de minutes, jusqu’à arriver dans une grande salle… vide. Vous rebroussez chemin, vous satisfaisant de vos quelques pièces ramassées. (+300 pièces, 🕓30 min)
+    
+    Vous alliez vous diriger vers la gauche quand un chat sortit, terrorisé, de cette ouverture. Prudent, vous décidez de ne pas tomber dans une aventure hasardeuse et suivez le chat jusqu’à la sortie. (Neutre)
+   
+    Vous empruntez le chemin de gauche. Le chemin se déroule sans encombre et vous arrivez rapidement dans une pièce. La lumière se faufile par une faille dans la roche et éclaire un tombeau en pierre au milieu. Ne voyant rien d’autre dans la pièce, vous décidez de l’ouvrir. Soulevant le couvercle de pierre, vous voyez un cadavre momifié, donc les yeux encore ouverts semblent vous fixez avec colère ! Pris de panique, vous fuyez à toute jambe, sortant en trombe de ce tombeau maudit, laissant tomber votre bourse. (😱, -200 pièces)
+
+🚶‍♂️ Rebrousser chemin
+
+    Vous observez les belles peintures encore quelques instants et repartez confiant reprendre votre voyage, rêvant de votre belle princesse qui sera peut-être à vous… (🕓10 min)
+    
+    Impatient, vous décidez de repartir rapidement pour une nouvelle aventure. (Neutre)
+    
+    Pressé de sortir de ce désert sans fin, et l’eau commençant à manquer, vous sortez précipitamment de la grotte pour continuer votre voyage. (Neutre)
+
+🔚Ne pas répondre
+
+    En admiration devant ces magnifiques dessins, vous ne remarquez pas le petit craquèlement qui se fait entendre. Une partie de la roche du plafond se détache soudainement pour s’écraser sur votre tête. Etourdi, vous restez au sol, avant de vous relever péniblement pour reprendre votre route. (💔-30 ; 🕓1h)
+    
+    Vous observez ces dessins quelques instant avant de reprendre votre route paisiblement. (Neutre)
+    
+    Fatigué de votre voyage, l’air frais de cette caverne vous faisant du bien, vous arrivez à vous endormir malgré le sol dur, et prenez un repos bien mérité. (😴 ; ❤+10)
