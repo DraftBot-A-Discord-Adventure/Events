@@ -1,178 +1,207 @@
 {
-  "translations": {
-    "fr": "\uD83C\uDFDB Après une visite de la ville où vous vous êtes arrêté, vous voyez une grande bibliothèque. Ne sachant pas quoi faire, vous décidez de vous y rendre.",
-    "en": "\uD83C\uDFDB After a tour of the town where you stopped, you see a large library."
-  },
-  "possibilities": {
-    "📕": {
-      "translations": {
-        "fr": "Tenter de voler un livre pour le revendre",
-        "en": "Trying to steal a book to resell it"
-      },
-      "issues": [
-        {
-          "translations": {
-            "fr": "Vous parvenez à voler un vieux livre, vous sortez discrètement du bâtiment, et allez le vendre dans les rues de la ville. Cependant vous remarquez que personne n'est intéressé par ce livre, notamment parce qu'il est très vieux et abîmé avec des pages déchirées. Vous l'abandonnez donc avant de reprendre votre chemin.",
-            "en": "You manage to steal an old book, you discreetly get out of the building, and go and sell it in the streets of the town. However you notice that nobody is interested in this book, mainly because it is very old and damaged with torn pages. So you abandon it before going on your way."
-          },
-          "lostTime": 15,
-          "health": 0,
-          "effect": ":clock2:",
-          "experience": 25,
-          "money": 0,
-          "item": false
-        },
-        {
-          "translations": {
-            "fr": "Vous sortez furtivement de la bibliothèque sans que personne ne vous remarque. Vous avez réussi à voler un livre et essayez de le vendre aux passants. Un homme décide de vous l'acheter pour quelques pièces d'or. Une fois la transaction effectuée, vous reprenez votre route.",
-            "en": "You sneak out of the library without anyone noticing you.You have managed to steal a book and try to sell it to passers-by.A man decides to buy it from you for a few gold coins.Once the transaction has been completed, you are on your way again."
-          },
-          "lostTime": 0,
-          "health": 0,
-          "effect": ":smiley:",
-          "experience": 250,
-          "money": 100,
-          "item": false
-        },
-        {
-          "translations": {
-            "fr": "Vous tentez de voler un livre discrètement, lorsque quelqu'un vous interpelle pour rendre le livre. Vous fuyez avec l'ouvrage. Cependant vous trébuchez et l'homme de la bibliothèque vous rattrape. Il exige que vous rendiez le livre et, par la même occasion, une compensation, vous rendez donc le livre avec quelques pièces avant de continuer votre route, déçu.",
-            "en": "You try to steal a book discreetly, when someone calls you to return the book.You run away with the work. However, you stumble and the man in the library catches you.It requires you to return the book and, at the same time, to give compensation, which you do before continuing on your way."
-          },
-          "lostTime": 0,
-          "health": 0,
-          "effect": ":smiley:",
-          "experience": 150,
-          "money": -100,
-          "item": false
-        }
-      ]
-    },
-    "📖": {
-      "translations": {
-        "fr": "Lire un livre",
-        "en": "Read a book"
-      },
-      "issues": [
-        {
-          "translations": {
-            "fr": "Vous décidez de lire un livre, celui-ci parle de cuisine et de succulents repas à préparer. Vous notez la recette avant d'aller en chercher les ingrédients. Une fois ces derniers trouvés, vous suivez les instructions de cette dernière. Vous goûtez votre plat avant d'en ressentir les bienfaits, puis reprenez votre route.",
-            "en": "You decide to read a book, this one is about cooking and delicious meals to prepare. You write down the recipe before going to get the ingredients. Once these have been found, you follow the latter's instructions. You taste your dish before you feel the benefits, then hit the road again."
-          },
-          "lostTime": 60,
-          "health": 10,
-          "effect": ":clock2:",
-          "experience": 225,
-          "money": 0,
-          "item": false
-        },
-        {
-          "translations": {
-            "fr": "Vous prenez un livre, puis commencez à le lire. Le livre parlait de mathématiques, cependant cela n'a jamais été votre fort. Près de 10 minutes plus tard, vous décidez de reposer le livre avant de continuer votre chemin.",
-            "en": "You take a book, then start reading it. The book was about mathematics, but that was never your forte. Almost 10 minutes later, you decide to put the book down before continuing on your way."
-          },
-          "lostTime": 10,
-          "health": 0,
-          "effect": ":clock2:",
-          "experience": 25,
-          "money": 0,
-          "item": false
-        },
-        {
-          "translations": {
-            "fr": "Vous lisez un livre de cuisine, celui-ci parle d'un délicieux met. Alléché, vous décidez de préparer le plat, cependant vous ne respectez pas totalement ce qui était marqué et après avoir mangé vous ne vous sentez pas bien.",
-            "en": "You are reading a cookery book, this one talks about a delicious dish. You decide to prepare the dish, however you don't fully respect what was marked and after eating you don't feel well."
-          },
-          "lostTime": 0,
-          "health": 0,
-          "effect": ":sick:",
-          "experience": 0,
-          "money": 0,
-          "item": false
-        }
-      ]
-    },
-    "🗓️": {
-      "translations": {
-        "fr": "Regarder le calendrier",
-        "en": "Look at the calendar"
-      },
-      "issues": [
-        {
-          "translations": {
-            "fr": "Vous regardez le calendrier et y découvrez l’existence d’un tournois ! Vous décidez donc de vous y rendre, après quelques heures vous arrivez en finale. Cependant votre adversaire vous domine et vous perdez le combat. Finaliste vous touchez quelques pièces d'or avant de reprendre votre chemin.",
-            "en": "You look at the calendar and discover the existence of a tournament! So you decide to go there, after a few hours you arrive at the final. However, your opponent dominates you and you lose the fight. As a finalist you touch a few gold coins before going on your way."
-          },
-          "lostTime": 120,
-          "health": 0,
-          "effect": ":clock2:",
-          "experience": 125,
-          "money": 300,
-          "item": false
-        },
-        {
-          "translations": {
-            "fr": "Vous regardez le calendrier et constatez que vous êtes en février, vous décidez de sortir et d'aller manger une galette à un stand avoisinant. Cette nourriture vous aura bien rassasié ! Vous reprenez votre route, repu.",
-            "en": "You look at the calendar and see that it's February, you decide to go out and eat a pancake at a nearby stand. This pancake will have satisfied you well! You're back on your way, full to the brim."
-          },
-          "lostTime": 0,
-          "health": 10,
-          "effect": ":smiley:",
-          "experience": 350,
-          "money": 0,
-          "item": false
-        },
-        {
-          "translations": {
-            "fr": "En voyant le calendrier vous vous rappelez des affiches dans les rues parlant d'une chasse au trésor. Vous décidez de participer, cependant au bout des quelques heures vous n'arrivez pas à trouver quoi que ce soit. Vous décidez donc de rebrousser chemin.",
-            "en": "When you see the calendar you remember the posters in the streets talking about a treasure hunt. You decide to participate, but after a few hours you can't find it. So you decide to turn back."
-          },
-          "lostTime": 0,
-          "health": 0,
-          "effect": ":smiley:",
-          "experience": 150,
-          "money": 0,
-          "item": false
-        },
-        {
-          "translations": {
-            "fr": "Vous regardez le calendrier, écrit en gros à la date d'aujourd'hui vous voyez inscrit : Concours d'hydromel ! Vous sentant résistant à l'alcool vous tentez votre chance. Vous gagnez même le concours ainsi qu'une récompense ! Cependant vous finissez totalement ivre.",
-            "en": "You are looking at the calendar, written roughly at today's date you see entered: Mead competition! Feeling resistant to alcohol, you try your luck. You even win the competition as well as a reward! However, you end up totally drunk."
-          },
-          "lostTime": 0,
-          "health": 0,
-          "effect": ":zany_face:",
-          "experience": 0,
-          "money": 350,
-          "item": false
-        }
-      ]
-    },
-    "end": [
-      {
-        "translations": {
-          "fr": "\uD83C\uDF0C Vous traînez dans cette bibliothèque, vous ne voyez pas les minutes passer. Lors de la fermeture de cette dernière, vous sortez et vous rendez compte qu'il est déjà tard. Vous reprenez votre route sans plus tarder.",
-          "en": "\uD83C\uDF0C You hang out in this library, you don't see the minutes go by. When it closes, you go out and realise that it is already late. You get back on the road without further delay."
-        },
-        "lostTime": 30,
-        "health": 0,
-        "effect": ":clock2:",
-        "experience": 25,
-        "money": 0,
-        "item": false
-      },
-      {
-        "translations": {
-          "fr": "\uD83D\uDEB6 Vous sortez de la bibliothèque avant de reprendre votre quête.",
-          "en": "\uD83D\uDEB6 You leave the library before resuming your quest."
-        },
-        "lostTime": 0,
-        "health": 0,
-        "effect": ":smiley:",
-        "experience": 150,
-        "money": 0,
-        "item": false
-      }
-    ]
-  }
+	"map_location_ids": [
+		23
+	],
+	"translations": {
+		"fr": "📚 Après avoir flâné dans les rues de Claire de Ville, vous apercevez un bâtiment dont l'entrée est encadrée par deux statues de hiboux en pierre. En vous en approchant, vous comprenez que c'est la bibliothèque de la ville. Vous décidez d'entrer dans la bâtisse pour passer le temps. Sur un des murs de l'entrée, un calendrier fait de larges feuilles reliées entre elles par une lanière de cuir y est accroché.",
+		"en": "📚 After strolling through the streets of Claire de Ville, you see a building whose entrance is framed by two stone owl statues. As you approach it, you understand this is the city's library. You decide to came in to spend some time. As you enter you see hanging on the wall a large calendar made with a leather strap."
+	},
+	"possibilities": {
+		"📔": {
+			"translations": {
+				"fr": "Tenter de voler un livre pour le revendre.",
+				"en": "Try to steal a book to resell it."
+			},
+			"issues": [
+				{
+					"translations": {
+						"fr": "Vous parvenez à voler un vieux livre poussièreux et sortez discrètement de l'édifice, afin de trouver un acheteur dans les grandes avenues de la ville. Cependant, vous remarquez que personne n'est intéressé par ce livre, notamment parce qu'il est très abîmé avec des pages déchirées. Vous l'abandonnez donc avant de reprendre votre chemin.",
+						"en": "You manage to steal a dusty old book and discreetly exit the building, in order to find a buyer in the main avenues of the city. However, you notice nobody have interest for this book, especially because it is very damaged with torn pages. You decide to abandon it before resuming your journey."
+					},
+					"lostTime": 20,
+					"health": 0,
+					"effect": ":clock2:",
+					"experience": 25,
+					"money": 0,
+					"item": false
+				},
+				{
+					"translations": {
+						"fr": "Vous sortez furtivement de la bibliothèque sans que personne ne vous remarque. Vous avez réussi à voler un livre et essayez de le vendre aux passants. Un homme décide de vous l'acheter pour quelques pièces d'or. Une fois la transaction effectuée, vous reprenez votre route.",
+						"en": "You sneak out of the library without anyone noticing you. You managed to steal a book and now try to sell it to passers-by. A man decides to buy it for a few gold coins. Once the transaction is completed, you get back on track."
+					},
+					"lostTime": 20,
+					"health": 0,
+					"effect": ":clock2:",
+					"experience": 175,
+					"money": 55,
+					"item": false
+				},
+				{
+					"translations": {
+						"fr": "Vous tentez de voler un livre discrètement mais la bibliotécaire vous prend la main dans le sac. Vous fuyez avec l'ouvrage mais trébuchez contre une pierre, la bibliothécaire vous rattrape alors. Elle exige que vous lui restituez ce précieux livre à la couverture dorée, et par la même occasion, une compensation ! Déçu et penaud, vous lui rendez le livre et la dédommagez d'une large poignée de vos économies afin d'éviter la prison...",
+						"en": "You try to steal a book discreetly but the librarian caught you red-handed. You run away with the book. You stumble over a stone. The librarian catches up on you. She requires that you gave back this precious golden covered book and, at the same time, a compensation! Disappointed and sheepish, you give the book back to her and compensate her with a large handful of your savings in order to avoid prison..."
+					},
+					"lostTime": 200,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 150,
+					"money": -500,
+					"item": false
+				}
+			]
+		},
+		"📖": {
+			"translations": {
+				"fr": "Lire un livre.",
+				"en": "Read a book."
+			},
+			"issues": [
+				{
+					"translations": {
+						"fr": "Vous décidez de lire un livre, celui-ci parle de cuisine et de succulents repas à préparer. Vous notez la recette avant d'aller en chercher les ingrédients. Une fois ces derniers trouvés, vous suivez les instructions à la lettre ! Vous goûtez votre plat avant d'en ressentir les bienfaits, puis reprenez votre route.",
+						"en": "You decide to read a book, it is about cooking and delicious meals to prepare. You write down the recipe before looking for the ingredients. Once these are found, you follow the instructions to the letter ! You taste your dish and gain benefits from it, then resume your journey."
+					},
+					"lostTime": 60,
+					"health": -7,
+					"effect": ":clock2:",
+					"experience": 0,
+					"money": 0,
+					"item": false
+				},
+				{
+					"translations": {
+						"fr": "Vous prenez un livre, puis commencez à le lire. Le livre parle d'arithmétiques, cependant cela n'a jamais été votre fort. Près de 10 minutes plus tard, vous décidez de reposer le livre avant de continuer votre chemin.",
+						"en": "You pick a random book and start reading it. The book is about mathematics, however it has never been your strong. Almost 10 minutes later, you decide to put down the book before continuing on your way."
+					},
+					"lostTime": 10,
+					"health": 0,
+					"effect": ":clock2:",
+					"experience": 25,
+					"money": 0,
+					"item": false
+				},
+                {
+					"translations": {
+						"fr": "Vous lisez un livre de cuisine, celui-ci parle d'un délicieux met. Alléché, vous décidez de préparer le plat, cependant vous ne respectez pas totalement ce qui était marqué et après avoir mangé vous ne vous sentez pas bien.",
+						"en": "You start reading a cooking book. It is about a delicious dish. Allied, you decide to prepare the dish, however you do not completely respect what was marked so you are not surprised when you begun feeling bad after eating it."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":sick:",
+					"experience": 25,
+					"money": 0,
+					"item": false
+				},
+                {
+					"translations": {
+						"fr": "Vous prenez le premier livre que vous voyez. Il parle d'alchimie et des bienfaits des plantes. Après en avoir étudié attentivement le contenu, vous le reposez, certain que cela vous servira pour vos prochaines aventures.",
+						"en": "You pick up the first book you see. He talks about alchemy and the plants' benefits. After having carefully studied its content, you put it down, certain that it will be useful for your next adventures."
+					},
+					"lostTime": 30,
+					"health": 0,
+					"effect": ":clock2:",
+					"experience": 25,
+					"money": 0,
+					"item": false
+                }    
+			]
+		},
+		"🗓️": {
+			"translations": {
+				"fr": "Regarder le calendrier.",
+				"en": "Look at the calendar."
+			},
+			"issues": [
+				{
+					"translations": {
+						"fr": "Vous regardez le calendrier et y découvrez l’existence d’un tournoi ! Vous décidez donc de vous y rendre, après quelques heures vous arrivez en finale. Cependant, votre adversaire vous domine et vous perdez le combat. Finaliste, vous gagnez tout de même une bourse remplie d'or avant de reprendre votre chemin.",
+						"en": "You look at the calendar and discover the existence of a tournament! So you decide to go there and, after a few hours of battling, you reach the final. However, your opponent is too strong and you lose the fight. Finalist, you win a purse full of gold all the same before continuing on your way."
+					},
+					"lostTime": 180,
+					"health": 0,
+					"effect": ":clock2:",
+					"experience": 125,
+					"money": 1000,
+					"item": false
+				},
+                {
+					"translations": {
+						"fr": "Vous regardez le calendrier et constatez que vous êtes en laponaire, le 6ème mois de l'année, vous décidez de sortir et d'aller manger une galette à un stand avoisinant. Cette nourriture vous aura bien rassasié ! Vous reprenez votre route, repu.",
+						"en": "You look at the calendar and notice that you are in Lapland, the 6th month of the year so you decide to go out and eat a pancake at a nearby stand. This food is so good you feel full ! You resume your journey, replete."
+					},
+					"lostTime": 10,
+					"health": 1,
+					"effect": ":clock2:",
+					"experience": 0,
+					"money": 0,
+					"item": false
+				},
+                {
+					"translations": {
+						"fr": "En voyant le calendrier vous vous rappelez des affiches dans les rues parlant d'une chasse au trésor. Vous décidez d'y participer, cependant au bout de deux heures de recherche, vous n'arrivez pas à trouver quoi que ce soit. Vous décidez donc de rebrousser chemin.",
+						"en": "When you see the calendar you remember the streets’ posters talking about a treasure hunt. You decide to participate. However, after two hours searching around you, you can't find anything. So you decide to turn back."
+					},
+					"lostTime": 120,
+					"health": 0,
+					"effect": ":clock2:",
+					"experience": 25,
+					"money": 0,
+					"item": false
+				},
+                {
+					"translations": {
+						"fr": "Vous regardez le calendrier, à la date d'aujourd'hui vous voyez inscrit : Concours d'hydromel ! Vous sentant résistant à l'alcool vous décidez de tenter votre chance. Vous gagnez même le concours ainsi qu'une récompense ! Cependant vous finissez totalement ivre.",
+						"en": "You are looking at the calendar and as of today you can see the entry: Mead competition! Knowing your strong resistance to alcohol, you decide to give it a try. You even win the contest as well as a reward! However you end up totally drunk too."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":zany_face:",
+					"experience": 125,
+					"money": 500,
+					"item": false
+                }    
+			]
+		},
+		"end": {
+			"issues": [
+				{
+					"translations": {
+						"fr": "🚶 Vous flânez dans cette bibliothèque, vous ne voyez pas les minutes passer. Lors de la fermeture de cette dernière, vous sortez et vous rendez compte qu'il est déjà tard. Vous reprenez votre route sans plus tarder.",
+						"en": "🚶 You roam through this library, totally unaware of the time rushing by. When it is time to close, you go out and realize that it is already late afternoon. You resume your journey without further delay."
+					},
+					"lostTime": 60,
+					"health": 0,
+					"effect": ":clock2:",
+					"experience": 25,
+					"money": 0,
+					"item": false
+				},
+				{
+					"translations": {
+						"fr": "👀 Vous restez ébahi devant le nombre de livres et la quantité de connaissances qui émane de ces lieux. Peu après, la bibliotécaire vous fait signe que la bibliothèque est sur le point de fermer. Déçu, vous faites demi-tour afin de poursuivre vos aventures.",
+						"en": "👀 You are amazed in front of the numerous books. And by the amount of knowledge that emanates from these. Shortly after, the librarian signals you that the library is about to close. Disappointed, you turn around to continue your adventures."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 150,
+					"money": 0,
+					"item": false
+				},
+				{
+					"translations": {
+						"fr": "📓 Vous restez dans la bibliothèque plusieurs minutes ébahi par tout ce savoir. Vous vous asseyez, pensif. Soudain, un lecteur vient troubler vos pensées, le livre "Hansel et Gretel" des frères Grimm en main. Il vous demande de bien vouloir partir car vous êtes assis à sa place préférée de la bibliothèque. Confus vous partez de celle-ci, ignare de savoir.",
+						"en": "📓 You stay in the library for several minutes amazed by all this knowledge. You sit down, thoughtful. Suddenly, a reader comes by and disturb your thoughts, the Grimm’ book "Hansel and Gretel" in hand. He asks you to give him your place as you are seated on his favorite. Confused you leave it, not knowing what to think about this."
+					},
+					"lostTime": 10,
+					"health": 0,
+					"effect": ":clock2:",
+					"experience": 25,
+					"money": 0,
+					"item": false
+				}
+			]
+		}
+	}
 }
