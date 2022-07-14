@@ -1,0 +1,244 @@
+
+	"map_location_ids": [
+		27
+	],
+	"translations": {
+		"fr": "👴 Après de longues heures de marche à travers la Forêt Celestrum, vous apercevez finalement près d'une rivière un bâtiment semblant être une maison en ruine. Tout en vous approchant discrètement, couvert par les arbres, vous effectuez une rapide observation des lieux. En entendant ce qui vous paraît être un cri d'animal venant de l'intérieur de la demeure, vous comprenez que le bâtiment est habité. Vous décidez donc de toquer à la porte. C'est un vieil homme à la mine perturbée qui vient vous ouvrir. Il s'adresse alors à vous de façon inintelligible, il parle rapidement et panique légèrement, cependant, vous comprenez tout de même dans ses dires qu'il s'appelle Parziter et qu'il a besoin de votre aide :",
+		"en": "👴 After hours of walking through Celestrum Forest, you finally see a building near a river that looks like a ruined house. While approaching discreetly, covered by trees, you make a quick observation of the place. Hearing what appears to be an animal cry coming from inside the house, you understand that the building is inhabited. You decide to knock at the door. It is an old man with a disturbed expression who opens the door. He then speaks to you in an unintelligible quick way and panics slightly, however, you still understand that his name is Parziter and he needs your help :"
+	},
+	"possibilities": {
+		"🔒": {
+			"translations": {
+				"fr": "Proposer de devenir son cobaye.",
+				"en": "Offer to become his guinea pig."
+			   },
+			"issues": [
+				{
+					"translations": {
+						"fr": "L'homme réfléchit longuement mais finit par décliner votre proposition ne voulant pas avoir un poids sur la conscience si jamais il vous arrivait malheur. Suite à cette annonce, vous comprenez que l'homme semble ne plus avoir toute sa tête et décidez de reprendre votre chemin.",
+						"en": "The man thinks for a long time but ends up declining your proposal not wanting to have a burden on his conscience if ever something should happens to you. Following this announcement, you understand that the man seems to no longer have all his mind and decide to resume your path."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 150,
+					"money": 0,
+					"item": false
+				},
+				{
+					"translations": {
+						"fr": "Le vieil homme réfléchit à votre proposition, puis repensant aux dernières potions qu'il a concocté se dit qu'il s'agit là d'une bonne occasion de les tester. Il accepte donc votre offre et vous demande de boire plusieurs breuvages ainsi que de décrire l'effet qu'ils vous procurent. Cependant, alors que vous veniez de consommer le cinquième, vous vous effondrez au sol, malade.",
+						"en": "The old man thinks about your proposal, then rethinking about the last potions he has concocted, thinks this is a good opportunity to test them. He therefore accepts your offer and asks you to drink several beverages as well as to describe the effect they have on you. However, when you had just consumed the fifth, you collapsed sickly to the ground."
+					},
+					"lostTime": 20,
+					"health": 0,
+					"effect": ":sick:",
+					"experience": 25,
+					"money": 55,
+					"item": false
+				},
+				{
+					"translations": {
+						"fr": "Le vieil homme décide d'accepter sans hésiter votre proposition et vous promet même une petite bourse d'or en guise de récompense pour ces tests. Mais quelques minutes plus tard, vous buvez une étrange mixture qui vous rend totalement ivre. Vous essayez alors de marcher un peu mais vous vous écroulez au sol, un sourire diabolique aux lèvres. Vous vous sentez étrangement bien malgré vos saignements. Voyant que vous ne lui êtes plus d'aucune utilité dans cet état, l'homme déçu vous met à la porte et refuse de vous donner votre récompense.",
+						"en": "The old man decides to accept your proposal without hesitation and even promises you a few golds as a reward for these tests. But a few minutes later, you drink a strange mixture that makes you totally drunk. Then, you try to walk a bit but collapse to the ground, a devilish smile on your face. You feel strangely well despite your bleeding. Seeing that you are no longer useful to him, the disappointed man kicks you out and refuses to give you your reward."
+					},
+					"lostTime": 0,
+					"health": -15,
+					"effect": ":zany_face:",
+					"experience": 0,
+					"money": 0,
+					"item": false
+				},
+                {
+					"translations": {
+						"fr": "L'homme accepte et vous demande de vous mettre sur une étrange machine pour pédaler. Après quelques dizaines de minutes d'effort, une potion sort du mur comme par magie! Vous la buvez et quelques instant plus tard vous sentez une énergie nouvelle vous parcourir, vous poussant à braver mille dangers pour la suite de vos aventures.",
+						"en": "The man accepts and asks you to put yourself on a strange pedalling machine. After a few minutes of effort, a potion comes out of the wall magically ! You drink it and a few moments later you feel full of energy, pushing you to brave a thousand dangers for the rest of your adventures."
+					},
+					"lostTime": 0,
+					"health": 25,
+					"effect": ":smiley:",
+					"experience": 350,
+					"money": 0,
+					"item": false
+				}
+			]
+		},
+		"🦉": {
+			"translations": {
+				"fr": "Proposer de s'occuper de son animal de compagnie.",
+				"en": "Offer to take care of his pet."
+			},
+			"issues": [
+				{
+					"translations": {
+						"fr": "L'homme accepte avec joie et vous confie avec plaisir son hibou ainsi que quelques consignes à respecter afin que vous preniez bien soin de son compagnon le temps qu'il aille chercher des provisions pour les jours à venir. A son retour, l'animal se porte à merveille et l'homme en preuve de sa gratitude vous propose de rester dîner. Vous repartez finalement après le délicieux repas qu'il vous a servi, vous sentant désormais requinqué pour la suite de vos périples.",
+						"en": "The man accepts joyfully and gives you his owl with pleasure as well as some instructions to follow so that you take good care of his companion while he goes to look for provisions for the days to come. On his return, the animal is doing wonderfully and the man, grateful, offers you to stay for dinner. You finally leave after the delicious meal he served you, now feeling perked up for the rest of your journeys."
+					},
+					"lostTime": 85,
+					"health": 20,
+					"effect": ":clock2:",
+					"experience": 225,
+					"money": 0,
+					"item": false
+				},
+				{
+					"translations": {
+						"fr": "L'homme accepte avec plaisir et en profite pour aller faire une petite balade. Malheureusement pour lui, vous profitez de son absence pour lui voler un peu d'argent ainsi qu'un objet qui pourrait vous être utile plus tard. A son retour, le savant découvre son logement dévasté et décide de partir à votre recherche, en vain. Dépité, il reprend finalement la concoction de ses potions en jurant de ne pas vous oublier.",
+						"en": "The man accepts with pleasure and takes the opportunity to go for a little walk. Unfortunately for him, you take advantage of his absence to steal some money and an item that you might find useful later. On his return, the scientist discovers his devastated home and decides to go looking for you, in vain. Annoyed, he finally resumes the concoction of his potions, swearing not to forget you."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 550,
+					"money": 250,
+					"item": true
+				},
+                {
+					"translations": {
+						"fr": "L'homme hésite quelques instants mais finit par refuser votre offre. En effet, tenant beaucoup à son animal il ne souhaite pas le confier à un inconnu et ainsi prendre le risque de le perdre. Comprenant que vous ne serez donc d'aucune utilité pour le savant, vous décidez de reprendre votre route.",
+						"en": "The man hesitates for a few moments but ends up refusing your offer. Indeed, caring for his animal, he does not wish to entrust it to a stranger and thus take the risk of losing it. Realizing that you will therefore be of no use to the scholar, you decide to resume your journey."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 150,
+					"money": 0,
+					"item": false
+				},
+                {
+					"translations": {
+						"fr": "L'homme prend peur et commence à paniquer à l'idée de vous confier son animal. Se méprenant sur vos intentions et pensant que vous lui voulez du mal, il se saisit d'une serpe et s'en sert pour vous menacer. Effrayé et craignant que la situation n'empire, vous décidez d'amadouer le savant avec une poignée de pièces d'or. Une fois calmé, ce dernier, encore confus vous demande vivement de partir. Vous reprenez donc votre route, avant même d'avoir pu vous remettre de vos émotions.",
+						"en": "The man gets scared and starts to panic at the idea of ​​letting his animal to you. Misunderstanding your good intentions and thinking you want to harm him, he grabs a billhook and uses it to threaten you. Frightened and fearing that the situation will get worse, you decide to coax the scholar with a handful of gold coins. Once calmed down, the man, still confused, urges you to leave. So you go on your way, even before having been able to recover from your emotions."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 150,
+					"money": -50,
+					"item": false
+                },    
+                {
+					"translations": {
+						"fr": "L'homme hésite quelques instants puis décide finalement d'accepter votre proposition et de partir chercher des provisions pour les jours à venir. A son retour, il constate que son hibou se porte bien et pour vous montrer sa reconnaissance, il décide de vous offrir quelque chose qui vous sera utile dans votre aventure.",
+						"en": "The man hesitates a few moments, then finally decides to accept your proposal and go get provisions for the days to come. On his return, he notices that his owl is doing well and to show you his gratitude, he decides to offer you something that will be useful for your adventure."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 450,
+					"money": 0,
+					"item": true
+                },    
+                {
+					"translations": {
+						"fr": "L'homme vous remercie pour votre offre mais affirme avec insistance ne pas posséder d'animal de compagnie. Vous êtes pourtant convaincu d'avoir entendu un hibou mais ne comprenant pas vraiment la situation et ne souhaitant pas vous attirer d'ennuis, vous reprenez votre route sans poser plus de questions.",
+						"en": "The man thanks you for your offer but insists that he does not own a pet. You are however convinced to have heard an owl but not really understanding the situation and not wishing to get you in trouble, you resume your journey without asking any more questions."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 150,
+					"money": 0,
+					"item": false
+                }
+			]
+		},
+		"🧪": {
+			"translations": {
+				"fr": "Lui demander de vous apprendre à concocter des potions.",
+				"en": "Ask him to teach you how to concoct potions."
+			},
+			"issues": [
+				{
+					"translations": {
+						"fr": "Vous demandez à l'homme s'il peut vous apprendre à préparer des potions. Ce dernier vous répond que oui et vous livre les secrets de certains des breuvages qu'il possède. À l'aide de vos nouvelles connaissances vous fabriquez un élixir censé posséder des propriétés revigorantes. Une fois la préparation achevée, vous buvez sans hésitation la mixture obtenue et en ressentez les effets bénéfiques à peine quelques instants plus tard. Vous remerciez chaleureusement l'homme pour le temps qu'il vous a accordé puis reprenez votre périple.",
+						"en": "You ask the man if he can teach you how to brew potions. He answers positively and gives you the secrets of some of the beverages he has. Using your new knowledge, you craft an elixir believed to have invigorating properties. Once the preparation is complete, you drink the full mixture without hesitation and feel the benefits only a few moments later. You warmly thank the man for the time he has given you and then resume your journey."
+					},
+					"lostTime": 60,
+					"health": 40,
+					"effect": ":clock2:",
+					"experience": 225,
+					"money": 0,
+					"item": false
+				},
+                {
+					"translations": {
+						"fr": "Vous demandez à l'homme s'il peut vous apprendre à préparer des potions. Ce dernier vous répond que oui et vous livre les secrets de certains des breuvages qu'il possède. À l'aide de vos nouvelles connaissances vous fabriquez un élixir censé posséder des propriétés revigorantes. Une fois la préparation achevée, vous buvez sans hésitation la mixture obtenue et... il ne se passe absolument rien ! Furieux, vous repartez immédiatement tout en rouspétant d'avoir perdu du temps pour rien avec ce charlatan.",
+						"en": "You ask the man if he can teach you how to prepare potions. He answers positively and gives you the secrets of some of the beverages he has. Using your new knowledge, you craft an elixir believed to have invigorating properties. Once the preparation is complete, you drink the full mixture without hesitation and... absolutely nothing happen! Furious, you leave immediately while grumbling about having wasted your time for nothing with this charlatan."
+					},
+					"lostTime": 120,
+					"health": 0,
+					"effect": ":clock2:",
+					"experience": 25,
+					"money": 0,
+					"item": false
+				},
+                {
+					"translations": {
+						"fr": "Dès l'instant où vous abordez le sujet des potions, l'homme devient très distant, commence à s'énerver et refuser catégoriquement votre requête, affirmant que la concoction d'élixirs nécessite un savoir-faire très conséquent que vous ne possédez assurément pas. Avant que vous n'ayez pu apprendre plus de détails, l'homme armé d'une serpe vous demande de partir, ce que vous faites sans hésiter, ne souhaitant pas davantage importuner le savant.",
+						"en": "From the moment you broach the subject of potions, the man becomes very distant, begins to get angry and categorically refuses your request, claiming that the concoction of elixirs requires a very substantial knowledge that you surely do not have. Before you can learn more details, the man armed with a billhook asks you to leave, which you do without hesitation, not wishing to annoy the scholar any further."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 150,
+					"money": 0,
+					"item": false
+				},
+                {
+					"translations": {
+						"fr": "Comprenant votre requête, le vieil homme vous propose en échange d'une petite somme d'argent de vous montrer comment concocter une potion 'revigorante'. N'ayant pas totalement confiance en l'individu, vous refusez son offre et partez.",
+						"en": "Understanding your request, the old man offers for a few golds to show you how to concoct an 'invigorating' potion. Unconfident with this man, you refuse his offer and leave."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 150,
+					"money": 0,
+					"item": false
+                },
+                {
+					"translations": {
+						"fr": "L'homme comprend votre requête et aimerait vous aider, cependant il affirme ne pas savoir faire de potions. Déçu, vous reprenez donc votre route.",
+						"en": "The man understands your request and would like to help you, however he claims that he doesn't know how to make potions. Disappointed, you therefore resume your journey."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 150,
+					"money": 0,
+					"item": false
+                }    
+			]
+		},
+		"end": {
+			"issues": [
+				{
+					"translations": {
+						"fr": "🚪 Vous restez là, sans bouger. L'homme s'impatiente alors et apercevant vos yeux vides, il vous referme la porte au nez en grommelant qu'il n'a pas de temps à perdre pour des idioties.",
+						"en": "🚪 You stay there, without moving. The man gets impatient and seeing your empty eyes shuts the door on your face, grumbling that he has no time to waste on nonsense."
+					},
+					"lostTime": 0,
+					"health": 0,
+					"effect": ":smiley:",
+					"experience": 150,
+					"money": 0,
+					"item": false
+				},
+				{
+					"translations": {
+						"fr": "⛔ Vous restez là, sans bouger. Après vous avoir longuement regardé, l'homme comprend que vous ne ferez pas l'affaire, car vous ne lui seriez d'aucune utilité et vous demande donc de partir. Vous reprenez alors votre route.",
+						"en": "⛔ You stay there, unmoving. After looking at you for a long time, the man understands that you will be no use to him and therefore asks you to leave. So you resume your journey."
+					},
+					"lostTime": 10,
+					"health": 0,
+					"effect": ":clock2:",
+					"experience": 25,
+					"money": 0,
+					"item": false
+				}
+			]
+		}
+	}
+}
+
