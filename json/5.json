@@ -30,7 +30,7 @@
 						"fr": "Le vieil homme réfléchit à votre proposition, puis repensant aux dernières potions qu'il a concocté se dit qu'il s'agit là d'une bonne occasion de les tester. Il accepte donc votre offre et vous demande de boire plusieurs breuvages ainsi que de décrire l'effet qu'ils vous procurent. Cependant, alors que vous veniez de consommer le cinquième, vous vous effondrez au sol, malade.",
 						"en": "The old man thinks about your proposal, then rethinking about the last potions he has concocted, thinks this is a good opportunity to test them. He therefore accepts your offer and asks you to drink several beverages as well as to describe the effect they have on you. However, when you had just consumed the fifth, you collapsed sickly to the ground."
 					},
-					"lostTime": 20,
+					"lostTime": 0,
 					"health": 0,
 					"effect": ":sick:",
 					"experience": 25,
