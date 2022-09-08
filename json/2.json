@@ -191,8 +191,8 @@
 				},
 				{
 					"translations": {
-						"fr": "📓 Vous restez dans la bibliothèque plusieurs minutes ébahi par tout ce savoir. Vous vous asseyez, pensif. Soudain, un lecteur vient troubler vos pensées, le livre "Hansel et Gretel" des frères Grimm en main. Il vous demande de bien vouloir partir car vous êtes assis à sa place préférée de la bibliothèque. Confus vous partez de celle-ci, ignare de savoir.",
-						"en": "📓 You stay in the library for several minutes amazed by all this knowledge. You sit down, thoughtful. Suddenly, a reader comes by and disturb your thoughts, the Grimm’ book "Hansel and Gretel" in hand. He asks you to give him your place as you are seated on his favorite. Confused you leave it, not knowing what to think about this."
+						"fr": "📓 Vous restez dans la bibliothèque plusieurs minutes ébahi par tout ce savoir. Vous vous asseyez, pensif. Soudain, un lecteur vient troubler vos pensées, le livre \"Hansel et Gretel\" des frères Grimm en main. Il vous demande de bien vouloir partir car vous êtes assis à sa place préférée de la bibliothèque. Confus vous partez de celle-ci, ignare de savoir.",
+						"en": "📓 You stay in the library for several minutes amazed by all this knowledge. You sit down, thoughtful. Suddenly, a reader comes by and disturb your thoughts, the Grimm’ book \"Hansel and Gretel\" in hand. He asks you to give him your place as you are seated on his favorite. Confused you leave it, not knowing what to think about this."
 					},
 					"lostTime": 10,
 					"health": 0,
