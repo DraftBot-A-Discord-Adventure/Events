@@ -26,7 +26,7 @@
 				{
 					"translations": {
 						"fr": "Vous êtes désireux d'assister au spectacle mais celui-ci se termine à l'instant même où vous arrivez. Bien que votre déception soit immense, vous repartez.",
-						"en": "You wish to spectate this show, but it ends mere moments after you arrived. Even though you are deeply disappointed, you leave this place."
+						"en": "You wish to spectate this show, but it ends mere moments after your arrival. Even though you are deeply disappointed, you leave this place."
 					}
 				},
 				{
@@ -48,14 +48,14 @@
 				{
 					"translations": {
 						"fr": "Vous comprenez assez rapidement qu'il s'agit là de chatons. Cela ne fait aucun doute car vous avez déjà eu la chance de croiser des tigres, et ceux-ci donnent naissance à des tigreaux bien plus grands. Vous déclarez cela scandaleux, et exigez une compensation financière des escrocs. Ceux-ci acceptent à condition que vous partiez immédiatement.",
-						"en": "You immediately understand the \"rare beasts\" are nothing but kitten. You are sure of this fact, as you already encountered actual tigers before, and their cubs are way bigger. You start and call out the scandalous scam, and demand that the scammers compensate you a great sum, or else you'll tell everyone about it. They accept your conditions, hoping you quickly get out of here."
+						"en": "You immediately understand the \"rare beasts\" are nothing but kitten. You are sure of this fact as you already encountered actual tigers before, and their cubs are way bigger. You start and call out the scandalous scam, and demand that the scammers compensate you a great sum, or else you'll tell everyone about it. They accept your conditions, hoping you quickly get out of here."
 					},
 					"money": 500
 				},
 				{
 					"translations": {
 						"fr": "Vous voyez le dresseur avec un fouet en mains, prêt à fouetter un jeune tigreau. En bon défenseur des causes perdues, vous lui foncez dessus en lui hurlant d'arrêter et de relâcher ces pauvres tigres sans défense. L'homme vous attrape et vous flagelle de son arme, sous les applaudissements de la foule en furie.",
-						"en": "You see the trainer ready is whip, and know he's about to hurt the young beasts. As a greatly altruist person, you run up to him, shouting for him to stop his immense cruelty towards innocent newborns. He gets you and lashes as you with his weapon, to which the crowd cheers with glee."
+						"en": "You see the trainer ready is whip, and know he's about to hurt the young beasts. As a greatly altruist person, you run up to him, shouting for him to stop his immense cruelty towards innocent newborns. He gets you and lashes at you with his weapon, to which the crowd cheers with glee."
 					},
 					"effect": ":dizzy_face:",
 					"health": -25
@@ -63,7 +63,7 @@
 				{
 					"translations": {
 						"fr": "Le spectacle arrive à sa fin et, en excellent homme d'affaires, le dresseur propose à ses spectateurs de caresser les tigres, moyennant un paiement de quelques pièces. Vous hurlez aux personnes présentes que c'est une arnaque, qu'il s'agit de simples chatons, mais personne ne vous écoute. Vous hurlez jusqu'à en perdre votre voix, et finissez par repartir.",
-						"en": "The show is ending as you came and, as a great businessman, the trainer offers that, for a small fee, members of the crowd come up and pet the tigers. You shout with all of your strength, warning everyone that it is a massive scam and the \"beasts\" are simple kitten, but no one pays attention to you. You continue screaming your head off, but eventually take your leave."
+						"en": "The show is ending as you came and, as a great businessman, the trainer offers that, for a small fee, members of the crowd come up and pet the tigers. You shout with all of your strength, warning everyone that it is a massive scam and the \"beasts\" are mere kitten, but no one pays attention to you. You continue screaming your head off, but eventually take your leave."
 					},
 					"lostTime": 30,
 					"effect": ":clock2:"
@@ -79,7 +79,7 @@
 				{
 					"translations": {
 						"fr": "Vous êtes totalement désintéressé de ce spectacle et préférez fuir la foule afin d'éviter les habituels voleurs en tout genre. Ceux-ci, en effet, ne ratent jamais une occasion pour dérober riches comme pauvres, lors d'événements tels que celui-ci où les badauds s'agglutinent les uns contre les autres, facilitant leurs méfaits.",
-						"en": "You are as indifferent as possible towards this \"show\", and choose to quickly leave the crowd before falling victim to any of the usual thieves. Those people, in fact, never let go of any opportunity to stealthily take riches from others, whether a lord or a peasant. Moreover, their shady endeavors are rendered easier by those kind of events where people are closely packed."
+						"en": "You feel nothing but pure indifference towards this show, and choose to quickly leave the crowd before falling victim to any of the usual thieves. Those people, in fact, never let go of any opportunity to stealthily take riches from others, whether a lord or a peasant. Moreover, their shady endeavors are rendered easier by those kind of events where people are closely packed."
 					}
 				},
 				{
@@ -125,7 +125,7 @@
 				{
 					"translations": {
 						"fr": "💼 Vous vous éloignez de la foule pour chercher un meilleur endroit permettant d'assister au spectacle. Absorbé par ce dernier, vous ne regardez pas où se posent vos pieds, et tombez dans une lourde malle ouverte, abandonnée négligemment au milieu du chemin. Vous n'avez pas le temps de comprendre ce qu'il vous arrive, que celle-ci s'est déjà refermée sur vous, vous assomant douloureusement au passage.",
-						"en": "💼 You get away from the mass, hoping to find a better place from where to see the show. Fully concentrated on the spectacle, you do not pay attention to where you put your feet, and fall into a wide open case, randomly laying in the middle of the road. You can't even begin to understand what's happening, that the case closes itself on you, getting you all dizzy."
+						"en": "💼 You get away from the mass, hoping to find a better spot from which to see the show. Fully focused on the spectacle, you do not pay attention to where you put your feet, and fall into a wide open case that was randomly laying in the middle of the road. That the case closes itself on you, before you even get a chance to understand what's happening. You end up all dizzy."
 					},
 					"effect": ":confounded:"
 				}
