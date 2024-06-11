@@ -1,0 +1,149 @@
+{
+	"triggers": [
+		{
+			"mapId": 27
+		}
+	],
+	"translations": {
+		"fr": "🦆 Alors que vous vous baladez dans la Forêt Célestrum, vous arrivez dans une clairière bordée d'un petit étang. Le soleil tapant fort, vous décidez de longer le bord de l'eau, abrité par l'ombre des arbres et accompagné d'un léger vent rafraîchissant. Il s'agit du moment idéal pour faire une pause ! Assis en tailleur sur l'herbe tendre, adossé à un arbre et profitant du magnifique paysage qui s'offre à vous, vous observez un canard sauvage qui, épuisé par son vol, décide de plonger dans l'étang à plusieurs mètres de vous.",
+		"en": "🦆 As you walk through the Célestrum Forest, you arrive in a clearing bordered by a small pond. The sun is beating down, so you decide to walk along the lakeside, sheltered by the shade of the trees and accompanied by a refreshingly light wind. This is the perfect time to take a break! Sitting cross-legged on the soft grass, leaning against a tree and enjoying the magnificent landscape before you, you observe a wild duck which, exhausted by its flight, dives into the pond a few meters from you."
+	},
+	"possibilities": {
+		"🏊‍♂️": {
+			"translations": {
+				"fr": "Piquer une tête dans l'étang",
+				"en": "Take a dip in the pond"
+			},
+			"outcomes": [
+				{
+					"translations": {
+						"fr": "Vous décidez de poser vos vêtements sur la branche d'un arbre. Après avoir tâté la température de l'eau avec votre pied, vous faites un plongeon. Quelques brasses plus tard, vous retournez sur la rive pour vous sécher. Malheureusement, vous n'avez pas surveillé vos vêtements pendant la baignade et il semblerait qu'un plaisantin ait pris vos chaussures. Marcher pieds nus n'étant pas agréable, vous avancez péniblement jusqu'à la prochaine bourgade où vous achetez des bottes semblables à celles que vous vous êtes fait dérober.",
+						"en": "You put away your clothes, letting them rest on a nearby treebranch. After testing the water's temperature with your foot, you dive right in. A few swims later, you return to the shore to dry off. Unfortunately, you didn't watch your clothes while swimming, and it looks like a prankster took your shoes. Walking barefoot is not pleasant, so you laboriously trudge forward to the next town, where you buy boots similar to your previous, now-stolen ones."
+					},
+					"lostTime": 60,
+					"effect": ":clock2:",
+					"money": -200
+				},
+				{
+					"translations": {
+						"fr": "En plongeant, vous trouvez l'eau un peu froide. Il vous faut donc nager pour ne pas vous geler. Ne sachant pas ouvrir les yeux sous l'eau, vous ne regardez pas trop la direction que vous prenez et continuez droit devant vous, rompant la tranquillité du canard. Ce dernier n'apprécie pas votre présence et vous le fait comprendre. Agitant ses ailes, il vous pourchasse jusqu'à la rive. Votre corps a pris plusieurs coups de bec durant la fuite, vous infligeant des blessures légères.",
+						"en": "As you dive, you find the water to be a little cold. You thus have to swim vigorously to avoid freezing. Unable to open your eyes underwater, you don't really know where you're swimming, and continue straight ahead, disrupting the duck's serene repose. The latter does not appreciate your presence and makes it clear to you. Waving its wings, it chases you to the shore. Your body took several pecks during the flight, and you end up with minor injuries."
+					},
+					"health": -10
+				},
+				{
+					"translations": {
+						"fr": "Une fois immergé, la fraîcheur de l'eau vous fait grand bien. Le calme et l'atmosphère reposante vous soulagent alors. Vous en profitez un peu. Après une quinzaine de minutes à barboter, le goût de l'aventure vous pousse à reprendre votre route.",
+						"en": "Once immersed in the pond, the water's chillness does you a lot of good. The calm and relaxing atmosphere relieves you of all small troubles. You enjoy it for a while, but after about fifteen minutes of splashing around, the taste for adventure pushes you to set off again."
+					},
+					"lostTime": 15,
+					"effect": ":clock2:",
+					"health": 5
+				},
+				{
+					"translations": {
+						"fr": "Vous posez vos vêtements au sol et vous ruez dans l'eau. Vous la trouvez fraîche. Vous décidez donc de faire quelques longueurs. En sortant de l'eau, vous remarquez que plusieurs personnes ont eu la même idée que vous. Le caractère idyllique de cette zone vous restera en mémoire. Vous prenez vos affaires et continuez votre route.",
+						"en": "You drop your clothes on the ground and rush into the water. You find it fresh, prompting you to swim a few laps. Coming out of the water, you notice that several people had the same idea as you. The idyllic character of this area will stay with you in your memory. You grab your things and continue on your way."
+					}
+				}
+			]
+		},
+		"🥖": {
+			"translations": {
+				"fr": "Tenter d'appâter le canard",
+				"en": "Try to bait the duck "
+			},
+			"outcomes": [
+				{
+					"translations": {
+						"fr": "Saisissant un appétissant appât de votre besace, vous vous rapprochez du bord de l'eau, faisant des petits bruits avec votre bouche pour faire venir le canard. Le stratagème fonctionne, et vous nourrissez l'animal ! Quand il repart, ses mouvements dégagent un peu de vase flottant à la surface de l'eau. Vous y découvrez alors quelques pièces disséminées au fond.",
+						"en": "Grabbing an appetizing leftover from your previous meal, to serve as bait, you move closer to the pond's edge, making little noises with your mouth to attract the duck. It works quite well, and you feed the animal! When it leaves, its movements clear away a portion of the mud floating on the surface of the pond, revealing a few coins scattered at the bottom."
+					},
+					"money": 200
+				},
+				{
+					"translations": {
+						"fr": "Vous prenez soin de faire des boulettes à partir d'un bout de pain provenant de vos provisions, puis les lancez en direction du canard. Affamé, ce dernier n'en perd pas une miette ! Après avoir passé dix bonnes minutes à le contempler en train de manger, vous repartez souriant.",
+						"en": "You roll bread, taken out of your supplies, into little balls, then throw them towards the duck. Hungry, the latter doesn't miss a beat! You leave after spending a good ten minutes watching it eat."
+					},
+					"lostTime": 10,
+					"effect": ":clock2:"
+				},
+				{
+					"translations": {
+						"fr": "Malgré vos efforts, le canard ne semble pas intéressé par l'appât que vous lui jetez, et vous ignore complètement. Mécontent qu'un volatile vous résiste, vous reprenez votre route.",
+						"en": "Despite your best efforts, the duck doesn't seem interested in the bait you throw out, and completely ignores you. Unhappy that a simple bird is going against your will, you continue on your way."
+					}
+				}
+			]
+		},
+		"🤾‍♂️": {
+			"translations": {
+				"fr": "Lancer des cailloux sur le canard",
+				"en": "Throw stones at the duck"
+			},
+			"outcomes": [
+				{
+					"translations": {
+						"fr": "Vous profitez d'un moment d’inattention du canard pour saisir une énorme pierre située à proximité de votre emplacement, et la lancez de toutes vos forces sur l'oisif animal. Il disparaît au fond de l'eau sous le poids de la roche. Dépourvu de regrets, vous continuez votre chemin, de bonne humeur.",
+						"en": "You take advantage of a moment of inattention from the duck to grab a huge stone located nearby, and throw it with all your might at the idle bird. It disappears, sinking to the bottom of the water under the weight of the rock. Without feeling any guilt, you continue on your way, overflowing with happiness."
+					}
+				},
+				{
+					"translations": {
+						"fr": "Dès la première pierre jetée, la pauvre créature s'envole. Amusé par le fait de jeter des cailloux, vous vous mettez à faire des ricochets. Dans votre amusement, vous n'avez pas vu le temps passer. Il vous faudra presser le pas pour trouver un lieu où dormir si vous ne voulez pas passer la nuit à la belle étoile !",
+						"en": "As soon as the first stone is thrown, the poor creature flies away. Amused by this act of throwing stones, you start skipping stones on the pond's surface. In such a manner, times passes without your notice. You will have to hurry if you don't want to spend the night underneath the stars!"
+					},
+					"lostTime": 120,
+					"effect": ":clock2:"
+				},
+				{
+					"translations": {
+						"fr": "Vous commencez à lapider le canard qui, épuisé par son vol précédent, ne peut pas prendre la fuite. Tout ce qui passe sous vos mains sert de projectile, qu'il s'agisse de cailloux, bouts de bois, morceaux d'os qui traînaient au sol... Même une de vos sacoches remplies de pièces d'or y passe dans un moment d'inattention. Vous rendant compte de votre erreur, vous vous jetez à l'eau tout habillé pour la chercher. Malheureusement pour vous, vous ne la trouvez pas dans les eaux troubles et vaseuses de l'étang.",
+						"en": "You start to stone the duck who, exhausted from his previous flight, cannot escape. Everything that passes under your hands serves as a projectile, whether it is stones, pieces of wood or even bone lying on the ground... Even one of your bags filled with gold coins goes through in a moment of inattention. Realizing your mistake, you jump into the water fully dressed to look for the precious pouch. Unfortunately for you, you don't find it in the murky, slimy waters of the pond."
+					},
+					"lostTime": 20,
+					"effect": ":clock2:",
+					"money": -500
+				},
+				{
+					"translations": {
+						"fr": "Alors que vous jetez une pierre, l'animal se sentant menacé reprend son envol. Vous rigolez, satisfait de votre méfait. Cependant, vous n'aviez pas remarqué qu'il y avait un groupe d'individus derrière vous. Votre méchanceté leur déplaît et ils décident de vous faire subir le même sort qu'au canard. Vous prenez donc vos jambes à votre cou, protégeant votre tête des cailloux. Vous parvenez finalement à les distancer. En reprenant votre souffle derrière un arbre, vous apercevez par hasard quelques pièces cachées dans son tronc.",
+						"en": "As you throw a stone, the bird, feeling threatened, takes flight again. You laugh, satisfied with your misdeed. However, you failed to notice a group of people, following behind you. Your evil ways disgust them, and they decide to make you suffer the same fate as the duck. You run as fast as you can, protecting your head from the stones. While catching your breath behind a tree, after finally outrunning them, you happen to see some coins hidden in its trunk."
+					},
+					"lostTime": 20,
+					"effect": ":clock2:",
+					"money": 200
+				}
+			]
+		},
+		"end": {
+			"outcomes": [
+				{
+					"translations": {
+						"fr": "🧠 Vous profitez de cette pause pour rêvasser. Peu après, vous décidez qu'il est temps de repartir.",
+						"en": "🧠 You take advantage of this break to daydream. Soon after, you decide it's time to leave."
+					},
+					"lostTime": 10,
+					"effect": ":clock2:"
+				},
+				{
+					"translations": {
+						"fr": "😴 Le bruissement de l'eau, le léger vent frais, l'ombre agréable que vous procurent les arbres ainsi que le caquètement du canard vous apaisent. Le marchand de sable vient de passer alors que le Soleil n'est pas totalement couché.",
+						"en": "😴 The rustling of the water, the light wind, the pleasant shade provided by the trees, as well as the cackle of the duck soothe you. Even though the Sun still hasn't set, you doze off into dreamland."
+					},
+					"effect": ":sleeping:",
+					"health": 10
+				},
+				{
+					"translations": {
+						"fr": "🚶 Vous restez là, perdu dans vos pensées. Le battement d'aile du canard vous fait reprendre vos esprit. Vous décidez de continuer votre route.",
+						"en": "🚶 You stand there, lost in your own thoughts. The loud flapping of the duck's wings brings you back to your senses. You decide to resume your journey."
+					},
+					"lostTime": 5,
+					"effect": ":clock2:"
+				}
+			]
+		}
+	}
+}
